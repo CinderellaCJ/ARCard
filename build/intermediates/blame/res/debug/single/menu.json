@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/chenjing/Documents/anndroid-workspace/ARCard/build/intermediates/res/merged/debug/menu/em_delete_message.xml",
+        "source": "/Users/chenjing/Documents/anndroid-workspace/ARCard/res/menu/em_delete_message.xml"
+    },
+    {
+        "merged": "/Users/chenjing/Documents/anndroid-workspace/ARCard/build/intermediates/res/merged/debug/menu/em_remove_from_blacklist.xml",
+        "source": "/Users/chenjing/Documents/anndroid-workspace/ARCard/res/menu/em_remove_from_blacklist.xml"
+    },
+    {
+        "merged": "/Users/chenjing/Documents/anndroid-workspace/ARcard/build/intermediates/res/merged/debug/menu/em_delete_contact.xml",
+        "source": "/Users/chenjing/Documents/anndroid-workspace/ARcard/res/menu/em_delete_contact.xml"
+    },
+    {
+        "merged": "/Users/chenjing/Documents/anndroid-workspace/ARCard/build/intermediates/res/merged/debug/menu/em_context_contact_list.xml",
+        "source": "/Users/chenjing/Documents/anndroid-workspace/ARCard/res/menu/em_context_contact_list.xml"
+    },
+    {
+        "merged": "/Users/chenjing/Documents/anndroid-workspace/ARcard/build/intermediates/res/merged/debug/menu/em_context_contact_list.xml",
+        "source": "/Users/chenjing/Documents/anndroid-workspace/ARcard/res/menu/em_context_contact_list.xml"
+    },
+    {
+        "merged": "/Users/chenjing/Documents/anndroid-workspace/ARcard/build/intermediates/res/merged/debug/menu/em_delete_message.xml",
+        "source": "/Users/chenjing/Documents/anndroid-workspace/ARcard/res/menu/em_delete_message.xml"
+    },
+    {
+        "merged": "/Users/chenjing/Documents/anndroid-workspace/ARcard/build/intermediates/res/merged/debug/menu/em_remove_from_blacklist.xml",
+        "source": "/Users/chenjing/Documents/anndroid-workspace/ARcard/res/menu/em_remove_from_blacklist.xml"
+    },
+    {
+        "merged": "/Users/chenjing/Documents/anndroid-workspace/ARCard/build/intermediates/res/merged/debug/menu/em_context_tab_contact.xml",
+        "source": "/Users/chenjing/Documents/anndroid-workspace/ARCard/res/menu/em_context_tab_contact.xml"
+    },
+    {
+        "merged": "/Users/chenjing/Documents/anndroid-workspace/ARCard/build/intermediates/res/merged/debug/menu/em_delete_contact.xml",
+        "source": "/Users/chenjing/Documents/anndroid-workspace/ARCard/res/menu/em_delete_contact.xml"
+    },
+    {
+        "merged": "/Users/chenjing/Documents/anndroid-workspace/ARcard/build/intermediates/res/merged/debug/menu/em_context_tab_contact.xml",
+        "source": "/Users/chenjing/Documents/anndroid-workspace/ARcard/res/menu/em_context_tab_contact.xml"
+    }
+]

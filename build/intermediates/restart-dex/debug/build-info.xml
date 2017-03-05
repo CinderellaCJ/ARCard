@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="560dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="14539331324271"
+    token="-243586880372378682"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1154" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="2115" />
+    <task
+        name="verifier"
+        duration="319" />
+
+    <artifact
+        location="/Users/chenjing/Documents/anndroid-workspace/ARCard/build/outputs/apk/ARCard-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="14539331324271"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/chenjing/Documents/anndroid-workspace/ARCard/build/outputs/apk/ARCard-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

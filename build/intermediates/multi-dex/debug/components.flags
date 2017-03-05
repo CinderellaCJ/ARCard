@@ -1,0 +1,302 @@
+-injars /Users/chenjing/Documents/anndroid-workspace/ARcard/build/intermediates/transforms/jarMerging/debug/jars/1/1f/combined.jar
+-outjars /Users/chenjing/Documents/anndroid-workspace/ARcard/build/intermediates/multi-dex/debug/componentClasses.jar
+
+-libraryjars /Users/chenjing/Library/Android/sdk/build-tools/23.0.1/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration /Users/chenjing/Documents/anndroid-workspace/ARcard/build/intermediates/multi-dex/debug/components.flags
+
+
+-keep class com.cj.arcard.DemoApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class com.cj.arcard.ui.MainActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.SplashActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.LoginActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.RegisterActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.ChatActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.AddContactActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.GroupDetailsActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.GroupsActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.ChatRoomDetailsActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.NewGroupActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.ExitGroupDialog {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.GroupPickContactsActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.PickAtUserActivity {
+    <init>();
+}
+
+-keep class com.hyphenate.easeui.ui.EaseBaiduMapActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.NewFriendsMsgActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.ForwardMessageActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.ContextMenuActivity {
+    <init>();
+}
+
+-keep class com.hyphenate.easeui.ui.EaseShowBigImageActivity {
+    <init>();
+}
+
+-keep class com.hyphenate.easeui.ui.EaseShowNormalFileActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.BlacklistActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.PublicGroupsActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.PublicChatRoomsActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.VoiceCallActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.VideoCallActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.GroupSimpleDetailActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.GroupBlacklistActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.GroupSearchMessageActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.PublicGroupsSeachActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.EditActivity {
+    <init>();
+}
+
+-keep class com.hyphenate.easeui.ui.EaseShowVideoActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.ImageGridActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.RecorderVideoActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.DiagnoseActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.OfflinePushNickActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.RobotsActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.UserProfileActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.SetServersActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.OfflinePushSettingsActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.ui.CallOptionActivity {
+    <init>();
+}
+
+-keep class com.easemob.redpacketui.ui.activity.RPRedPacketActivity {
+    <init>();
+}
+
+-keep class com.easemob.redpacketui.ui.activity.RPDetailActivity {
+    <init>();
+}
+
+-keep class com.easemob.redpacketui.ui.activity.RPRecordActivity {
+    <init>();
+}
+
+-keep class com.easemob.redpacketui.ui.activity.RPWebViewActivity {
+    <init>();
+}
+
+-keep class com.easemob.redpacketui.ui.activity.RPChangeActivity {
+    <init>();
+}
+
+-keep class com.easemob.redpacketui.ui.activity.RPBankCardActivity {
+    <init>();
+}
+
+-keep class com.easemob.redpacketui.ui.activity.RPGroupMemberActivity {
+    <init>();
+}
+
+-keep class com.alipay.sdk.app.H5PayActivity {
+    <init>();
+}
+
+-keep class com.easemob.redpacketui.ui.activity.RPTransferActivity {
+    <init>();
+}
+
+-keep class com.easemob.redpacketui.ui.activity.RPTransferDetailActivity {
+    <init>();
+}
+
+-keep class com.cj.arcard.receiver.StartServiceReceiver {
+    <init>();
+}
+
+-keep class com.hyphenate.chat.EMGCMBroadcastReceiver {
+    <init>();
+}
+
+-keep class com.hyphenate.chat.EMGCMListenerService {
+    <init>();
+}
+
+-keep class com.cj.arcard.receiver.GCMPushBroadCast {
+    <init>();
+}
+
+-keep class com.xiaomi.mipush.sdk.PushMessageHandler {
+    <init>();
+}
+
+-keep class com.xiaomi.mipush.sdk.MessageHandleService {
+    <init>();
+}
+
+-keep class com.hyphenate.chat.EMMipushReceiver {
+    <init>();
+}
+
+-keep class com.hyphenate.chat.EMHuaweiPushReceiver {
+    <init>();
+}
+
+-keep class com.huawei.android.pushagent.PushEventReceiver {
+    <init>();
+}
+
+-keep class com.huawei.android.pushagent.PushService {
+    <init>();
+}
+
+-keep class com.umeng.update.net.DownloadingService {
+    <init>();
+}
+
+-keep class com.umeng.update.UpdateDialogActivity {
+    <init>();
+}
+
+-keep class com.hyphenate.chat.EMChatService {
+    <init>();
+}
+
+-keep class com.hyphenate.chat.EMJobService {
+    <init>();
+}
+
+-keep class com.hyphenate.chat.EMMonitorReceiver {
+    <init>();
+}
+
+-keep class com.baidu.location.f {
+    <init>();
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}
