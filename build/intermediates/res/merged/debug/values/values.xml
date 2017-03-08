@@ -65,6 +65,7 @@
     <color name="btn_register_pressed">#00acff</color>
     <color name="btn_white_normal">#f7f8f8</color>
     <color name="btn_white_pressed">#b5b5b6</color>
+    <color name="colorWrite">#ffffff</color>
     <color name="common_bg">#fcfcfc</color>
     <color name="common_bottom_bar_normal_bg">#2d2f31</color>
     <color name="common_bottom_bar_selected_bg">#161718</color>
@@ -375,7 +376,7 @@
     <string name="ali_pay">支付宝支付</string>
     <string name="all_members">All members</string>
     <string name="answer">Answer</string>
-    <string name="app_name">Hyphenate Demo</string>
+    <string name="app_name">ARCard</string>
     <string name="app_slogon">IM as a service</string>
     <string name="are_empty_group_of_news">Clearing messages</string>
     <string name="at_your_in_group">%s @ you in group chat</string>

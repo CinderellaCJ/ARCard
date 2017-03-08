@@ -23,7 +23,7 @@ android {
     buildToolsVersion "23.0.1"
 
     defaultConfig {
-        applicationId "com.hyphenate.arcard"
+        applicationId "com.cj.arcard"
         minSdkVersion 11
         targetSdkVersion 22
         multiDexEnabled true

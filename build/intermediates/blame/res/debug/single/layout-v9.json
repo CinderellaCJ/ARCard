@@ -1,10 +1,6 @@
 [
     {
-        "merged": "/Users/chenjing/Documents/anndroid-workspace/ARcard/build/intermediates/res/merged/debug/layout-v9/umeng_common_download_notification.xml",
-        "source": "/Users/chenjing/Documents/anndroid-workspace/ARcard/res/layout-v9/umeng_common_download_notification.xml"
-    },
-    {
-        "merged": "/Users/chenjing/Documents/anndroid-workspace/ARCard/build/intermediates/res/merged/debug/layout-v9/umeng_common_download_notification.xml",
-        "source": "/Users/chenjing/Documents/anndroid-workspace/ARCard/res/layout-v9/umeng_common_download_notification.xml"
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout-v9\\umeng_common_download_notification.xml",
+        "source": "E:\\app_test\\ARCard\\res\\layout-v9\\umeng_common_download_notification.xml"
     }
 ]

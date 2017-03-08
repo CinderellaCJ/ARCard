@@ -1,830 +1,830 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:2:1-502:12
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:2:1-502:12
 	package
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:4:5-39
-		INJECTED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml
-		INJECTED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:4:5-39
+		INJECTED from E:\app_test\ARCard\AndroidManifest.xml
+		INJECTED from E:\app_test\ARCard\AndroidManifest.xml
 	android:versionName
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:6:5-32
-		INJECTED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml
-		INJECTED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:6:5-32
+		INJECTED from E:\app_test\ARCard\AndroidManifest.xml
+		INJECTED from E:\app_test\ARCard\AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:3:5-51
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:3:5-51
 	android:versionCode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:5:5-29
-		INJECTED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml
-		INJECTED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:5:5-29
+		INJECTED from E:\app_test\ARCard\AndroidManifest.xml
+		INJECTED from E:\app_test\ARCard\AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:2:11-69
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:2:11-69
 uses-sdk
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:8:5-11:59
-MERGED from [com.android.support:multidex:1.0.1] /Users/chenjing/Documents/anndroid-workspace/ARCard/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/AndroidManifest.xml:18:5-42
-MERGED from [ARCard:redpacketlibrary:unspecified] /Users/chenjing/Documents/anndroid-workspace/ARCard/build/intermediates/exploded-aar/ARcard/redpacketlibrary/unspecified/AndroidManifest.xml:7:5-9:41
-MERGED from [ARCard:easeui:unspecified] /Users/chenjing/Documents/anndroid-workspace/ARCard/build/intermediates/exploded-aar/ARcard/easeui/unspecified/AndroidManifest.xml:7:5-9:41
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:8:5-11:59
+MERGED from [com.android.support:multidex:1.0.1] E:\app_test\ARCard\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
+MERGED from [ARCard:redpacketlibrary:unspecified] E:\app_test\ARCard\build\intermediates\exploded-aar\ARcard\redpacketlibrary\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [ARCard:easeui:unspecified] E:\app_test\ARCard\build\intermediates\exploded-aar\ARcard\easeui\unspecified\AndroidManifest.xml:7:5-9:41
 	tools:overrideLibrary
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:11:9-56
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:11:9-56
 	android:targetSdkVersion
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:10:9-38
-		INJECTED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml
-		INJECTED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:10:9-38
+		INJECTED from E:\app_test\ARCard\AndroidManifest.xml
+		INJECTED from E:\app_test\ARCard\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:9:9-35
-		INJECTED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml
-		INJECTED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:9:9-35
+		INJECTED from E:\app_test\ARCard\AndroidManifest.xml
+		INJECTED from E:\app_test\ARCard\AndroidManifest.xml
 uses-permission#android.permission.VIBRATE
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:13:5-66
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:13:5-66
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:13:22-63
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:13:22-63
 uses-permission#android.permission.INTERNET
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:14:5-67
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:14:5-67
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:14:22-64
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:14:22-64
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:15:5-71
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:15:5-71
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:15:22-68
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:15:22-68
 uses-permission#android.permission.CAMERA
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:16:5-65
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:16:5-65
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:16:22-62
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:16:22-62
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:17:5-79
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:17:5-79
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:17:22-76
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:17:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:18:5-81
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:18:5-81
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:18:22-78
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:18:22-78
 uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:19:5-84
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:19:5-84
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:19:22-81
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:19:22-81
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:20:5-79
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:20:5-79
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:20:22-76
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:20:22-76
 uses-permission#android.permission.GET_TASKS
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:21:5-68
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:21:5-68
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:21:22-65
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:21:22-65
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:22:5-76
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:22:5-76
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:22:22-73
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:22:22-73
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:23:5-76
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:23:5-76
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:23:22-73
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:23:22-73
 uses-permission#android.permission.WAKE_LOCK
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:24:5-68
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:24:5-68
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:24:22-65
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:24:22-65
 uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:25:5-80
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:25:5-80
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:25:22-77
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:25:22-77
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:26:5-75
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:26:5-75
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:26:22-72
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:26:22-72
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:27:5-81
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:27:5-81
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:27:22-78
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:27:22-78
 uses-permission#android.permission.USE_CREDENTIALS
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:28:5-74
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:28:5-74
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:28:22-71
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:28:22-71
 uses-permission#com.android.launcher.permission.READ_SETTINGS
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:29:5-85
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:29:5-85
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:29:22-82
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:29:22-82
 uses-permission#android.permission.BROADCAST_STICKY
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:30:5-75
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:30:5-75
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:30:22-72
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:30:22-72
 uses-permission#android.permission.WRITE_SETTINGS
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:31:5-73
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:31:5-73
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:31:22-70
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:31:22-70
 uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:32:5-95
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:32:5-95
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:32:22-92
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:32:22-92
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:35:5-82
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:35:5-82
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:35:22-79
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:35:22-79
 permission#com.hyphenate.chatuidemo.permission.C2D_MESSAGE
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:37:5-39:47
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:37:5-39:47
 	android:protectionLevel
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:39:9-44
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:39:9-44
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:38:9-71
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:38:9-71
 uses-permission#com.hyphenate.chatuidemo.permission.C2D_MESSAGE
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:41:5-87
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:41:5-87
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:41:22-84
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:41:22-84
 permission#com.hyphenate.chatuidemo.permission.MIPUSH_RECEIVE
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:43:5-45:55
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:43:5-45:55
 	android:protectionLevel
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:45:9-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:45:9-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:44:9-74
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:44:9-74
 uses-permission#com.hyphenate.chatuidemo.permission.MIPUSH_RECEIVE
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:47:5-90
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:47:5-90
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:47:22-87
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:47:22-87
 application
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:49:5-500:19
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:49:5-500:19
 	android:label
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:53:9-41
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:53:9-41
 	android:allowBackup
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:51:9-35
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:51:9-35
 	android:icon
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:52:9-48
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:52:9-41
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:50:9-53
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:50:9-53
 activity#com.cj.arcard.ui.MainActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:54:9-59:55
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:54:9-59:55
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:57:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:57:13-49
 	android:launchMode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:56:13-44
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:56:13-44
 	android:windowSoftInputMode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:59:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:59:13-52
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:58:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:58:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:55:13-57
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:55:13-57
 activity#com.cj.arcard.ui.SplashActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:62:9-71:20
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:62:9-71:20
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:64:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:64:13-49
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:65:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:65:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:63:13-59
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:63:13-59
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:66:13-70:29
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:66:13-70:29
 action#android.intent.action.MAIN
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:67:17-69
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:67:17-69
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:67:25-66
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:67:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:69:17-77
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:69:17-77
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:69:27-74
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:69:27-74
 activity#com.cj.arcard.ui.LoginActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:74:9-78:71
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:74:9-78:71
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:76:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:76:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:78:13-68
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:78:13-68
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:77:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:77:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:75:13-58
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:75:13-58
 activity#com.cj.arcard.ui.RegisterActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:81:9-85:71
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:81:9-85:71
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:83:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:83:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:85:13-68
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:85:13-68
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:84:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:84:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:82:13-61
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:82:13-61
 activity#com.cj.arcard.ui.ChatActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:87:9-92:58
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:87:9-92:58
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:90:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:90:13-49
 	android:launchMode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:89:13-44
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:89:13-44
 	android:windowSoftInputMode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:92:13-55
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:92:13-55
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:91:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:91:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:88:13-57
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:88:13-57
 activity#com.cj.arcard.ui.AddContactActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:94:9-98:58
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:94:9-98:58
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:96:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:96:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:98:13-55
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:98:13-55
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:97:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:97:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:95:13-63
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:95:13-63
 activity#com.cj.arcard.ui.GroupDetailsActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:100:9-103:55
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:100:9-103:55
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:102:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:102:13-49
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:103:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:103:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:101:13-65
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:101:13-65
 activity#com.cj.arcard.ui.GroupsActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:105:9-109:55
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:105:9-109:55
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:107:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:107:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:109:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:109:13-52
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:108:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:108:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:106:13-59
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:106:13-59
 activity#com.cj.arcard.ui.ChatRoomDetailsActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:112:9-115:55
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:112:9-115:55
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:114:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:114:13-49
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:115:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:115:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:113:13-68
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:113:13-68
 activity#com.cj.arcard.ui.NewGroupActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:118:9-122:55
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:118:9-122:55
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:120:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:120:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:122:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:122:13-52
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:121:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:121:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:119:13-61
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:119:13-61
 activity#com.cj.arcard.ui.ExitGroupDialog
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:124:9-127:58
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:124:9-127:58
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:126:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:126:13-49
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:127:13-55
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:127:13-55
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:125:13-60
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:125:13-60
 activity#com.cj.arcard.ui.GroupPickContactsActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:129:9-133:55
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:129:9-133:55
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:131:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:131:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:133:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:133:13-52
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:132:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:132:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:130:13-70
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:130:13-70
 activity#com.cj.arcard.ui.PickAtUserActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:134:9-137:55
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:134:9-137:55
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:136:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:136:13-49
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:137:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:137:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:135:13-63
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:135:13-63
 activity#com.hyphenate.easeui.ui.EaseBaiduMapActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:139:9-142:55
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:139:9-142:55
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:141:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:141:13-49
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:142:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:142:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:140:13-72
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:140:13-72
 activity#com.cj.arcard.ui.NewFriendsMsgActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:145:9-148:55
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:145:9-148:55
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:147:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:147:13-49
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:148:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:148:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:146:13-66
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:146:13-66
 activity#com.cj.arcard.ui.ForwardMessageActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:150:9-154:55
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:150:9-154:55
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:152:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:152:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:154:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:154:13-52
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:153:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:153:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:151:13-67
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:151:13-67
 activity#com.cj.arcard.ui.ContextMenuActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:156:9-159:52
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:156:9-159:52
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:158:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:158:13-49
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:159:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:159:13-49
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:157:13-64
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:157:13-64
 activity#com.hyphenate.easeui.ui.EaseShowBigImageActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:161:9-164:55
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:161:9-164:55
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:163:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:163:13-49
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:164:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:164:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:162:13-76
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:162:13-76
 activity#com.hyphenate.easeui.ui.EaseShowNormalFileActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:166:9-169:55
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:166:9-169:55
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:168:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:168:13-49
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:169:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:169:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:167:13-78
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:167:13-78
 activity#com.cj.arcard.ui.BlacklistActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:171:9-174:55
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:171:9-174:55
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:173:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:173:13-49
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:174:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:174:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:172:13-62
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:172:13-62
 activity#com.cj.arcard.ui.PublicGroupsActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:177:9-181:55
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:177:9-181:55
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:179:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:179:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:181:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:181:13-52
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:180:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:180:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:178:13-65
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:178:13-65
 activity#com.cj.arcard.ui.PublicChatRoomsActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:182:9-186:55
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:182:9-186:55
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:184:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:184:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:186:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:186:13-52
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:185:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:185:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:183:13-68
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:183:13-68
 activity#com.cj.arcard.ui.VoiceCallActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:189:9-193:51
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:189:9-193:51
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:192:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:192:13-49
 	android:launchMode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:191:13-44
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:191:13-44
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:193:13-48
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:193:13-48
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:190:13-62
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:190:13-62
 activity#com.cj.arcard.ui.VideoCallActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:195:9-200:55
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:195:9-200:55
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:199:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:199:13-49
 	android:launchMode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:198:13-44
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:198:13-44
 	android:configChanges
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:197:13-74
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:197:13-74
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:200:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:200:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:196:13-62
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:196:13-62
 activity#com.cj.arcard.ui.GroupSimpleDetailActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:202:9-205:55
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:202:9-205:55
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:204:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:204:13-49
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:205:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:205:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:203:13-70
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:203:13-70
 activity#com.cj.arcard.ui.GroupBlacklistActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:207:9-210:55
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:207:9-210:55
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:209:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:209:13-49
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:210:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:210:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:208:13-67
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:208:13-67
 activity#com.cj.arcard.ui.GroupSearchMessageActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:211:9-215:58
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:211:9-215:58
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:213:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:213:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:215:13-55
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:215:13-55
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:214:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:214:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:212:13-71
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:212:13-71
 activity#com.cj.arcard.ui.PublicGroupsSeachActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:216:9-219:55
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:216:9-219:55
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:218:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:218:13-49
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:219:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:219:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:217:13-70
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:217:13-70
 activity#com.cj.arcard.ui.EditActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:220:9-224:58
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:220:9-224:58
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:222:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:222:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:224:13-55
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:224:13-55
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:223:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:223:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:221:13-57
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:221:13-57
 activity#com.hyphenate.easeui.ui.EaseShowVideoActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:225:9-229:63
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:225:9-229:63
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:227:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:227:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:229:13-60
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:229:13-60
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:228:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:228:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:226:13-73
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:226:13-73
 activity#com.cj.arcard.ui.ImageGridActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:231:9-235:63
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:231:9-235:63
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:233:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:233:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:235:13-60
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:235:13-60
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:234:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:234:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:232:13-62
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:232:13-62
 activity#com.cj.arcard.ui.RecorderVideoActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:236:9-240:63
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:236:9-240:63
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:238:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:238:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:240:13-60
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:240:13-60
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:239:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:239:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:237:13-66
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:237:13-66
 activity#com.cj.arcard.ui.DiagnoseActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:242:9-246:63
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:242:9-246:63
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:244:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:244:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:246:13-60
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:246:13-60
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:245:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:245:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:243:13-61
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:243:13-61
 activity#com.cj.arcard.ui.OfflinePushNickActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:249:9-253:63
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:249:9-253:63
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:251:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:251:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:253:13-60
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:253:13-60
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:252:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:252:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:250:13-68
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:250:13-68
 activity#com.cj.arcard.ui.RobotsActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:255:9-259:63
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:255:9-259:63
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:257:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:257:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:259:13-60
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:259:13-60
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:258:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:258:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:256:13-59
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:256:13-59
 activity#com.cj.arcard.ui.UserProfileActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:261:9-264:55
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:261:9-264:55
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:263:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:263:13-49
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:264:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:264:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:262:13-64
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:262:13-64
 activity#com.cj.arcard.ui.SetServersActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:265:9-268:55
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:265:9-268:55
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:267:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:267:13-49
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:268:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:268:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:266:13-63
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:266:13-63
 activity#com.cj.arcard.ui.OfflinePushSettingsActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:269:9-272:55
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:269:9-272:55
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:271:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:271:13-49
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:272:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:272:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:270:13-72
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:270:13-72
 activity#com.cj.arcard.ui.CallOptionActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:276:9-279:55
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:276:9-279:55
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:278:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:278:13-49
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:279:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:279:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:277:13-63
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:277:13-63
 activity#com.easemob.redpacketui.ui.activity.RPRedPacketActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:283:9-287:68
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:283:9-287:68
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:285:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:285:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:287:13-65
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:287:13-65
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:286:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:286:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:284:13-83
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:284:13-83
 activity#com.easemob.redpacketui.ui.activity.RPDetailActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:289:9-293:55
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:289:9-293:55
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:291:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:291:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:293:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:293:13-52
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:292:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:292:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:290:13-80
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:290:13-80
 activity#com.easemob.redpacketui.ui.activity.RPRecordActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:295:9-299:55
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:295:9-299:55
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:297:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:297:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:299:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:299:13-52
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:298:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:298:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:296:13-80
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:296:13-80
 activity#com.easemob.redpacketui.ui.activity.RPWebViewActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:301:9-305:70
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:301:9-305:70
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:303:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:303:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:305:13-67
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:305:13-67
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:304:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:304:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:302:13-81
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:302:13-81
 activity#com.easemob.redpacketui.ui.activity.RPChangeActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:307:9-311:70
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:307:9-311:70
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:309:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:309:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:311:13-67
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:311:13-67
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:310:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:310:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:308:13-80
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:308:13-80
 activity#com.easemob.redpacketui.ui.activity.RPBankCardActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:313:9-317:67
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:313:9-317:67
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:315:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:315:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:317:13-64
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:317:13-64
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:316:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:316:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:314:13-82
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:314:13-82
 activity#com.easemob.redpacketui.ui.activity.RPGroupMemberActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:319:9-323:67
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:319:9-323:67
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:321:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:321:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:323:13-64
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:323:13-64
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:322:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:322:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:320:13-85
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:320:13-85
 activity#com.alipay.sdk.app.H5PayActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:325:9-330:70
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:325:9-330:70
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:329:13-47
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:329:13-47
 	android:exported
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:328:13-37
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:328:13-37
 	android:windowSoftInputMode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:330:13-67
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:330:13-67
 	android:configChanges
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:327:13-85
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:327:13-85
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:326:13-60
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:326:13-60
 activity#com.easemob.redpacketui.ui.activity.RPTransferActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:332:9-336:68
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:332:9-336:68
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:334:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:334:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:336:13-65
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:336:13-65
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:335:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:335:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:333:13-82
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:333:13-82
 activity#com.easemob.redpacketui.ui.activity.RPTransferDetailActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:338:9-342:67
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:338:9-342:67
 	android:screenOrientation
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:340:13-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:340:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:342:13-64
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:342:13-64
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:341:13-52
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:341:13-52
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:339:13-88
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:339:13-88
 receiver#com.cj.arcard.receiver.StartServiceReceiver
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:347:9-354:20
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:347:9-354:20
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:347:19-77
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:347:19-77
 intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.QUICKBOOT_POWERON+android.intent.category.LAUNCHER
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:348:13-353:29
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:348:13-353:29
 	android:priority
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:348:28-51
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:348:28-51
 action#android.intent.action.BOOT_COMPLETED
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:349:17-79
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:349:17-79
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:349:25-76
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:349:25-76
 action#android.intent.action.QUICKBOOT_POWERON
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:350:17-82
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:350:17-82
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:350:25-79
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:350:25-79
 receiver#com.hyphenate.chat.EMGCMBroadcastReceiver
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:357:9-366:20
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:357:9-366:20
 	android:exported
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:359:13-36
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:359:13-36
 	android:permission
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:360:13-73
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:360:13-73
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:358:13-69
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:358:13-69
 intent-filter#com.google.android.c2dm.intent.RECEIVE+com.hyphenate.chatuidemo
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:361:13-365:29
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:361:13-365:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:362:17-81
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:362:17-81
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:362:25-78
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:362:25-78
 category#com.hyphenate.chatuidemo
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:364:17-69
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:364:17-69
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:364:27-66
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:364:27-66
 service#com.hyphenate.chat.EMGCMListenerService
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:368:9-370:40
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:368:9-370:40
 	android:exported
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:370:13-37
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:370:13-37
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:369:13-67
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:369:13-67
 receiver#com.cj.arcard.receiver.GCMPushBroadCast
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:372:9-380:20
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:372:9-380:20
 	android:exported
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:374:13-37
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:374:13-37
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:373:13-67
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:373:13-67
 intent-filter#com.hyphenate.chatuidemo+com.hyphenate.sdk.push
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:375:13-379:29
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:375:13-379:29
 action#com.hyphenate.sdk.push
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:376:17-65
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:376:17-65
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:376:25-62
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:376:25-62
 service#com.xiaomi.mipush.sdk.PushMessageHandler
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:385:9-389:46
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:385:9-389:46
 	android:enabled
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:387:13-35
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:387:13-35
 	android:exported
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:388:13-36
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:388:13-36
 	tools:ignore
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:389:13-43
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:389:13-43
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:386:13-68
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:386:13-68
 service#com.xiaomi.mipush.sdk.MessageHandleService
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:390:9-392:38
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:390:9-392:38
 	android:enabled
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:392:13-35
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:392:13-35
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:391:13-70
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:391:13-70
 receiver#com.hyphenate.chat.EMMipushReceiver
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:394:9-407:20
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:394:9-407:20
 	android:exported
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:396:13-36
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:396:13-36
 	tools:ignore
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:397:13-44
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:397:13-44
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:395:13-63
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:395:13-63
 intent-filter#com.xiaomi.mipush.RECEIVE_MESSAGE
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:398:13-400:29
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:398:13-400:29
 action#com.xiaomi.mipush.RECEIVE_MESSAGE
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:399:17-76
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:399:17-76
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:399:25-73
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:399:25-73
 intent-filter#com.xiaomi.mipush.MESSAGE_ARRIVED
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:401:13-403:29
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:401:13-403:29
 action#com.xiaomi.mipush.MESSAGE_ARRIVED
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:402:17-76
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:402:17-76
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:402:25-73
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:402:25-73
 intent-filter#com.xiaomi.mipush.ERROR
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:404:13-406:29
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:404:13-406:29
 action#com.xiaomi.mipush.ERROR
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:405:17-66
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:405:17-66
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:405:25-63
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:405:25-63
 receiver#com.hyphenate.chat.EMHuaweiPushReceiver
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:412:9-426:20
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:412:9-426:20
 	android:exported
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:414:13-36
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:414:13-36
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:413:13-67
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:413:13-67
 intent-filter#com.huawei.android.push.intent.RECEIVE+com.huawei.android.push.intent.REGISTRATION
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:415:13-421:29
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:415:13-421:29
 action#com.huawei.android.push.intent.REGISTRATION
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:418:17-86
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:418:17-86
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:418:25-83
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:418:25-83
 action#com.huawei.android.push.intent.RECEIVE
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:420:17-81
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:420:17-81
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:420:25-78
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:420:25-78
 meta-data#CS_cloud_ablitity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:423:13-425:56
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:423:13-425:56
 	android:value
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:425:17-53
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:425:17-53
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:424:17-49
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:424:17-49
 receiver#com.huawei.android.pushagent.PushEventReceiver
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:429:9-439:20
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:429:9-439:20
 	android:process
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:432:13-43
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:432:13-43
 	android:exported
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:431:13-36
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:431:13-36
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:430:13-74
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:430:13-74
 intent-filter#com.huawei.android.push.PLUGIN+com.huawei.android.push.intent.REFRESH_PUSH_CHANNEL+com.huawei.intent.action.PUSH+com.huawei.intent.action.PUSH_ON
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:433:13-438:29
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:433:13-438:29
 action#com.huawei.android.push.intent.REFRESH_PUSH_CHANNEL
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:434:17-94
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:434:17-94
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:434:25-91
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:434:25-91
 action#com.huawei.intent.action.PUSH
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:435:17-72
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:435:17-72
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:435:25-69
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:435:25-69
 action#com.huawei.intent.action.PUSH_ON
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:436:17-75
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:436:17-75
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:436:25-72
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:436:25-72
 action#com.huawei.android.push.PLUGIN
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:437:17-73
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:437:17-73
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:437:25-70
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:437:25-70
 service#com.huawei.android.pushagent.PushService
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:442:9-444:46
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:442:9-444:46
 	android:process
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:444:13-43
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:444:13-43
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:443:13-68
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:443:13-68
 service#com.umeng.update.net.DownloadingService
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:448:9-450:53
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:448:9-450:53
 	android:process
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:450:13-50
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:450:13-50
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:449:13-67
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:449:13-67
 activity#com.umeng.update.UpdateDialogActivity
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:452:9-454:75
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:452:9-454:75
 	android:theme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:454:13-72
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:454:13-72
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:453:13-65
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:453:13-65
 meta-data#EASEMOB_APPKEY
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:457:9-459:60
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:457:9-459:60
 	android:value
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:459:13-57
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:459:13-57
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:458:13-42
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:458:13-42
 service#com.hyphenate.chat.EMChatService
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:461:9-464:46
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:461:9-464:46
 	android:exported
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:463:13-36
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:463:13-36
 	tools:ignore
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:464:13-43
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:464:13-43
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:462:13-60
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:462:13-60
 service#com.hyphenate.chat.EMJobService
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:465:9-468:72
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:465:9-468:72
 	android:exported
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:467:13-36
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:467:13-36
 	android:permission
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:468:13-69
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:468:13-69
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:466:13-59
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:466:13-59
 receiver#com.hyphenate.chat.EMMonitorReceiver
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:471:9-482:20
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:471:9-482:20
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:471:19-70
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:471:19-70
 intent-filter#android.intent.action.PACKAGE_REMOVED
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:472:13-476:29
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:472:13-476:29
 action#android.intent.action.PACKAGE_REMOVED
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:473:17-80
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:473:17-80
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:473:25-77
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:473:25-77
 data
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:475:17-50
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:475:17-50
 	android:scheme
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:475:23-47
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:475:23-47
 intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.USER_PRESENT
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:478:13-481:29
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:478:13-481:29
 action#android.intent.action.USER_PRESENT
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:480:17-77
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:480:17-77
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:480:25-74
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:480:25-74
 service#com.baidu.location.f
-ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:485:9-488:41
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:485:9-488:41
 	android:enabled
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:487:13-35
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:487:13-35
 	android:process
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:488:13-38
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:488:13-38
 	android:name
-		ADDED from /Users/chenjing/Documents/anndroid-workspace/ARCard/AndroidManifest.xml:486:13-48
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:486:13-48

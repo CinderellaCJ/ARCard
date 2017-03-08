@@ -534,61 +534,62 @@ containing a value of this type.
         public static final int btn_register_pressed=0x7f0a0013;
         public static final int btn_white_normal=0x7f0a0014;
         public static final int btn_white_pressed=0x7f0a0015;
-        public static final int common_bg=0x7f0a0016;
-        public static final int common_bottom_bar_normal_bg=0x7f0a0017;
-        public static final int common_bottom_bar_selected_bg=0x7f0a0018;
-        public static final int common_botton_bar_blue=0x7f0a0019;
-        public static final int common_top_bar_blue=0x7f0a001a;
-        public static final int divider_list=0x7f0a001b;
-        public static final int em_main_botton_text_color=0x7f0a004c;
-        public static final int emojicon_tab_nomal=0x7f0a001c;
-        public static final int emojicon_tab_selected=0x7f0a001d;
-        public static final int error_item_color=0x7f0a001e;
-        public static final int gray_normal=0x7f0a001f;
-        public static final int gray_pressed=0x7f0a0020;
-        public static final int grid_state_focused=0x7f0a0021;
-        public static final int grid_state_pressed=0x7f0a0022;
-        public static final int holo_blue_bright=0x7f0a0023;
-        public static final int holo_green_light=0x7f0a0024;
-        public static final int holo_orange_light=0x7f0a0025;
-        public static final int holo_red_light=0x7f0a0026;
-        public static final int list_itease_primary_color=0x7f0a0027;
-        public static final int list_itease_secondary_color=0x7f0a0028;
-        public static final int list_item_primary_color=0x7f0a0029;
-        public static final int list_item_secondary_color=0x7f0a002a;
-        public static final int orange=0x7f0a002b;
-        public static final int rp_background_white=0x7f0a002c;
-        public static final int rp_best_luck_yellow=0x7f0a002d;
-        public static final int rp_bg_light_grey=0x7f0a002e;
-        public static final int rp_button_blue=0x7f0a002f;
-        public static final int rp_check_blue=0x7f0a0030;
-        public static final int rp_divider_color=0x7f0a0031;
-        public static final int rp_half_transparent=0x7f0a0032;
-        public static final int rp_light_blue=0x7f0a0033;
-        public static final int rp_money_bg_color=0x7f0a0034;
-        public static final int rp_money_red_light=0x7f0a0035;
-        public static final int rp_money_white=0x7f0a0036;
-        public static final int rp_msg_red=0x7f0a0037;
-        public static final int rp_primary_dark=0x7f0a0038;
-        public static final int rp_switch_packet_red=0x7f0a0039;
-        public static final int rp_text_all_black=0x7f0a003a;
-        public static final int rp_text_black=0x7f0a003b;
-        public static final int rp_text_blue=0x7f0a003c;
-        public static final int rp_text_dark_grey=0x7f0a003d;
-        public static final int rp_text_grey=0x7f0a003e;
-        public static final int rp_text_light_black=0x7f0a003f;
-        public static final int rp_text_light_grey=0x7f0a0040;
-        public static final int rp_text_red_color=0x7f0a0041;
-        public static final int rp_text_transparent_black=0x7f0a0042;
-        public static final int rp_text_unselected=0x7f0a0043;
-        public static final int rp_text_yellow=0x7f0a0044;
-        public static final int rp_title_color=0x7f0a0045;
-        public static final int rp_title_red=0x7f0a0046;
-        public static final int rp_title_transparent_color=0x7f0a0047;
-        public static final int rp_top_red_color=0x7f0a0048;
-        public static final int tab_text_select=0x7f0a0049;
-        public static final int top_bar_normal_bg=0x7f0a004a;
-        public static final int voip_interface_text_color=0x7f0a004b;
+        public static final int colorWrite=0x7f0a0016;
+        public static final int common_bg=0x7f0a0017;
+        public static final int common_bottom_bar_normal_bg=0x7f0a0018;
+        public static final int common_bottom_bar_selected_bg=0x7f0a0019;
+        public static final int common_botton_bar_blue=0x7f0a001a;
+        public static final int common_top_bar_blue=0x7f0a001b;
+        public static final int divider_list=0x7f0a001c;
+        public static final int em_main_botton_text_color=0x7f0a004d;
+        public static final int emojicon_tab_nomal=0x7f0a001d;
+        public static final int emojicon_tab_selected=0x7f0a001e;
+        public static final int error_item_color=0x7f0a001f;
+        public static final int gray_normal=0x7f0a0020;
+        public static final int gray_pressed=0x7f0a0021;
+        public static final int grid_state_focused=0x7f0a0022;
+        public static final int grid_state_pressed=0x7f0a0023;
+        public static final int holo_blue_bright=0x7f0a0024;
+        public static final int holo_green_light=0x7f0a0025;
+        public static final int holo_orange_light=0x7f0a0026;
+        public static final int holo_red_light=0x7f0a0027;
+        public static final int list_itease_primary_color=0x7f0a0028;
+        public static final int list_itease_secondary_color=0x7f0a0029;
+        public static final int list_item_primary_color=0x7f0a002a;
+        public static final int list_item_secondary_color=0x7f0a002b;
+        public static final int orange=0x7f0a002c;
+        public static final int rp_background_white=0x7f0a002d;
+        public static final int rp_best_luck_yellow=0x7f0a002e;
+        public static final int rp_bg_light_grey=0x7f0a002f;
+        public static final int rp_button_blue=0x7f0a0030;
+        public static final int rp_check_blue=0x7f0a0031;
+        public static final int rp_divider_color=0x7f0a0032;
+        public static final int rp_half_transparent=0x7f0a0033;
+        public static final int rp_light_blue=0x7f0a0034;
+        public static final int rp_money_bg_color=0x7f0a0035;
+        public static final int rp_money_red_light=0x7f0a0036;
+        public static final int rp_money_white=0x7f0a0037;
+        public static final int rp_msg_red=0x7f0a0038;
+        public static final int rp_primary_dark=0x7f0a0039;
+        public static final int rp_switch_packet_red=0x7f0a003a;
+        public static final int rp_text_all_black=0x7f0a003b;
+        public static final int rp_text_black=0x7f0a003c;
+        public static final int rp_text_blue=0x7f0a003d;
+        public static final int rp_text_dark_grey=0x7f0a003e;
+        public static final int rp_text_grey=0x7f0a003f;
+        public static final int rp_text_light_black=0x7f0a0040;
+        public static final int rp_text_light_grey=0x7f0a0041;
+        public static final int rp_text_red_color=0x7f0a0042;
+        public static final int rp_text_transparent_black=0x7f0a0043;
+        public static final int rp_text_unselected=0x7f0a0044;
+        public static final int rp_text_yellow=0x7f0a0045;
+        public static final int rp_title_color=0x7f0a0046;
+        public static final int rp_title_red=0x7f0a0047;
+        public static final int rp_title_transparent_color=0x7f0a0048;
+        public static final int rp_top_red_color=0x7f0a0049;
+        public static final int tab_text_select=0x7f0a004a;
+        public static final int top_bar_normal_bg=0x7f0a004b;
+        public static final int voip_interface_text_color=0x7f0a004c;
     }
     public static final class dimen {
         public static final int activity_horizontal_margin=0x7f060002;
@@ -1002,123 +1003,124 @@ containing a value of this type.
         public static final int icon_035_cover=0x7f02013e;
         public static final int icon_040=0x7f02013f;
         public static final int icon_040_cover=0x7f020140;
-        public static final int rp_ad_share=0x7f020141;
-        public static final int rp_ad_success=0x7f020142;
-        public static final int rp_add_card_icon=0x7f020143;
-        public static final int rp_alipay_icon=0x7f020144;
-        public static final int rp_alipay_icon_gray=0x7f020145;
-        public static final int rp_arrow_forward=0x7f020146;
-        public static final int rp_avatar=0x7f020147;
-        public static final int rp_back_arrow_black=0x7f020148;
-        public static final int rp_back_arrow_grey=0x7f020149;
-        public static final int rp_back_arrow_yellow=0x7f02014a;
-        public static final int rp_bg_circular_yellow=0x7f02014b;
-        public static final int rp_btn_blue_enable_shape=0x7f02014c;
-        public static final int rp_btn_blue_no_enable_shape=0x7f02014d;
-        public static final int rp_btn_blue_pressed_shape=0x7f02014e;
-        public static final int rp_btn_blue_selector=0x7f02014f;
-        public static final int rp_btn_cancel_shape=0x7f020150;
-        public static final int rp_btn_grey_normal_shape=0x7f020151;
-        public static final int rp_btn_grey_pressed_shape=0x7f020152;
-        public static final int rp_btn_grey_selector=0x7f020153;
-        public static final int rp_btn_open_normal_shape=0x7f020154;
-        public static final int rp_btn_open_normal_shape_unsolid=0x7f020155;
-        public static final int rp_btn_open_pressed_shape=0x7f020156;
-        public static final int rp_btn_open_pressed_shape_unsolid=0x7f020157;
-        public static final int rp_btn_open_selector=0x7f020158;
-        public static final int rp_btn_open_selector_unsolid=0x7f020159;
-        public static final int rp_btn_red_enable_shape=0x7f02015a;
-        public static final int rp_btn_red_no_enable_shape=0x7f02015b;
-        public static final int rp_btn_red_pressed_shape=0x7f02015c;
-        public static final int rp_btn_red_selector=0x7f02015d;
-        public static final int rp_btn_retry_normal_shape=0x7f02015e;
-        public static final int rp_btn_white_normal_shape=0x7f02015f;
-        public static final int rp_btn_white_pressed_shape=0x7f020160;
-        public static final int rp_btn_white_selector=0x7f020161;
-        public static final int rp_change_details=0x7f020162;
-        public static final int rp_change_icon=0x7f020163;
-        public static final int rp_change_icon_grey=0x7f020164;
-        public static final int rp_closed_icon=0x7f020165;
-        public static final int rp_closed_yellow_icon=0x7f020166;
-        public static final int rp_error_page_icon=0x7f020167;
-        public static final int rp_exclusive_avatar=0x7f020168;
-        public static final int rp_exclusive_icon=0x7f020169;
-        public static final int rp_exclusive_sender_avatar_bg=0x7f02016a;
-        public static final int rp_forget_pwd=0x7f02016b;
-        public static final int rp_group_everyone=0x7f02016c;
-        public static final int rp_icon_best=0x7f02016d;
-        public static final int rp_jd_grey_icon=0x7f02016e;
-        public static final int rp_jd_icon=0x7f02016f;
-        public static final int rp_ll_white_shape=0x7f020170;
-        public static final int rp_load_dark=0x7f020171;
-        public static final int rp_loading_anim=0x7f020172;
-        public static final int rp_loading_bg=0x7f020173;
-        public static final int rp_my_bankcard=0x7f020174;
-        public static final int rp_no_bankcard=0x7f020175;
-        public static final int rp_no_verify_identity=0x7f020176;
-        public static final int rp_open_packet_bg=0x7f020177;
-        public static final int rp_open_packet_shape_corner=0x7f020178;
-        public static final int rp_packet_detail_bg=0x7f020179;
-        public static final int rp_packet_group_detail_bg=0x7f02017a;
-        public static final int rp_pass_authentication=0x7f02017b;
-        public static final int rp_picture_flash_strong=0x7f02017c;
-        public static final int rp_picture_frame_lack=0x7f02017d;
-        public static final int rp_picture_right=0x7f02017e;
-        public static final int rp_picture_vague=0x7f02017f;
-        public static final int rp_pop_bg=0x7f020180;
-        public static final int rp_question_black=0x7f020181;
-        public static final int rp_question_blue=0x7f020182;
-        public static final int rp_question_yellow=0x7f020183;
-        public static final int rp_random_icon=0x7f020184;
-        public static final int rp_red_packet_records=0x7f020185;
-        public static final int rp_refresh=0x7f020186;
-        public static final int rp_search_bar_input=0x7f020187;
-        public static final int rp_search_icon=0x7f020188;
-        public static final int rp_shape_corner=0x7f020189;
-        public static final int rp_shape_white_conner=0x7f02018a;
-        public static final int rp_sidebar_background=0x7f02018b;
-        public static final int rp_small_random_bg=0x7f02018c;
-        public static final int rp_small_random_switch=0x7f02018d;
-        public static final int rp_transfer_success=0x7f02018e;
-        public static final int rp_upload_add=0x7f02018f;
-        public static final int rp_upload_frame=0x7f020190;
-        public static final int rp_user=0x7f020191;
-        public static final int rp_verify_identity=0x7f020192;
-        public static final int rp_wxpay_icon=0x7f020193;
-        public static final int rp_wxpay_icon_gray=0x7f020194;
-        public static final int splash=0x7f020195;
-        public static final int tab_chat_nomal=0x7f020196;
-        public static final int tab_chat_select=0x7f020197;
-        public static final int tab_contact_nomal=0x7f020198;
-        public static final int tab_contact_select=0x7f020199;
-        public static final int tab_home_nomal=0x7f02019a;
-        public static final int tab_home_select=0x7f02019b;
-        public static final int tab_me_nomal=0x7f02019c;
-        public static final int tab_me_select=0x7f02019d;
-        public static final int umeng_common_gradient_green=0x7f02019e;
-        public static final int umeng_common_gradient_orange=0x7f02019f;
-        public static final int umeng_common_gradient_red=0x7f0201a0;
-        public static final int umeng_update_btn_check_off_focused_holo_light=0x7f0201a1;
-        public static final int umeng_update_btn_check_off_holo_light=0x7f0201a2;
-        public static final int umeng_update_btn_check_off_pressed_holo_light=0x7f0201a3;
-        public static final int umeng_update_btn_check_on_focused_holo_light=0x7f0201a4;
-        public static final int umeng_update_btn_check_on_holo_light=0x7f0201a5;
-        public static final int umeng_update_btn_check_on_pressed_holo_light=0x7f0201a6;
-        public static final int umeng_update_button_cancel_bg_focused=0x7f0201a7;
-        public static final int umeng_update_button_cancel_bg_normal=0x7f0201a8;
-        public static final int umeng_update_button_cancel_bg_selector=0x7f0201a9;
-        public static final int umeng_update_button_cancel_bg_tap=0x7f0201aa;
-        public static final int umeng_update_button_check_selector=0x7f0201ab;
-        public static final int umeng_update_button_close_bg_selector=0x7f0201ac;
-        public static final int umeng_update_button_ok_bg_focused=0x7f0201ad;
-        public static final int umeng_update_button_ok_bg_normal=0x7f0201ae;
-        public static final int umeng_update_button_ok_bg_selector=0x7f0201af;
-        public static final int umeng_update_button_ok_bg_tap=0x7f0201b0;
-        public static final int umeng_update_close_bg_normal=0x7f0201b1;
-        public static final int umeng_update_close_bg_tap=0x7f0201b2;
-        public static final int umeng_update_dialog_bg=0x7f0201b3;
-        public static final int umeng_update_title_bg=0x7f0201b4;
-        public static final int umeng_update_wifi_disable=0x7f0201b5;
+        public static final int icon_ar=0x7f020141;
+        public static final int rp_ad_share=0x7f020142;
+        public static final int rp_ad_success=0x7f020143;
+        public static final int rp_add_card_icon=0x7f020144;
+        public static final int rp_alipay_icon=0x7f020145;
+        public static final int rp_alipay_icon_gray=0x7f020146;
+        public static final int rp_arrow_forward=0x7f020147;
+        public static final int rp_avatar=0x7f020148;
+        public static final int rp_back_arrow_black=0x7f020149;
+        public static final int rp_back_arrow_grey=0x7f02014a;
+        public static final int rp_back_arrow_yellow=0x7f02014b;
+        public static final int rp_bg_circular_yellow=0x7f02014c;
+        public static final int rp_btn_blue_enable_shape=0x7f02014d;
+        public static final int rp_btn_blue_no_enable_shape=0x7f02014e;
+        public static final int rp_btn_blue_pressed_shape=0x7f02014f;
+        public static final int rp_btn_blue_selector=0x7f020150;
+        public static final int rp_btn_cancel_shape=0x7f020151;
+        public static final int rp_btn_grey_normal_shape=0x7f020152;
+        public static final int rp_btn_grey_pressed_shape=0x7f020153;
+        public static final int rp_btn_grey_selector=0x7f020154;
+        public static final int rp_btn_open_normal_shape=0x7f020155;
+        public static final int rp_btn_open_normal_shape_unsolid=0x7f020156;
+        public static final int rp_btn_open_pressed_shape=0x7f020157;
+        public static final int rp_btn_open_pressed_shape_unsolid=0x7f020158;
+        public static final int rp_btn_open_selector=0x7f020159;
+        public static final int rp_btn_open_selector_unsolid=0x7f02015a;
+        public static final int rp_btn_red_enable_shape=0x7f02015b;
+        public static final int rp_btn_red_no_enable_shape=0x7f02015c;
+        public static final int rp_btn_red_pressed_shape=0x7f02015d;
+        public static final int rp_btn_red_selector=0x7f02015e;
+        public static final int rp_btn_retry_normal_shape=0x7f02015f;
+        public static final int rp_btn_white_normal_shape=0x7f020160;
+        public static final int rp_btn_white_pressed_shape=0x7f020161;
+        public static final int rp_btn_white_selector=0x7f020162;
+        public static final int rp_change_details=0x7f020163;
+        public static final int rp_change_icon=0x7f020164;
+        public static final int rp_change_icon_grey=0x7f020165;
+        public static final int rp_closed_icon=0x7f020166;
+        public static final int rp_closed_yellow_icon=0x7f020167;
+        public static final int rp_error_page_icon=0x7f020168;
+        public static final int rp_exclusive_avatar=0x7f020169;
+        public static final int rp_exclusive_icon=0x7f02016a;
+        public static final int rp_exclusive_sender_avatar_bg=0x7f02016b;
+        public static final int rp_forget_pwd=0x7f02016c;
+        public static final int rp_group_everyone=0x7f02016d;
+        public static final int rp_icon_best=0x7f02016e;
+        public static final int rp_jd_grey_icon=0x7f02016f;
+        public static final int rp_jd_icon=0x7f020170;
+        public static final int rp_ll_white_shape=0x7f020171;
+        public static final int rp_load_dark=0x7f020172;
+        public static final int rp_loading_anim=0x7f020173;
+        public static final int rp_loading_bg=0x7f020174;
+        public static final int rp_my_bankcard=0x7f020175;
+        public static final int rp_no_bankcard=0x7f020176;
+        public static final int rp_no_verify_identity=0x7f020177;
+        public static final int rp_open_packet_bg=0x7f020178;
+        public static final int rp_open_packet_shape_corner=0x7f020179;
+        public static final int rp_packet_detail_bg=0x7f02017a;
+        public static final int rp_packet_group_detail_bg=0x7f02017b;
+        public static final int rp_pass_authentication=0x7f02017c;
+        public static final int rp_picture_flash_strong=0x7f02017d;
+        public static final int rp_picture_frame_lack=0x7f02017e;
+        public static final int rp_picture_right=0x7f02017f;
+        public static final int rp_picture_vague=0x7f020180;
+        public static final int rp_pop_bg=0x7f020181;
+        public static final int rp_question_black=0x7f020182;
+        public static final int rp_question_blue=0x7f020183;
+        public static final int rp_question_yellow=0x7f020184;
+        public static final int rp_random_icon=0x7f020185;
+        public static final int rp_red_packet_records=0x7f020186;
+        public static final int rp_refresh=0x7f020187;
+        public static final int rp_search_bar_input=0x7f020188;
+        public static final int rp_search_icon=0x7f020189;
+        public static final int rp_shape_corner=0x7f02018a;
+        public static final int rp_shape_white_conner=0x7f02018b;
+        public static final int rp_sidebar_background=0x7f02018c;
+        public static final int rp_small_random_bg=0x7f02018d;
+        public static final int rp_small_random_switch=0x7f02018e;
+        public static final int rp_transfer_success=0x7f02018f;
+        public static final int rp_upload_add=0x7f020190;
+        public static final int rp_upload_frame=0x7f020191;
+        public static final int rp_user=0x7f020192;
+        public static final int rp_verify_identity=0x7f020193;
+        public static final int rp_wxpay_icon=0x7f020194;
+        public static final int rp_wxpay_icon_gray=0x7f020195;
+        public static final int splash=0x7f020196;
+        public static final int tab_chat_nomal=0x7f020197;
+        public static final int tab_chat_select=0x7f020198;
+        public static final int tab_contact_nomal=0x7f020199;
+        public static final int tab_contact_select=0x7f02019a;
+        public static final int tab_home_nomal=0x7f02019b;
+        public static final int tab_home_select=0x7f02019c;
+        public static final int tab_me_nomal=0x7f02019d;
+        public static final int tab_me_select=0x7f02019e;
+        public static final int umeng_common_gradient_green=0x7f02019f;
+        public static final int umeng_common_gradient_orange=0x7f0201a0;
+        public static final int umeng_common_gradient_red=0x7f0201a1;
+        public static final int umeng_update_btn_check_off_focused_holo_light=0x7f0201a2;
+        public static final int umeng_update_btn_check_off_holo_light=0x7f0201a3;
+        public static final int umeng_update_btn_check_off_pressed_holo_light=0x7f0201a4;
+        public static final int umeng_update_btn_check_on_focused_holo_light=0x7f0201a5;
+        public static final int umeng_update_btn_check_on_holo_light=0x7f0201a6;
+        public static final int umeng_update_btn_check_on_pressed_holo_light=0x7f0201a7;
+        public static final int umeng_update_button_cancel_bg_focused=0x7f0201a8;
+        public static final int umeng_update_button_cancel_bg_normal=0x7f0201a9;
+        public static final int umeng_update_button_cancel_bg_selector=0x7f0201aa;
+        public static final int umeng_update_button_cancel_bg_tap=0x7f0201ab;
+        public static final int umeng_update_button_check_selector=0x7f0201ac;
+        public static final int umeng_update_button_close_bg_selector=0x7f0201ad;
+        public static final int umeng_update_button_ok_bg_focused=0x7f0201ae;
+        public static final int umeng_update_button_ok_bg_normal=0x7f0201af;
+        public static final int umeng_update_button_ok_bg_selector=0x7f0201b0;
+        public static final int umeng_update_button_ok_bg_tap=0x7f0201b1;
+        public static final int umeng_update_close_bg_normal=0x7f0201b2;
+        public static final int umeng_update_close_bg_tap=0x7f0201b3;
+        public static final int umeng_update_dialog_bg=0x7f0201b4;
+        public static final int umeng_update_title_bg=0x7f0201b5;
+        public static final int umeng_update_wifi_disable=0x7f0201b6;
     }
     public static final class id {
         public static final int activity_offline_push_settings=0x7f0b000a;
@@ -2677,8 +2679,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ContactItemView_contactItemImage com.hyphenate.arcard:contactItemImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #ContactItemView_contactItemName com.hyphenate.arcard:contactItemName}</code></td><td></td></tr>
+           <tr><td><code>{@link #ContactItemView_contactItemImage com.cj.arcard:contactItemImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #ContactItemView_contactItemName com.cj.arcard:contactItemName}</code></td><td></td></tr>
            </table>
            @see #ContactItemView_contactItemImage
            @see #ContactItemView_contactItemName
@@ -2687,17 +2689,17 @@ containing a value of this type.
             0x7f010000, 0x7f010001
         };
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#contactItemImage}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#contactItemImage}
           attribute's value can be found in the {@link #ContactItemView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.hyphenate.arcard:contactItemImage
+          @attr name com.cj.arcard:contactItemImage
         */
         public static final int ContactItemView_contactItemImage = 0;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#contactItemName}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#contactItemName}
           attribute's value can be found in the {@link #ContactItemView} array.
 
 
@@ -2707,7 +2709,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:contactItemName
+          @attr name com.cj.arcard:contactItemName
         */
         public static final int ContactItemView_contactItemName = 1;
         /** Attributes that can be used with a EaseChatExtendMenu.
@@ -2716,7 +2718,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #EaseChatExtendMenu_numColumns com.hyphenate.arcard:numColumns}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseChatExtendMenu_numColumns com.cj.arcard:numColumns}</code></td><td></td></tr>
            </table>
            @see #EaseChatExtendMenu_numColumns
          */
@@ -2724,7 +2726,7 @@ containing a value of this type.
             0x7f010002
         };
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#numColumns}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#numColumns}
           attribute's value can be found in the {@link #EaseChatExtendMenu} array.
 
 
@@ -2734,7 +2736,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:numColumns
+          @attr name com.cj.arcard:numColumns
         */
         public static final int EaseChatExtendMenu_numColumns = 0;
         /** Attributes that can be used with a EaseChatMessageList.
@@ -2743,10 +2745,10 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #EaseChatMessageList_msgListMyBubbleBackground com.hyphenate.arcard:msgListMyBubbleBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseChatMessageList_msgListOtherBubbleBackground com.hyphenate.arcard:msgListOtherBubbleBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseChatMessageList_msgListShowUserAvatar com.hyphenate.arcard:msgListShowUserAvatar}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseChatMessageList_msgListShowUserNick com.hyphenate.arcard:msgListShowUserNick}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseChatMessageList_msgListMyBubbleBackground com.cj.arcard:msgListMyBubbleBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseChatMessageList_msgListOtherBubbleBackground com.cj.arcard:msgListOtherBubbleBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseChatMessageList_msgListShowUserAvatar com.cj.arcard:msgListShowUserAvatar}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseChatMessageList_msgListShowUserNick com.cj.arcard:msgListShowUserNick}</code></td><td></td></tr>
            </table>
            @see #EaseChatMessageList_msgListMyBubbleBackground
            @see #EaseChatMessageList_msgListOtherBubbleBackground
@@ -2757,27 +2759,27 @@ containing a value of this type.
             0x7f010003, 0x7f010004, 0x7f010005, 0x7f010006
         };
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#msgListMyBubbleBackground}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#msgListMyBubbleBackground}
           attribute's value can be found in the {@link #EaseChatMessageList} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.hyphenate.arcard:msgListMyBubbleBackground
+          @attr name com.cj.arcard:msgListMyBubbleBackground
         */
         public static final int EaseChatMessageList_msgListMyBubbleBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#msgListOtherBubbleBackground}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#msgListOtherBubbleBackground}
           attribute's value can be found in the {@link #EaseChatMessageList} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.hyphenate.arcard:msgListOtherBubbleBackground
+          @attr name com.cj.arcard:msgListOtherBubbleBackground
         */
         public static final int EaseChatMessageList_msgListOtherBubbleBackground = 1;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#msgListShowUserAvatar}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#msgListShowUserAvatar}
           attribute's value can be found in the {@link #EaseChatMessageList} array.
 
 
@@ -2787,11 +2789,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:msgListShowUserAvatar
+          @attr name com.cj.arcard:msgListShowUserAvatar
         */
         public static final int EaseChatMessageList_msgListShowUserAvatar = 2;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#msgListShowUserNick}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#msgListShowUserNick}
           attribute's value can be found in the {@link #EaseChatMessageList} array.
 
 
@@ -2801,7 +2803,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:msgListShowUserNick
+          @attr name com.cj.arcard:msgListShowUserNick
         */
         public static final int EaseChatMessageList_msgListShowUserNick = 3;
         /** Attributes that can be used with a EaseContactList.
@@ -2810,11 +2812,11 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #EaseContactList_ctsListInitialLetterBg com.hyphenate.arcard:ctsListInitialLetterBg}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseContactList_ctsListInitialLetterColor com.hyphenate.arcard:ctsListInitialLetterColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseContactList_ctsListPrimaryTextColor com.hyphenate.arcard:ctsListPrimaryTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseContactList_ctsListPrimaryTextSize com.hyphenate.arcard:ctsListPrimaryTextSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseContactList_ctsListShowSiderBar com.hyphenate.arcard:ctsListShowSiderBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseContactList_ctsListInitialLetterBg com.cj.arcard:ctsListInitialLetterBg}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseContactList_ctsListInitialLetterColor com.cj.arcard:ctsListInitialLetterColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseContactList_ctsListPrimaryTextColor com.cj.arcard:ctsListPrimaryTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseContactList_ctsListPrimaryTextSize com.cj.arcard:ctsListPrimaryTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseContactList_ctsListShowSiderBar com.cj.arcard:ctsListShowSiderBar}</code></td><td></td></tr>
            </table>
            @see #EaseContactList_ctsListInitialLetterBg
            @see #EaseContactList_ctsListInitialLetterColor
@@ -2827,7 +2829,7 @@ containing a value of this type.
             0x7f01000b
         };
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#ctsListInitialLetterBg}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#ctsListInitialLetterBg}
           attribute's value can be found in the {@link #EaseContactList} array.
 
 
@@ -2835,11 +2837,11 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.hyphenate.arcard:ctsListInitialLetterBg
+          @attr name com.cj.arcard:ctsListInitialLetterBg
         */
         public static final int EaseContactList_ctsListInitialLetterBg = 3;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#ctsListInitialLetterColor}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#ctsListInitialLetterColor}
           attribute's value can be found in the {@link #EaseContactList} array.
 
 
@@ -2850,11 +2852,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:ctsListInitialLetterColor
+          @attr name com.cj.arcard:ctsListInitialLetterColor
         */
         public static final int EaseContactList_ctsListInitialLetterColor = 4;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#ctsListPrimaryTextColor}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#ctsListPrimaryTextColor}
           attribute's value can be found in the {@link #EaseContactList} array.
 
 
@@ -2865,11 +2867,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:ctsListPrimaryTextColor
+          @attr name com.cj.arcard:ctsListPrimaryTextColor
         */
         public static final int EaseContactList_ctsListPrimaryTextColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#ctsListPrimaryTextSize}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#ctsListPrimaryTextSize}
           attribute's value can be found in the {@link #EaseContactList} array.
 
 
@@ -2881,11 +2883,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:ctsListPrimaryTextSize
+          @attr name com.cj.arcard:ctsListPrimaryTextSize
         */
         public static final int EaseContactList_ctsListPrimaryTextSize = 1;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#ctsListShowSiderBar}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#ctsListShowSiderBar}
           attribute's value can be found in the {@link #EaseContactList} array.
 
 
@@ -2895,7 +2897,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:ctsListShowSiderBar
+          @attr name com.cj.arcard:ctsListShowSiderBar
         */
         public static final int EaseContactList_ctsListShowSiderBar = 2;
         /** Attributes that can be used with a EaseConversationList.
@@ -2904,12 +2906,12 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #EaseConversationList_cvsListPrimaryTextColor com.hyphenate.arcard:cvsListPrimaryTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseConversationList_cvsListPrimaryTextSize com.hyphenate.arcard:cvsListPrimaryTextSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseConversationList_cvsListSecondaryTextColor com.hyphenate.arcard:cvsListSecondaryTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseConversationList_cvsListSecondaryTextSize com.hyphenate.arcard:cvsListSecondaryTextSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseConversationList_cvsListTimeTextColor com.hyphenate.arcard:cvsListTimeTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseConversationList_cvsListTimeTextSize com.hyphenate.arcard:cvsListTimeTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseConversationList_cvsListPrimaryTextColor com.cj.arcard:cvsListPrimaryTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseConversationList_cvsListPrimaryTextSize com.cj.arcard:cvsListPrimaryTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseConversationList_cvsListSecondaryTextColor com.cj.arcard:cvsListSecondaryTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseConversationList_cvsListSecondaryTextSize com.cj.arcard:cvsListSecondaryTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseConversationList_cvsListTimeTextColor com.cj.arcard:cvsListTimeTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseConversationList_cvsListTimeTextSize com.cj.arcard:cvsListTimeTextSize}</code></td><td></td></tr>
            </table>
            @see #EaseConversationList_cvsListPrimaryTextColor
            @see #EaseConversationList_cvsListPrimaryTextSize
@@ -2923,7 +2925,7 @@ containing a value of this type.
             0x7f010010, 0x7f010011
         };
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#cvsListPrimaryTextColor}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#cvsListPrimaryTextColor}
           attribute's value can be found in the {@link #EaseConversationList} array.
 
 
@@ -2934,11 +2936,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:cvsListPrimaryTextColor
+          @attr name com.cj.arcard:cvsListPrimaryTextColor
         */
         public static final int EaseConversationList_cvsListPrimaryTextColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#cvsListPrimaryTextSize}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#cvsListPrimaryTextSize}
           attribute's value can be found in the {@link #EaseConversationList} array.
 
 
@@ -2950,11 +2952,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:cvsListPrimaryTextSize
+          @attr name com.cj.arcard:cvsListPrimaryTextSize
         */
         public static final int EaseConversationList_cvsListPrimaryTextSize = 3;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#cvsListSecondaryTextColor}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#cvsListSecondaryTextColor}
           attribute's value can be found in the {@link #EaseConversationList} array.
 
 
@@ -2965,11 +2967,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:cvsListSecondaryTextColor
+          @attr name com.cj.arcard:cvsListSecondaryTextColor
         */
         public static final int EaseConversationList_cvsListSecondaryTextColor = 1;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#cvsListSecondaryTextSize}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#cvsListSecondaryTextSize}
           attribute's value can be found in the {@link #EaseConversationList} array.
 
 
@@ -2981,11 +2983,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:cvsListSecondaryTextSize
+          @attr name com.cj.arcard:cvsListSecondaryTextSize
         */
         public static final int EaseConversationList_cvsListSecondaryTextSize = 4;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#cvsListTimeTextColor}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#cvsListTimeTextColor}
           attribute's value can be found in the {@link #EaseConversationList} array.
 
 
@@ -2996,11 +2998,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:cvsListTimeTextColor
+          @attr name com.cj.arcard:cvsListTimeTextColor
         */
         public static final int EaseConversationList_cvsListTimeTextColor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#cvsListTimeTextSize}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#cvsListTimeTextSize}
           attribute's value can be found in the {@link #EaseConversationList} array.
 
 
@@ -3012,7 +3014,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:cvsListTimeTextSize
+          @attr name com.cj.arcard:cvsListTimeTextSize
         */
         public static final int EaseConversationList_cvsListTimeTextSize = 5;
         /** Attributes that can be used with a EaseEmojiconMenu.
@@ -3021,8 +3023,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #EaseEmojiconMenu_bigEmojiconRows com.hyphenate.arcard:bigEmojiconRows}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseEmojiconMenu_emojiconColumns com.hyphenate.arcard:emojiconColumns}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseEmojiconMenu_bigEmojiconRows com.cj.arcard:bigEmojiconRows}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseEmojiconMenu_emojiconColumns com.cj.arcard:emojiconColumns}</code></td><td></td></tr>
            </table>
            @see #EaseEmojiconMenu_bigEmojiconRows
            @see #EaseEmojiconMenu_emojiconColumns
@@ -3031,7 +3033,7 @@ containing a value of this type.
             0x7f010012, 0x7f010013
         };
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#bigEmojiconRows}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#bigEmojiconRows}
           attribute's value can be found in the {@link #EaseEmojiconMenu} array.
 
 
@@ -3041,11 +3043,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:bigEmojiconRows
+          @attr name com.cj.arcard:bigEmojiconRows
         */
         public static final int EaseEmojiconMenu_bigEmojiconRows = 0;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#emojiconColumns}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#emojiconColumns}
           attribute's value can be found in the {@link #EaseEmojiconMenu} array.
 
 
@@ -3055,7 +3057,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:emojiconColumns
+          @attr name com.cj.arcard:emojiconColumns
         */
         public static final int EaseEmojiconMenu_emojiconColumns = 1;
         /** Attributes that can be used with a EaseImageView.
@@ -3064,12 +3066,12 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #EaseImageView_ease_border_color com.hyphenate.arcard:ease_border_color}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseImageView_ease_border_width com.hyphenate.arcard:ease_border_width}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseImageView_ease_press_alpha com.hyphenate.arcard:ease_press_alpha}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseImageView_ease_press_color com.hyphenate.arcard:ease_press_color}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseImageView_ease_radius com.hyphenate.arcard:ease_radius}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseImageView_ease_shape_type com.hyphenate.arcard:ease_shape_type}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseImageView_ease_border_color com.cj.arcard:ease_border_color}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseImageView_ease_border_width com.cj.arcard:ease_border_width}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseImageView_ease_press_alpha com.cj.arcard:ease_press_alpha}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseImageView_ease_press_color com.cj.arcard:ease_press_color}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseImageView_ease_radius com.cj.arcard:ease_radius}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseImageView_ease_shape_type com.cj.arcard:ease_shape_type}</code></td><td></td></tr>
            </table>
            @see #EaseImageView_ease_border_color
            @see #EaseImageView_ease_border_width
@@ -3083,7 +3085,7 @@ containing a value of this type.
             0x7f010018, 0x7f010019
         };
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#ease_border_color}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#ease_border_color}
           attribute's value can be found in the {@link #EaseImageView} array.
 
 
@@ -3094,11 +3096,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:ease_border_color
+          @attr name com.cj.arcard:ease_border_color
         */
         public static final int EaseImageView_ease_border_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#ease_border_width}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#ease_border_width}
           attribute's value can be found in the {@link #EaseImageView} array.
 
 
@@ -3110,11 +3112,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:ease_border_width
+          @attr name com.cj.arcard:ease_border_width
         */
         public static final int EaseImageView_ease_border_width = 1;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#ease_press_alpha}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#ease_press_alpha}
           attribute's value can be found in the {@link #EaseImageView} array.
 
 
@@ -3124,11 +3126,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:ease_press_alpha
+          @attr name com.cj.arcard:ease_press_alpha
         */
         public static final int EaseImageView_ease_press_alpha = 2;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#ease_press_color}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#ease_press_color}
           attribute's value can be found in the {@link #EaseImageView} array.
 
 
@@ -3139,11 +3141,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:ease_press_color
+          @attr name com.cj.arcard:ease_press_color
         */
         public static final int EaseImageView_ease_press_color = 3;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#ease_radius}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#ease_radius}
           attribute's value can be found in the {@link #EaseImageView} array.
 
 
@@ -3155,11 +3157,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:ease_radius
+          @attr name com.cj.arcard:ease_radius
         */
         public static final int EaseImageView_ease_radius = 4;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#ease_shape_type}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#ease_shape_type}
           attribute's value can be found in the {@link #EaseImageView} array.
 
 
@@ -3173,7 +3175,7 @@ containing a value of this type.
 <tr><td><code>round</code></td><td>1</td><td></td></tr>
 <tr><td><code>rectangle</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.hyphenate.arcard:ease_shape_type
+          @attr name com.cj.arcard:ease_shape_type
         */
         public static final int EaseImageView_ease_shape_type = 5;
         /** Attributes that can be used with a EaseSwitchButton.
@@ -3182,9 +3184,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #EaseSwitchButton_switchCloseImage com.hyphenate.arcard:switchCloseImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseSwitchButton_switchOpenImage com.hyphenate.arcard:switchOpenImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseSwitchButton_switchStatus com.hyphenate.arcard:switchStatus}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseSwitchButton_switchCloseImage com.cj.arcard:switchCloseImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseSwitchButton_switchOpenImage com.cj.arcard:switchOpenImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseSwitchButton_switchStatus com.cj.arcard:switchStatus}</code></td><td></td></tr>
            </table>
            @see #EaseSwitchButton_switchCloseImage
            @see #EaseSwitchButton_switchOpenImage
@@ -3194,27 +3196,27 @@ containing a value of this type.
             0x7f01001a, 0x7f01001b, 0x7f01001c
         };
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#switchCloseImage}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#switchCloseImage}
           attribute's value can be found in the {@link #EaseSwitchButton} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.hyphenate.arcard:switchCloseImage
+          @attr name com.cj.arcard:switchCloseImage
         */
         public static final int EaseSwitchButton_switchCloseImage = 1;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#switchOpenImage}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#switchOpenImage}
           attribute's value can be found in the {@link #EaseSwitchButton} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.hyphenate.arcard:switchOpenImage
+          @attr name com.cj.arcard:switchOpenImage
         */
         public static final int EaseSwitchButton_switchOpenImage = 0;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#switchStatus}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#switchStatus}
           attribute's value can be found in the {@link #EaseSwitchButton} array.
 
 
@@ -3227,7 +3229,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>open</code></td><td>0</td><td></td></tr>
 <tr><td><code>close</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.hyphenate.arcard:switchStatus
+          @attr name com.cj.arcard:switchStatus
         */
         public static final int EaseSwitchButton_switchStatus = 2;
         /** Attributes that can be used with a EaseTitleBar.
@@ -3236,10 +3238,10 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #EaseTitleBar_titleBarBackground com.hyphenate.arcard:titleBarBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseTitleBar_titleBarLeftImage com.hyphenate.arcard:titleBarLeftImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseTitleBar_titleBarRightImage com.hyphenate.arcard:titleBarRightImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #EaseTitleBar_titleBarTitle com.hyphenate.arcard:titleBarTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseTitleBar_titleBarBackground com.cj.arcard:titleBarBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseTitleBar_titleBarLeftImage com.cj.arcard:titleBarLeftImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseTitleBar_titleBarRightImage com.cj.arcard:titleBarRightImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #EaseTitleBar_titleBarTitle com.cj.arcard:titleBarTitle}</code></td><td></td></tr>
            </table>
            @see #EaseTitleBar_titleBarBackground
            @see #EaseTitleBar_titleBarLeftImage
@@ -3250,7 +3252,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01001d, 0x7f01001e, 0x7f01001f, 0x7f010020
         };
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#titleBarBackground}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#titleBarBackground}
           attribute's value can be found in the {@link #EaseTitleBar} array.
 
 
@@ -3258,31 +3260,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.hyphenate.arcard:titleBarBackground
+          @attr name com.cj.arcard:titleBarBackground
         */
         public static final int EaseTitleBar_titleBarBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#titleBarLeftImage}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#titleBarLeftImage}
           attribute's value can be found in the {@link #EaseTitleBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.hyphenate.arcard:titleBarLeftImage
+          @attr name com.cj.arcard:titleBarLeftImage
         */
         public static final int EaseTitleBar_titleBarLeftImage = 1;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#titleBarRightImage}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#titleBarRightImage}
           attribute's value can be found in the {@link #EaseTitleBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.hyphenate.arcard:titleBarRightImage
+          @attr name com.cj.arcard:titleBarRightImage
         */
         public static final int EaseTitleBar_titleBarRightImage = 2;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#titleBarTitle}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#titleBarTitle}
           attribute's value can be found in the {@link #EaseTitleBar} array.
 
 
@@ -3292,7 +3294,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:titleBarTitle
+          @attr name com.cj.arcard:titleBarTitle
         */
         public static final int EaseTitleBar_titleBarTitle = 0;
         /** Attributes that can be used with a RPRecyclerView.
@@ -3301,10 +3303,10 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RPRecyclerView_RPlayoutManager com.hyphenate.arcard:RPlayoutManager}</code></td><td></td></tr>
-           <tr><td><code>{@link #RPRecyclerView_RPreverseLayout com.hyphenate.arcard:RPreverseLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #RPRecyclerView_RPspanCount com.hyphenate.arcard:RPspanCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #RPRecyclerView_RPstackFromEnd com.hyphenate.arcard:RPstackFromEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #RPRecyclerView_RPlayoutManager com.cj.arcard:RPlayoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RPRecyclerView_RPreverseLayout com.cj.arcard:RPreverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RPRecyclerView_RPspanCount com.cj.arcard:RPspanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RPRecyclerView_RPstackFromEnd com.cj.arcard:RPstackFromEnd}</code></td><td></td></tr>
            <tr><td><code>{@link #RPRecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
            </table>
            @see #RPRecyclerView_RPlayoutManager
@@ -3318,7 +3320,7 @@ containing a value of this type.
             0x7f010024
         };
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#RPlayoutManager}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#RPlayoutManager}
           attribute's value can be found in the {@link #RPRecyclerView} array.
 
 
@@ -3328,11 +3330,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:RPlayoutManager
+          @attr name com.cj.arcard:RPlayoutManager
         */
         public static final int RPRecyclerView_RPlayoutManager = 1;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#RPreverseLayout}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#RPreverseLayout}
           attribute's value can be found in the {@link #RPRecyclerView} array.
 
 
@@ -3342,11 +3344,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:RPreverseLayout
+          @attr name com.cj.arcard:RPreverseLayout
         */
         public static final int RPRecyclerView_RPreverseLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#RPspanCount}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#RPspanCount}
           attribute's value can be found in the {@link #RPRecyclerView} array.
 
 
@@ -3356,11 +3358,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:RPspanCount
+          @attr name com.cj.arcard:RPspanCount
         */
         public static final int RPRecyclerView_RPspanCount = 2;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#RPstackFromEnd}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#RPstackFromEnd}
           attribute's value can be found in the {@link #RPRecyclerView} array.
 
 
@@ -3370,7 +3372,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:RPstackFromEnd
+          @attr name com.cj.arcard:RPstackFromEnd
         */
         public static final int RPRecyclerView_RPstackFromEnd = 4;
         /**
@@ -3385,10 +3387,10 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RPRoundCard_RPCardBgColor com.hyphenate.arcard:RPCardBgColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #RPRoundCard_RPCardBgImg com.hyphenate.arcard:RPCardBgImg}</code></td><td></td></tr>
-           <tr><td><code>{@link #RPRoundCard_RPCardBgType com.hyphenate.arcard:RPCardBgType}</code></td><td></td></tr>
-           <tr><td><code>{@link #RPRoundCard_RPCardRadius com.hyphenate.arcard:RPCardRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #RPRoundCard_RPCardBgColor com.cj.arcard:RPCardBgColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #RPRoundCard_RPCardBgImg com.cj.arcard:RPCardBgImg}</code></td><td></td></tr>
+           <tr><td><code>{@link #RPRoundCard_RPCardBgType com.cj.arcard:RPCardBgType}</code></td><td></td></tr>
+           <tr><td><code>{@link #RPRoundCard_RPCardRadius com.cj.arcard:RPCardRadius}</code></td><td></td></tr>
            </table>
            @see #RPRoundCard_RPCardBgColor
            @see #RPRoundCard_RPCardBgImg
@@ -3399,7 +3401,7 @@ containing a value of this type.
             0x7f010025, 0x7f010026, 0x7f010027, 0x7f010028
         };
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#RPCardBgColor}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#RPCardBgColor}
           attribute's value can be found in the {@link #RPRoundCard} array.
 
 
@@ -3407,21 +3409,21 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.hyphenate.arcard:RPCardBgColor
+          @attr name com.cj.arcard:RPCardBgColor
         */
         public static final int RPRoundCard_RPCardBgColor = 1;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#RPCardBgImg}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#RPCardBgImg}
           attribute's value can be found in the {@link #RPRoundCard} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.hyphenate.arcard:RPCardBgImg
+          @attr name com.cj.arcard:RPCardBgImg
         */
         public static final int RPRoundCard_RPCardBgImg = 0;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#RPCardBgType}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#RPCardBgType}
           attribute's value can be found in the {@link #RPRoundCard} array.
 
 
@@ -3431,11 +3433,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:RPCardBgType
+          @attr name com.cj.arcard:RPCardBgType
         */
         public static final int RPRoundCard_RPCardBgType = 3;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#RPCardRadius}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#RPCardRadius}
           attribute's value can be found in the {@link #RPRoundCard} array.
 
 
@@ -3447,7 +3449,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:RPCardRadius
+          @attr name com.cj.arcard:RPCardRadius
         */
         public static final int RPRoundCard_RPCardRadius = 2;
         /** Attributes that can be used with a app.
@@ -3456,18 +3458,18 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #app_RPleftImage com.hyphenate.arcard:RPleftImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #app_RPmytitle com.hyphenate.arcard:RPmytitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #app_RPrightImage com.hyphenate.arcard:RPrightImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #app_RPrightText com.hyphenate.arcard:RPrightText}</code></td><td></td></tr>
-           <tr><td><code>{@link #app_RPrightTextColor com.hyphenate.arcard:RPrightTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #app_RPrightTextSize com.hyphenate.arcard:RPrightTextSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #app_RPsubTitleText com.hyphenate.arcard:RPsubTitleText}</code></td><td></td></tr>
-           <tr><td><code>{@link #app_RPsubTitleTextColor com.hyphenate.arcard:RPsubTitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #app_RPsubTitleTextSize com.hyphenate.arcard:RPsubTitleTextSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #app_RPtitleBackground com.hyphenate.arcard:RPtitleBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #app_RPtitleTextColor com.hyphenate.arcard:RPtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #app_RPtitleTextSize com.hyphenate.arcard:RPtitleTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #app_RPleftImage com.cj.arcard:RPleftImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #app_RPmytitle com.cj.arcard:RPmytitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #app_RPrightImage com.cj.arcard:RPrightImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #app_RPrightText com.cj.arcard:RPrightText}</code></td><td></td></tr>
+           <tr><td><code>{@link #app_RPrightTextColor com.cj.arcard:RPrightTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #app_RPrightTextSize com.cj.arcard:RPrightTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #app_RPsubTitleText com.cj.arcard:RPsubTitleText}</code></td><td></td></tr>
+           <tr><td><code>{@link #app_RPsubTitleTextColor com.cj.arcard:RPsubTitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #app_RPsubTitleTextSize com.cj.arcard:RPsubTitleTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #app_RPtitleBackground com.cj.arcard:RPtitleBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #app_RPtitleTextColor com.cj.arcard:RPtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #app_RPtitleTextSize com.cj.arcard:RPtitleTextSize}</code></td><td></td></tr>
            </table>
            @see #app_RPleftImage
            @see #app_RPmytitle
@@ -3488,17 +3490,17 @@ containing a value of this type.
             0x7f010031, 0x7f010032, 0x7f010033, 0x7f010034
         };
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#RPleftImage}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#RPleftImage}
           attribute's value can be found in the {@link #app} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.hyphenate.arcard:RPleftImage
+          @attr name com.cj.arcard:RPleftImage
         */
         public static final int app_RPleftImage = 1;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#RPmytitle}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#RPmytitle}
           attribute's value can be found in the {@link #app} array.
 
 
@@ -3508,21 +3510,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:RPmytitle
+          @attr name com.cj.arcard:RPmytitle
         */
         public static final int app_RPmytitle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#RPrightImage}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#RPrightImage}
           attribute's value can be found in the {@link #app} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.hyphenate.arcard:RPrightImage
+          @attr name com.cj.arcard:RPrightImage
         */
         public static final int app_RPrightImage = 2;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#RPrightText}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#RPrightText}
           attribute's value can be found in the {@link #app} array.
 
 
@@ -3532,11 +3534,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:RPrightText
+          @attr name com.cj.arcard:RPrightText
         */
         public static final int app_RPrightText = 3;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#RPrightTextColor}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#RPrightTextColor}
           attribute's value can be found in the {@link #app} array.
 
 
@@ -3544,11 +3546,11 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.hyphenate.arcard:RPrightTextColor
+          @attr name com.cj.arcard:RPrightTextColor
         */
         public static final int app_RPrightTextColor = 4;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#RPrightTextSize}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#RPrightTextSize}
           attribute's value can be found in the {@link #app} array.
 
 
@@ -3560,11 +3562,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:RPrightTextSize
+          @attr name com.cj.arcard:RPrightTextSize
         */
         public static final int app_RPrightTextSize = 5;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#RPsubTitleText}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#RPsubTitleText}
           attribute's value can be found in the {@link #app} array.
 
 
@@ -3574,11 +3576,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:RPsubTitleText
+          @attr name com.cj.arcard:RPsubTitleText
         */
         public static final int app_RPsubTitleText = 6;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#RPsubTitleTextColor}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#RPsubTitleTextColor}
           attribute's value can be found in the {@link #app} array.
 
 
@@ -3586,11 +3588,11 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.hyphenate.arcard:RPsubTitleTextColor
+          @attr name com.cj.arcard:RPsubTitleTextColor
         */
         public static final int app_RPsubTitleTextColor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#RPsubTitleTextSize}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#RPsubTitleTextSize}
           attribute's value can be found in the {@link #app} array.
 
 
@@ -3602,11 +3604,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:RPsubTitleTextSize
+          @attr name com.cj.arcard:RPsubTitleTextSize
         */
         public static final int app_RPsubTitleTextSize = 8;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#RPtitleBackground}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#RPtitleBackground}
           attribute's value can be found in the {@link #app} array.
 
 
@@ -3614,11 +3616,11 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.hyphenate.arcard:RPtitleBackground
+          @attr name com.cj.arcard:RPtitleBackground
         */
         public static final int app_RPtitleBackground = 11;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#RPtitleTextColor}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#RPtitleTextColor}
           attribute's value can be found in the {@link #app} array.
 
 
@@ -3626,11 +3628,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.hyphenate.arcard:RPtitleTextColor
+          @attr name com.cj.arcard:RPtitleTextColor
         */
         public static final int app_RPtitleTextColor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#RPtitleTextSize}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#RPtitleTextSize}
           attribute's value can be found in the {@link #app} array.
 
 
@@ -3642,7 +3644,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:RPtitleTextSize
+          @attr name com.cj.arcard:RPtitleTextSize
         */
         public static final int app_RPtitleTextSize = 10;
         /** Attributes that can be used with a gridPasswordView.
@@ -3651,14 +3653,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #gridPasswordView_gpvGridColor com.hyphenate.arcard:gpvGridColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #gridPasswordView_gpvLineColor com.hyphenate.arcard:gpvLineColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #gridPasswordView_gpvLineWidth com.hyphenate.arcard:gpvLineWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #gridPasswordView_gpvPasswordLength com.hyphenate.arcard:gpvPasswordLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #gridPasswordView_gpvPasswordTransformation com.hyphenate.arcard:gpvPasswordTransformation}</code></td><td></td></tr>
-           <tr><td><code>{@link #gridPasswordView_gpvPasswordType com.hyphenate.arcard:gpvPasswordType}</code></td><td></td></tr>
-           <tr><td><code>{@link #gridPasswordView_gpvTextColor com.hyphenate.arcard:gpvTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #gridPasswordView_gpvTextSize com.hyphenate.arcard:gpvTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #gridPasswordView_gpvGridColor com.cj.arcard:gpvGridColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #gridPasswordView_gpvLineColor com.cj.arcard:gpvLineColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #gridPasswordView_gpvLineWidth com.cj.arcard:gpvLineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #gridPasswordView_gpvPasswordLength com.cj.arcard:gpvPasswordLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #gridPasswordView_gpvPasswordTransformation com.cj.arcard:gpvPasswordTransformation}</code></td><td></td></tr>
+           <tr><td><code>{@link #gridPasswordView_gpvPasswordType com.cj.arcard:gpvPasswordType}</code></td><td></td></tr>
+           <tr><td><code>{@link #gridPasswordView_gpvTextColor com.cj.arcard:gpvTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #gridPasswordView_gpvTextSize com.cj.arcard:gpvTextSize}</code></td><td></td></tr>
            </table>
            @see #gridPasswordView_gpvGridColor
            @see #gridPasswordView_gpvLineColor
@@ -3674,7 +3676,7 @@ containing a value of this type.
             0x7f010039, 0x7f01003a, 0x7f01003b, 0x7f01003c
         };
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#gpvGridColor}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#gpvGridColor}
           attribute's value can be found in the {@link #gridPasswordView} array.
 
 
@@ -3685,11 +3687,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:gpvGridColor
+          @attr name com.cj.arcard:gpvGridColor
         */
         public static final int gridPasswordView_gpvGridColor = 3;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#gpvLineColor}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#gpvLineColor}
           attribute's value can be found in the {@link #gridPasswordView} array.
 
 
@@ -3700,11 +3702,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:gpvLineColor
+          @attr name com.cj.arcard:gpvLineColor
         */
         public static final int gridPasswordView_gpvLineColor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#gpvLineWidth}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#gpvLineWidth}
           attribute's value can be found in the {@link #gridPasswordView} array.
 
 
@@ -3716,11 +3718,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:gpvLineWidth
+          @attr name com.cj.arcard:gpvLineWidth
         */
         public static final int gridPasswordView_gpvLineWidth = 4;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#gpvPasswordLength}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#gpvPasswordLength}
           attribute's value can be found in the {@link #gridPasswordView} array.
 
 
@@ -3730,11 +3732,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:gpvPasswordLength
+          @attr name com.cj.arcard:gpvPasswordLength
         */
         public static final int gridPasswordView_gpvPasswordLength = 5;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#gpvPasswordTransformation}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#gpvPasswordTransformation}
           attribute's value can be found in the {@link #gridPasswordView} array.
 
 
@@ -3744,11 +3746,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:gpvPasswordTransformation
+          @attr name com.cj.arcard:gpvPasswordTransformation
         */
         public static final int gridPasswordView_gpvPasswordTransformation = 6;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#gpvPasswordType}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#gpvPasswordType}
           attribute's value can be found in the {@link #gridPasswordView} array.
 
 
@@ -3763,11 +3765,11 @@ containing a value of this type.
 <tr><td><code>textVisiblePassword</code></td><td>2</td><td></td></tr>
 <tr><td><code>textWebPassword</code></td><td>3</td><td></td></tr>
 </table>
-          @attr name com.hyphenate.arcard:gpvPasswordType
+          @attr name com.cj.arcard:gpvPasswordType
         */
         public static final int gridPasswordView_gpvPasswordType = 7;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#gpvTextColor}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#gpvTextColor}
           attribute's value can be found in the {@link #gridPasswordView} array.
 
 
@@ -3775,11 +3777,11 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.hyphenate.arcard:gpvTextColor
+          @attr name com.cj.arcard:gpvTextColor
         */
         public static final int gridPasswordView_gpvTextColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.hyphenate.arcard.R.attr#gpvTextSize}
+          <p>This symbol is the offset where the {@link com.cj.arcard.R.attr#gpvTextSize}
           attribute's value can be found in the {@link #gridPasswordView} array.
 
 
@@ -3791,7 +3793,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.hyphenate.arcard:gpvTextSize
+          @attr name com.cj.arcard:gpvTextSize
         */
         public static final int gridPasswordView_gpvTextSize = 1;
     };

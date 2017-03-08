@@ -1,10 +1,6 @@
 [
     {
-        "merged": "/Users/chenjing/Documents/anndroid-workspace/ARCard/build/intermediates/res/merged/debug/drawable-ldpi/em_logo_uidemo.png",
-        "source": "/Users/chenjing/Documents/anndroid-workspace/ARCard/res/drawable-ldpi/em_logo_uidemo.png"
-    },
-    {
-        "merged": "/Users/chenjing/Documents/anndroid-workspace/ARcard/build/intermediates/res/merged/debug/drawable-ldpi/em_logo_uidemo.png",
-        "source": "/Users/chenjing/Documents/anndroid-workspace/ARcard/res/drawable-ldpi/em_logo_uidemo.png"
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\em_logo_uidemo.png",
+        "source": "E:\\app_test\\ARCard\\res\\drawable-ldpi\\em_logo_uidemo.png"
     }
 ]

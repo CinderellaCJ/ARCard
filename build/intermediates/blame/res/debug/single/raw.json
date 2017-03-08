@@ -1,10 +1,6 @@
 [
     {
-        "merged": "/Users/chenjing/Documents/anndroid-workspace/ARcard/build/intermediates/res/merged/debug/raw/em_outgoing.ogg",
-        "source": "/Users/chenjing/Documents/anndroid-workspace/ARcard/res/raw/em_outgoing.ogg"
-    },
-    {
-        "merged": "/Users/chenjing/Documents/anndroid-workspace/ARCard/build/intermediates/res/merged/debug/raw/em_outgoing.ogg",
-        "source": "/Users/chenjing/Documents/anndroid-workspace/ARCard/res/raw/em_outgoing.ogg"
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\raw\\em_outgoing.ogg",
+        "source": "E:\\app_test\\ARCard\\res\\raw\\em_outgoing.ogg"
     }
 ]

@@ -1,10 +1,6 @@
 [
     {
-        "merged": "/Users/chenjing/Documents/anndroid-workspace/ARCard/build/intermediates/res/merged/debug/color/em_main_botton_text_color.xml",
-        "source": "/Users/chenjing/Documents/anndroid-workspace/ARCard/res/color/em_main_botton_text_color.xml"
-    },
-    {
-        "merged": "/Users/chenjing/Documents/anndroid-workspace/ARcard/build/intermediates/res/merged/debug/color/em_main_botton_text_color.xml",
-        "source": "/Users/chenjing/Documents/anndroid-workspace/ARcard/res/color/em_main_botton_text_color.xml"
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\color\\em_main_botton_text_color.xml",
+        "source": "E:\\app_test\\ARCard\\res\\color\\em_main_botton_text_color.xml"
     }
 ]

@@ -46,4 +46,5 @@
     <color name="emojicon_tab_nomal">#ffffff</color>
     <color name="tab_text_select">#bfbfbf</color>
     <color name="appTheme">#fcc9ca</color>
+    <color name="colorWrite">#ffffff</color>
 </resources>

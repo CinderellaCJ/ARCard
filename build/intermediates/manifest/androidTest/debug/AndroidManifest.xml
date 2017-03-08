@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.hyphenate.arcard.test" >
+    package="com.cj.arcard.test" >
 
     <uses-sdk
         android:minSdkVersion="11"
@@ -10,8 +10,8 @@
         android:name="com.android.test.runner.MultiDexTestRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for com.hyphenate.arcard"
-        android:targetPackage="com.hyphenate.arcard" />
+        android:label="Tests for com.cj.arcard"
+        android:targetPackage="com.cj.arcard" />
 
     <application>
         <uses-library android:name="android.test.runner" />

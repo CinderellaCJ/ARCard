@@ -1,10 +1,6 @@
 [
     {
-        "merged": "/Users/chenjing/Documents/anndroid-workspace/ARcard/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
-        "source": "/Users/chenjing/Documents/anndroid-workspace/ARcard/build/intermediates/exploded-aar/ARcard/easeui/unspecified/res/drawable-mdpi-v4/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/chenjing/Documents/anndroid-workspace/ARCard/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
-        "source": "/Users/chenjing/Documents/anndroid-workspace/ARCard/build/intermediates/exploded-aar/ARcard/easeui/unspecified/res/drawable-mdpi-v4/ic_launcher.png"
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\drawable-mdpi-v4\\ic_launcher.png"
     }
 ]

@@ -4,7 +4,9 @@
     android:id="@+id/mainLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/common_bg" >
+    android:background="@color/colorWrite" >
+
+
 
     <LinearLayout
         android:id="@+id/main_bottom"
@@ -14,7 +16,8 @@
         android:background="@color/bottom_bar_normal_bg"
         android:gravity="center_vertical"
         android:orientation="horizontal"
-        tools:ignore="DisableBaselineAlignment">
+        tools:ignore="DisableBaselineAlignment"
+        >
 
         <RelativeLayout
             android:id="@+id/btn_container_conversation"
@@ -29,8 +32,8 @@
                 android:background="@drawable/em_main_bottom_item_bg"
                 android:drawableTop="@drawable/em_tab_chat_bg"
                 android:onClick="onTabClicked"
-                android:paddingBottom="2dip"
-                android:paddingTop="7dip"
+                android:paddingBottom="2dp"
+                android:paddingTop="7dp"
                 android:scaleType="matrix"
                 android:text="@string/session"
                 android:textColor="@color/em_main_botton_text_color"
@@ -63,8 +66,8 @@
                 android:background="@drawable/em_main_bottom_item_bg"
                 android:drawableTop="@drawable/em_tab_contact_list_bg"
                 android:onClick="onTabClicked"
-                android:paddingBottom="2dip"
-                android:paddingTop="7dip"
+                android:paddingBottom="2dp"
+                android:paddingTop="7dp"
                 android:scaleType="matrix"
                 android:text="@string/address_book"
                 android:textColor="@color/em_main_botton_text_color"
@@ -93,8 +96,8 @@
                 android:background="@drawable/em_main_bottom_item_bg"
                 android:drawableTop="@drawable/em_tab_setting_bg"
                 android:onClick="onTabClicked"
-                android:paddingBottom="2dip"
-                android:paddingTop="7dip"
+                android:paddingBottom="2dp"
+                android:paddingTop="7dp"
                 android:scaleType="matrix"
                 android:text="@string/setting"
                 android:textColor="@color/em_main_botton_text_color"
@@ -102,10 +105,18 @@
         </RelativeLayout>
     </LinearLayout>
 
+
     <RelativeLayout
         android:id="@+id/fragment_container"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_above="@id/main_bottom" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+       android:layout_below="@id/fragment_container"
+        android:background="@color/appTheme"/>
+
 
 </RelativeLayout>
