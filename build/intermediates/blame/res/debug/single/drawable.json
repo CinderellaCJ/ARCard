@@ -36,12 +36,12 @@
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\drawable\\ease_chatting_setmode_keyboard_btn.xml"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\em_chat_red_packet_selector.xml",
-        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\drawable\\em_chat_red_packet_selector.xml"
-    },
-    {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_open_packet_shape_corner.xml",
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\drawable\\rp_open_packet_shape_corner.xml"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\em_chat_red_packet_selector.xml",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\drawable\\em_chat_red_packet_selector.xml"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_bottom_selector.xml",

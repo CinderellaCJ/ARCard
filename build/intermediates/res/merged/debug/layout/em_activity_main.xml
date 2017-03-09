@@ -20,6 +20,27 @@
         >
 
         <RelativeLayout
+            android:id="@+id/btn_container_home"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <Button
+                android:id="@+id/btn_home"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/em_main_bottom_item_bg"
+                android:drawableTop="@drawable/em_tab_setting_bg"
+                android:onClick="onTabClicked"
+                android:paddingBottom="2dp"
+                android:paddingTop="7dp"
+                android:scaleType="matrix"
+                android:text="@string/tab_home"
+                android:textColor="@color/em_main_botton_text_color"
+                android:textSize="12sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
             android:id="@+id/btn_container_conversation"
             android:layout_width="0dp"
             android:layout_height="match_parent"

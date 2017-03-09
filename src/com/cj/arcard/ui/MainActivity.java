@@ -1,16 +1,3 @@
-/**
- * Copyright (C) 2016 Hyphenate Inc. All rights reserved.
- *
- * Licensed under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
- *     http://www.apache.org/licenses/LICENSE-2.0
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
- */
 package com.cj.arcard.ui;
 
 import android.annotation.SuppressLint;
@@ -40,6 +27,7 @@ import com.cj.arcard.db.InviteMessgeDao;
 import com.cj.arcard.db.UserDao;
 import com.cj.arcard.runtimepermissions.PermissionsManager;
 import com.cj.arcard.runtimepermissions.PermissionsResultAction;
+import com.cj.arcard.ui.home.HomeFragment;
 import com.easemob.redpacketsdk.constant.RPConstant;
 import com.easemob.redpacketui.utils.RedPacketUtil;
 import com.hyphenate.EMCallBack;
@@ -53,6 +41,8 @@ import com.hyphenate.chat.EMMessage;
 import com.hyphenate.chatuidemo.R;
 import com.hyphenate.easeui.utils.EaseCommonUtils;
 import com.hyphenate.util.EMLog;
+import com.umeng.analytics.MobclickAgent;
+import com.umeng.update.UmengUpdateAgent;
 
 import java.util.List;
 
@@ -65,15 +55,24 @@ public class MainActivity extends BaseActivity {
 	// textview for unread event message
 	private TextView unreadAddressLable;
 
-	private Button[] mTabs;
-	private ContactListFragment contactListFragment;
-	private Fragment[] fragments;
-	private int index;
-	private int currentTabIndex;
-	// user logged into another device
+    private Fragment[] fragments;
+    private HomeFragment homeFragment;
+    private ContactListFragment contactListFragment;
+    private ConversationListFragment conversationListFragment;
+    private SettingsFragment settingFragment;
+
+    private Button[] mTabs;
+    private int index;
+    private int currentTabIndex;
+    // user logged into another device
 	public boolean isConflict = false;
-	// user account was removed
+    // user account was removed
 	private boolean isCurrentAccountRemoved = false;
+    private android.app.AlertDialog.Builder exceptionBuilder;
+    private boolean isExceptionDialogShow =  false;
+    private BroadcastReceiver internalDebugReceiver;
+	private BroadcastReceiver broadcastReceiver;
+	private LocalBroadcastManager broadcastManager;
 	
 
 	/**
@@ -115,21 +114,28 @@ public class MainActivity extends BaseActivity {
 		initView();
 
 		//umeng api
-		/*MobclickAgent.updateOnlineConfig(this);
+		MobclickAgent.updateOnlineConfig(this);
 		UmengUpdateAgent.setUpdateOnlyWifi(false);
-		UmengUpdateAgent.update(this);*/
+		UmengUpdateAgent.update(this);
 
 		showExceptionDialogFromIntent(getIntent());
 
 		inviteMessgeDao = new InviteMessgeDao(this);
 		UserDao userDao = new UserDao(this);
+
+        homeFragment = new HomeFragment();
 		conversationListFragment = new ConversationListFragment();
 		contactListFragment = new ContactListFragment();
-		SettingsFragment settingFragment = new SettingsFragment();
-		fragments = new Fragment[] { conversationListFragment, contactListFragment, settingFragment};
+		settingFragment = new SettingsFragment();
+		fragments = new Fragment[] {homeFragment, conversationListFragment, contactListFragment, settingFragment};
 
-		getSupportFragmentManager().beginTransaction().add(R.id.fragment_container, conversationListFragment)
-				.add(R.id.fragment_container, contactListFragment).hide(contactListFragment).show(conversationListFragment)
+		getSupportFragmentManager().beginTransaction()
+                .add(R.id.fragment_container,homeFragment)
+/*                .add(R.id.fragment_container, conversationListFragment)
+				.add(R.id.fragment_container, contactListFragment)
+                .hide(contactListFragment)
+                .hide(conversationListFragment)*/
+                .show(homeFragment)
 				.commit();
 
 		//register broadcast receiver to receive the change of group from DemoHelper
@@ -162,11 +168,12 @@ public class MainActivity extends BaseActivity {
 	private void initView() {
 		unreadLabel = (TextView) findViewById(R.id.unread_msg_number);
 		unreadAddressLable = (TextView) findViewById(R.id.unread_address_number);
-		mTabs = new Button[3];
-		mTabs[0] = (Button) findViewById(R.id.btn_conversation);
-		mTabs[1] = (Button) findViewById(R.id.btn_address_list);
-		mTabs[2] = (Button) findViewById(R.id.btn_setting);
-		// select first tab
+		mTabs = new Button[4];
+		mTabs[0] = (Button) findViewById(R.id.btn_home);
+		mTabs[1] = (Button) findViewById(R.id.btn_conversation);
+		mTabs[2] = (Button) findViewById(R.id.btn_address_list);
+        mTabs[3] = (Button) findViewById(R.id.btn_setting);
+        // select first tab
 		mTabs[0].setSelected(true);
 	}
 
@@ -177,15 +184,18 @@ public class MainActivity extends BaseActivity {
 	 */
 	public void onTabClicked(View view) {
 		switch (view.getId()) {
-		case R.id.btn_conversation:
-			index = 0;
-			break;
-		case R.id.btn_address_list:
-			index = 1;
-			break;
-		case R.id.btn_setting:
-			index = 2;
-			break;
+            case R.id.btn_home:
+                index = 0;
+                break;
+            case R.id.btn_conversation:
+                index = 1;
+                break;
+            case R.id.btn_address_list:
+                index = 2;
+                break;
+            case R.id.btn_setting:
+                index = 3;
+                break;
 		}
 		if (currentTabIndex != index) {
 			FragmentTransaction trx = getSupportFragmentManager().beginTransaction();
@@ -446,12 +456,7 @@ public class MainActivity extends BaseActivity {
 		return super.onKeyDown(keyCode, event);
 	}
 
-	private android.app.AlertDialog.Builder exceptionBuilder;
-	private boolean isExceptionDialogShow =  false;
-    private BroadcastReceiver internalDebugReceiver;
-    private ConversationListFragment conversationListFragment;
-    private BroadcastReceiver broadcastReceiver;
-    private LocalBroadcastManager broadcastManager;
+
 
     private int getExceptionMessageId(String exceptionType) {
          if(exceptionType.equals(Constant.ACCOUNT_CONFLICT)) {

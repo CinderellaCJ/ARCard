@@ -486,16 +486,16 @@
             android:name="com.baidu.location.f"
             android:enabled="true"
             android:process=":remote" />
-        <!-- umeng appkey，可忽略 -->
-       <!-- <meta-data
+        <!-- umeng -->
+        <meta-data
             android:name="UMENG_APPKEY"
-            android:value="56aefe07e0f55a250d001a7c" />
+            android:value="58c0f30be88bad577200185c" />
         <meta-data
             android:name="UMENG_CHANNEL"
-            android:value="hyphenate" />
-        <meta-data
-            android:name="com.baidu.lbsapi.API_KEY"
-            android:value="3ecea51f560650b1ed8a4b99808f52e8" />-->
+            android:value="" />
+        <!--   <meta-data
+             android:name="com.baidu.lbsapi.API_KEY"
+             android:value="3ecea51f560650b1ed8a4b99808f52e8" />-->
 
     </application>
 

@@ -828,3 +828,15 @@ ADDED from E:\app_test\ARCard\AndroidManifest.xml:485:9-488:41
 		ADDED from E:\app_test\ARCard\AndroidManifest.xml:488:13-38
 	android:name
 		ADDED from E:\app_test\ARCard\AndroidManifest.xml:486:13-48
+meta-data#UMENG_APPKEY
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:490:9-492:56
+	android:value
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:492:13-53
+	android:name
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:491:13-40
+meta-data#UMENG_CHANNEL
+ADDED from E:\app_test\ARCard\AndroidManifest.xml:493:9-495:32
+	android:value
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:495:13-29
+	android:name
+		ADDED from E:\app_test\ARCard\AndroidManifest.xml:494:13-41

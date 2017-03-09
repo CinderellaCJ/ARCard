@@ -1,27 +1,27 @@
 [
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\rp_activity_red_packet_detail.xml",
-        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\layout\\rp_activity_red_packet_detail.xml"
-    },
-    {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_location.xml",
-        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\layout\\ease_row_sent_location.xml"
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\ease_emojicon.xml",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\layout\\ease_emojicon.xml"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\em_context_menu_for_voice.xml",
         "source": "E:\\app_test\\ARCard\\res\\layout\\em_context_menu_for_voice.xml"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\ease_emojicon.xml",
-        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\layout\\ease_emojicon.xml"
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_location.xml",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\layout\\ease_row_sent_location.xml"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\rp_bank_city_list_item.xml",
-        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\layout\\rp_bank_city_list_item.xml"
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\rp_activity_red_packet_detail.xml",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\layout\\rp_activity_red_packet_detail.xml"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\rp_pay_add_card_dialog.xml",
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\layout\\rp_pay_add_card_dialog.xml"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\rp_bank_city_list_item.xml",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\layout\\rp_bank_city_list_item.xml"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_login.xml",
@@ -40,12 +40,12 @@
         "source": "E:\\app_test\\ARCard\\res\\layout\\em_activity_pick_contact_no_checkbox.xml"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\rp_random_detail_dialog.xml",
-        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\layout\\rp_random_detail_dialog.xml"
-    },
-    {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_group_pick_contacts.xml",
         "source": "E:\\app_test\\ARCard\\res\\layout\\em_activity_group_pick_contacts.xml"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\rp_random_detail_dialog.xml",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\layout\\rp_random_detail_dialog.xml"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\rp_fragment_verify_dentity.xml",
@@ -60,12 +60,12 @@
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\layout\\rp_details_list_footer.xml"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_expression.xml",
-        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\layout\\ease_row_expression.xml"
-    },
-    {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\ease_fragment_conversation_list.xml",
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\layout\\ease_fragment_conversation_list.xml"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_expression.xml",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\layout\\ease_row_expression.xml"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\rp_activity_webview.xml",
@@ -80,12 +80,12 @@
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\layout\\ease_alert_dialog.xml"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_video.xml",
-        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\layout\\ease_row_sent_video.xml"
-    },
-    {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_location.xml",
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\layout\\ease_row_received_location.xml"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_video.xml",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\layout\\ease_row_sent_video.xml"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline_push_settings.xml",

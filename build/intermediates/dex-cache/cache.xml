@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
+        jar="E:\app_test\ARCard\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c9710cb4624be546799b61426c1ef20bed78399c">
+        <dex dex="E:\app_test\ARCard\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_38843d85ba378b558c18ce9e8d15021f11b5b7eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="E:\app_test\ARCard\libs\bolts-tasks-1.4.0.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
         <dex dex="E:\app_test\ARCard\build\intermediates\transforms\dex\debug\folders\1000\2\bolts-tasks-1.4.0_253f8b5e0b0c166920c160415b88457c0bf99175\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\app_test\ARCard\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="4553bbee6336729f59356c8cd0864a164600bbff">
-        <dex dex="E:\app_test\ARCard\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_38843d85ba378b558c18ce9e8d15021f11b5b7eb\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -39,6 +39,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="E:\app_test\ARCard\build\intermediates\exploded-aar\ARcard\easeui\unspecified\jars\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aaa9bc27cf2226482875d769ac45286970935b21">
+        <dex dex="E:\app_test\ARCard\build\intermediates\transforms\dex\debug\folders\1000\8\android-support-v4_c2cf02d3216627f7d4e1f3ebd108375e96e963f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="E:\app_test\ARCard\build\intermediates\exploded-aar\ARcard\easeui\unspecified\jars\libs\google-play-services.jar"
         jumboMode="true"
         optimize="true"
@@ -57,57 +66,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="E:\app_test\ARCard\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="40aadaff71a4bf1dc0b8babea80185636b52be9c">
-        <dex dex="E:\app_test\ARCard\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9afefd71258f6290fe260cbe1e6f6feb5cef1a55\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\app_test\ARCard\libs\umeng-analytics-v5.2.4.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="0f9eccf79ae6006e4346725b09114182dca0c023">
-        <dex dex="E:\app_test\ARCard\build\intermediates\transforms\dex\debug\folders\1000\2\umeng-analytics-v5.2.4_65c21d8576d40fab8282095d96dda0eb588ab4c4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\app_test\ARCard\build\intermediates\exploded-aar\ARcard\easeui\unspecified\jars\libs\hyphenatechat_3.2.3.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="0cfb3fe4f6154c8869dbb7f2ac11e7774a956cba">
-        <dex dex="E:\app_test\ARCard\build\intermediates\transforms\dex\debug\folders\1000\8\hyphenatechat_3.2.3_57505fd682c0c5fc88d4e45d1a636224a4e24d21\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\app_test\ARCard\build\intermediates\exploded-aar\ARcard\redpacketlibrary\unspecified\jars\libs\alipaySdk-20160516.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="3dc967df12a04b5e1fd7641a5661d159b747297f">
-        <dex dex="E:\app_test\ARCard\build\intermediates\transforms\dex\debug\folders\1000\8\alipaySdk-20160516_ad7398f39a221ddc42dffc89a6b19138a717c268\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\app_test\ARCard\build\intermediates\exploded-aar\ARcard\easeui\unspecified\jars\libs\android-support-v4.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="aaa9bc27cf2226482875d769ac45286970935b21">
-        <dex dex="E:\app_test\ARCard\build\intermediates\transforms\dex\debug\folders\1000\8\android-support-v4_c2cf02d3216627f7d4e1f3ebd108375e96e963f5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="E:\app_test\ARCard\libs\parse-android-1.13.0.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
         sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
         <dex dex="E:\app_test\ARCard\build\intermediates\transforms\dex\debug\folders\1000\2\parse-android-1.13.0_1282e5219a3c60813851ec6639f7e856cc99f2a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\app_test\ARCard\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="40aadaff71a4bf1dc0b8babea80185636b52be9c">
+        <dex dex="E:\app_test\ARCard\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9afefd71258f6290fe260cbe1e6f6feb5cef1a55\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -156,12 +129,39 @@
     </item>
     <item
         is-multidex="true"
+        jar="E:\app_test\ARCard\libs\umeng-analytics-v5.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0f9eccf79ae6006e4346725b09114182dca0c023">
+        <dex dex="E:\app_test\ARCard\build\intermediates\transforms\dex\debug\folders\1000\2\umeng-analytics-v5.2.4_65c21d8576d40fab8282095d96dda0eb588ab4c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="E:\app_test\ARCard\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
         sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
         <dex dex="E:\app_test\ARCard\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_b1885c2186cf3f2e3d0a32bb25dfa041a4fd2733\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\app_test\ARCard\build\intermediates\exploded-aar\ARcard\easeui\unspecified\jars\libs\hyphenatechat_3.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0cfb3fe4f6154c8869dbb7f2ac11e7774a956cba">
+        <dex dex="E:\app_test\ARCard\build\intermediates\transforms\dex\debug\folders\1000\8\hyphenatechat_3.2.3_57505fd682c0c5fc88d4e45d1a636224a4e24d21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\app_test\ARCard\build\intermediates\exploded-aar\ARcard\redpacketlibrary\unspecified\jars\libs\alipaySdk-20160516.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3dc967df12a04b5e1fd7641a5661d159b747297f">
+        <dex dex="E:\app_test\ARCard\build\intermediates\transforms\dex\debug\folders\1000\8\alipaySdk-20160516_ad7398f39a221ddc42dffc89a6b19138a717c268\classes.dex" />
     </item>
 
 </items>

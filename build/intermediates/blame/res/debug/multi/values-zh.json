@@ -1703,14 +1703,7 @@
                     "endOffset": 7988
                 },
                 "from": {
-                    "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 59,
-                        "endColumn": 43,
-                        "endOffset": 98
-                    }
+                    "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
                 }
             },
             {
@@ -6578,20 +6571,27 @@
                     "startLine": 549,
                     "startColumn": 4,
                     "startOffset": 30067,
-                    "endColumn": 60,
-                    "endOffset": 30123
+                    "endColumn": 39,
+                    "endOffset": 30102
                 },
                 "from": {
-                    "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
+                    "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml",
+                    "position": {
+                        "startLine": 359,
+                        "startColumn": 4,
+                        "startOffset": 19112,
+                        "endColumn": 39,
+                        "endOffset": 19147
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 550,
                     "startColumn": 4,
-                    "startOffset": 30128,
-                    "endColumn": 43,
-                    "endOffset": 30167
+                    "startOffset": 30107,
+                    "endColumn": 60,
+                    "endOffset": 30163
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
@@ -6601,9 +6601,9 @@
                 "to": {
                     "startLine": 551,
                     "startColumn": 4,
-                    "startOffset": 30172,
-                    "endColumn": 49,
-                    "endOffset": 30217
+                    "startOffset": 30168,
+                    "endColumn": 43,
+                    "endOffset": 30207
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
@@ -6613,9 +6613,9 @@
                 "to": {
                     "startLine": 552,
                     "startColumn": 4,
-                    "startOffset": 30222,
-                    "endColumn": 58,
-                    "endOffset": 30276
+                    "startOffset": 30212,
+                    "endColumn": 49,
+                    "endOffset": 30257
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
@@ -6625,9 +6625,9 @@
                 "to": {
                     "startLine": 553,
                     "startColumn": 4,
-                    "startOffset": 30281,
-                    "endColumn": 63,
-                    "endOffset": 30340
+                    "startOffset": 30262,
+                    "endColumn": 58,
+                    "endOffset": 30316
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
@@ -6637,21 +6637,21 @@
                 "to": {
                     "startLine": 554,
                     "startColumn": 4,
-                    "startOffset": 30345,
-                    "endColumn": 62,
-                    "endOffset": 30403
+                    "startOffset": 30321,
+                    "endColumn": 63,
+                    "endOffset": 30380
                 },
                 "from": {
-                    "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
+                    "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 555,
                     "startColumn": 4,
-                    "startOffset": 30408,
-                    "endColumn": 56,
-                    "endOffset": 30460
+                    "startOffset": 30385,
+                    "endColumn": 62,
+                    "endOffset": 30443
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -6661,9 +6661,9 @@
                 "to": {
                     "startLine": 556,
                     "startColumn": 4,
-                    "startOffset": 30465,
-                    "endColumn": 52,
-                    "endOffset": 30513
+                    "startOffset": 30448,
+                    "endColumn": 56,
+                    "endOffset": 30500
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -6673,9 +6673,9 @@
                 "to": {
                     "startLine": 557,
                     "startColumn": 4,
-                    "startOffset": 30518,
-                    "endColumn": 61,
-                    "endOffset": 30575
+                    "startOffset": 30505,
+                    "endColumn": 52,
+                    "endOffset": 30553
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -6685,9 +6685,9 @@
                 "to": {
                     "startLine": 558,
                     "startColumn": 4,
-                    "startOffset": 30580,
-                    "endColumn": 54,
-                    "endOffset": 30630
+                    "startOffset": 30558,
+                    "endColumn": 61,
+                    "endOffset": 30615
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -6697,9 +6697,9 @@
                 "to": {
                     "startLine": 559,
                     "startColumn": 4,
-                    "startOffset": 30635,
-                    "endColumn": 42,
-                    "endOffset": 30673
+                    "startOffset": 30620,
+                    "endColumn": 54,
+                    "endOffset": 30670
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -6709,9 +6709,9 @@
                 "to": {
                     "startLine": 560,
                     "startColumn": 4,
-                    "startOffset": 30678,
-                    "endColumn": 53,
-                    "endOffset": 30727
+                    "startOffset": 30675,
+                    "endColumn": 42,
+                    "endOffset": 30713
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -6721,9 +6721,9 @@
                 "to": {
                     "startLine": 561,
                     "startColumn": 4,
-                    "startOffset": 30732,
-                    "endColumn": 56,
-                    "endOffset": 30784
+                    "startOffset": 30718,
+                    "endColumn": 53,
+                    "endOffset": 30767
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -6733,9 +6733,9 @@
                 "to": {
                     "startLine": 562,
                     "startColumn": 4,
-                    "startOffset": 30789,
-                    "endColumn": 55,
-                    "endOffset": 30840
+                    "startOffset": 30772,
+                    "endColumn": 56,
+                    "endOffset": 30824
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -6745,9 +6745,9 @@
                 "to": {
                     "startLine": 563,
                     "startColumn": 4,
-                    "startOffset": 30845,
-                    "endColumn": 58,
-                    "endOffset": 30899
+                    "startOffset": 30829,
+                    "endColumn": 55,
+                    "endOffset": 30880
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -6757,9 +6757,9 @@
                 "to": {
                     "startLine": 564,
                     "startColumn": 4,
-                    "startOffset": 30904,
-                    "endColumn": 55,
-                    "endOffset": 30955
+                    "startOffset": 30885,
+                    "endColumn": 58,
+                    "endOffset": 30939
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -6769,9 +6769,9 @@
                 "to": {
                     "startLine": 565,
                     "startColumn": 4,
-                    "startOffset": 30960,
-                    "endColumn": 52,
-                    "endOffset": 31008
+                    "startOffset": 30944,
+                    "endColumn": 55,
+                    "endOffset": 30995
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -6781,9 +6781,9 @@
                 "to": {
                     "startLine": 566,
                     "startColumn": 4,
-                    "startOffset": 31013,
-                    "endColumn": 49,
-                    "endOffset": 31058
+                    "startOffset": 31000,
+                    "endColumn": 52,
+                    "endOffset": 31048
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -6793,21 +6793,9 @@
                 "to": {
                     "startLine": 567,
                     "startColumn": 4,
-                    "startOffset": 31063,
-                    "endColumn": 51,
-                    "endOffset": 31110
-                },
-                "from": {
-                    "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 568,
-                    "startColumn": 4,
-                    "startOffset": 31115,
-                    "endColumn": 48,
-                    "endOffset": 31159
+                    "startOffset": 31053,
+                    "endColumn": 49,
+                    "endOffset": 31098
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -6815,11 +6803,11 @@
             },
             {
                 "to": {
-                    "startLine": 569,
+                    "startLine": 568,
                     "startColumn": 4,
-                    "startOffset": 31164,
-                    "endColumn": 57,
-                    "endOffset": 31217
+                    "startOffset": 31103,
+                    "endColumn": 51,
+                    "endOffset": 31150
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
@@ -6827,11 +6815,23 @@
             },
             {
                 "to": {
+                    "startLine": 569,
+                    "startColumn": 4,
+                    "startOffset": 31155,
+                    "endColumn": 48,
+                    "endOffset": 31199
+                },
+                "from": {
+                    "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
+                }
+            },
+            {
+                "to": {
                     "startLine": 570,
                     "startColumn": 4,
-                    "startOffset": 31222,
-                    "endColumn": 50,
-                    "endOffset": 31268
+                    "startOffset": 31204,
+                    "endColumn": 57,
+                    "endOffset": 31257
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
@@ -6841,9 +6841,9 @@
                 "to": {
                     "startLine": 571,
                     "startColumn": 4,
-                    "startOffset": 31273,
-                    "endColumn": 57,
-                    "endOffset": 31326
+                    "startOffset": 31262,
+                    "endColumn": 50,
+                    "endOffset": 31308
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
@@ -6853,9 +6853,9 @@
                 "to": {
                     "startLine": 572,
                     "startColumn": 4,
-                    "startOffset": 31331,
-                    "endColumn": 60,
-                    "endOffset": 31387
+                    "startOffset": 31313,
+                    "endColumn": 57,
+                    "endOffset": 31366
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
@@ -6865,9 +6865,9 @@
                 "to": {
                     "startLine": 573,
                     "startColumn": 4,
-                    "startOffset": 31392,
-                    "endColumn": 58,
-                    "endOffset": 31446
+                    "startOffset": 31371,
+                    "endColumn": 60,
+                    "endOffset": 31427
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
@@ -6877,9 +6877,9 @@
                 "to": {
                     "startLine": 574,
                     "startColumn": 4,
-                    "startOffset": 31451,
-                    "endColumn": 61,
-                    "endOffset": 31508
+                    "startOffset": 31432,
+                    "endColumn": 58,
+                    "endOffset": 31486
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
@@ -6889,21 +6889,21 @@
                 "to": {
                     "startLine": 575,
                     "startColumn": 4,
-                    "startOffset": 31513,
-                    "endColumn": 42,
-                    "endOffset": 31551
+                    "startOffset": 31491,
+                    "endColumn": 61,
+                    "endOffset": 31548
                 },
                 "from": {
-                    "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
+                    "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 576,
                     "startColumn": 4,
-                    "startOffset": 31556,
-                    "endColumn": 48,
-                    "endOffset": 31600
+                    "startOffset": 31553,
+                    "endColumn": 42,
+                    "endOffset": 31591
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -6913,9 +6913,9 @@
                 "to": {
                     "startLine": 577,
                     "startColumn": 4,
-                    "startOffset": 31605,
-                    "endColumn": 50,
-                    "endOffset": 31651
+                    "startOffset": 31596,
+                    "endColumn": 48,
+                    "endOffset": 31640
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -6925,9 +6925,9 @@
                 "to": {
                     "startLine": 578,
                     "startColumn": 4,
-                    "startOffset": 31656,
-                    "endColumn": 54,
-                    "endOffset": 31706
+                    "startOffset": 31645,
+                    "endColumn": 50,
+                    "endOffset": 31691
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -6937,9 +6937,9 @@
                 "to": {
                     "startLine": 579,
                     "startColumn": 4,
-                    "startOffset": 31711,
-                    "endColumn": 45,
-                    "endOffset": 31752
+                    "startOffset": 31696,
+                    "endColumn": 54,
+                    "endOffset": 31746
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -6949,9 +6949,9 @@
                 "to": {
                     "startLine": 580,
                     "startColumn": 4,
-                    "startOffset": 31757,
-                    "endColumn": 54,
-                    "endOffset": 31807
+                    "startOffset": 31751,
+                    "endColumn": 45,
+                    "endOffset": 31792
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -6961,9 +6961,9 @@
                 "to": {
                     "startLine": 581,
                     "startColumn": 4,
-                    "startOffset": 31812,
-                    "endColumn": 52,
-                    "endOffset": 31860
+                    "startOffset": 31797,
+                    "endColumn": 54,
+                    "endOffset": 31847
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -6973,9 +6973,9 @@
                 "to": {
                     "startLine": 582,
                     "startColumn": 4,
-                    "startOffset": 31865,
-                    "endColumn": 49,
-                    "endOffset": 31910
+                    "startOffset": 31852,
+                    "endColumn": 52,
+                    "endOffset": 31900
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -6985,9 +6985,9 @@
                 "to": {
                     "startLine": 583,
                     "startColumn": 4,
-                    "startOffset": 31915,
-                    "endColumn": 47,
-                    "endOffset": 31958
+                    "startOffset": 31905,
+                    "endColumn": 49,
+                    "endOffset": 31950
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -6997,9 +6997,9 @@
                 "to": {
                     "startLine": 584,
                     "startColumn": 4,
-                    "startOffset": 31963,
-                    "endColumn": 45,
-                    "endOffset": 32004
+                    "startOffset": 31955,
+                    "endColumn": 47,
+                    "endOffset": 31998
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -7009,9 +7009,9 @@
                 "to": {
                     "startLine": 585,
                     "startColumn": 4,
-                    "startOffset": 32009,
-                    "endColumn": 48,
-                    "endOffset": 32053
+                    "startOffset": 32003,
+                    "endColumn": 45,
+                    "endOffset": 32044
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -7021,9 +7021,9 @@
                 "to": {
                     "startLine": 586,
                     "startColumn": 4,
-                    "startOffset": 32058,
-                    "endColumn": 46,
-                    "endOffset": 32100
+                    "startOffset": 32049,
+                    "endColumn": 48,
+                    "endOffset": 32093
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -7033,9 +7033,9 @@
                 "to": {
                     "startLine": 587,
                     "startColumn": 4,
-                    "startOffset": 32105,
-                    "endColumn": 64,
-                    "endOffset": 32165
+                    "startOffset": 32098,
+                    "endColumn": 46,
+                    "endOffset": 32140
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -7045,9 +7045,9 @@
                 "to": {
                     "startLine": 588,
                     "startColumn": 4,
-                    "startOffset": 32170,
-                    "endColumn": 94,
-                    "endOffset": 32260
+                    "startOffset": 32145,
+                    "endColumn": 64,
+                    "endOffset": 32205
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -7057,9 +7057,9 @@
                 "to": {
                     "startLine": 589,
                     "startColumn": 4,
-                    "startOffset": 32265,
-                    "endColumn": 59,
-                    "endOffset": 32320
+                    "startOffset": 32210,
+                    "endColumn": 94,
+                    "endOffset": 32300
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -7069,9 +7069,9 @@
                 "to": {
                     "startLine": 590,
                     "startColumn": 4,
-                    "startOffset": 32325,
-                    "endColumn": 58,
-                    "endOffset": 32379
+                    "startOffset": 32305,
+                    "endColumn": 59,
+                    "endOffset": 32360
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -7081,9 +7081,9 @@
                 "to": {
                     "startLine": 591,
                     "startColumn": 4,
-                    "startOffset": 32384,
-                    "endColumn": 65,
-                    "endOffset": 32445
+                    "startOffset": 32365,
+                    "endColumn": 58,
+                    "endOffset": 32419
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -7093,9 +7093,9 @@
                 "to": {
                     "startLine": 592,
                     "startColumn": 4,
-                    "startOffset": 32450,
-                    "endColumn": 67,
-                    "endOffset": 32513
+                    "startOffset": 32424,
+                    "endColumn": 65,
+                    "endOffset": 32485
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -7105,9 +7105,9 @@
                 "to": {
                     "startLine": 593,
                     "startColumn": 4,
-                    "startOffset": 32518,
-                    "endColumn": 49,
-                    "endOffset": 32563
+                    "startOffset": 32490,
+                    "endColumn": 67,
+                    "endOffset": 32553
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -7117,9 +7117,9 @@
                 "to": {
                     "startLine": 594,
                     "startColumn": 4,
-                    "startOffset": 32568,
-                    "endColumn": 52,
-                    "endOffset": 32616
+                    "startOffset": 32558,
+                    "endColumn": 49,
+                    "endOffset": 32603
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -7129,9 +7129,9 @@
                 "to": {
                     "startLine": 595,
                     "startColumn": 4,
-                    "startOffset": 32621,
-                    "endColumn": 42,
-                    "endOffset": 32659
+                    "startOffset": 32608,
+                    "endColumn": 52,
+                    "endOffset": 32656
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -7141,9 +7141,9 @@
                 "to": {
                     "startLine": 596,
                     "startColumn": 4,
-                    "startOffset": 32664,
-                    "endColumn": 49,
-                    "endOffset": 32709
+                    "startOffset": 32661,
+                    "endColumn": 42,
+                    "endOffset": 32699
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -7153,9 +7153,9 @@
                 "to": {
                     "startLine": 597,
                     "startColumn": 4,
-                    "startOffset": 32714,
-                    "endColumn": 51,
-                    "endOffset": 32761
+                    "startOffset": 32704,
+                    "endColumn": 49,
+                    "endOffset": 32749
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -7165,9 +7165,9 @@
                 "to": {
                     "startLine": 598,
                     "startColumn": 4,
-                    "startOffset": 32766,
-                    "endColumn": 60,
-                    "endOffset": 32822
+                    "startOffset": 32754,
+                    "endColumn": 51,
+                    "endOffset": 32801
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -7177,21 +7177,21 @@
                 "to": {
                     "startLine": 599,
                     "startColumn": 4,
-                    "startOffset": 32827,
-                    "endColumn": 57,
-                    "endOffset": 32880
+                    "startOffset": 32806,
+                    "endColumn": 60,
+                    "endOffset": 32862
                 },
                 "from": {
-                    "file": "E:\\app_test\\ARCard\\res\\values-zh\\umeng_common_strings.xml"
+                    "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 600,
                     "startColumn": 4,
-                    "startOffset": 32885,
-                    "endColumn": 59,
-                    "endOffset": 32940
+                    "startOffset": 32867,
+                    "endColumn": 57,
+                    "endOffset": 32920
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\umeng_common_strings.xml"
@@ -7201,9 +7201,9 @@
                 "to": {
                     "startLine": 601,
                     "startColumn": 4,
-                    "startOffset": 32945,
-                    "endColumn": 65,
-                    "endOffset": 33006
+                    "startOffset": 32925,
+                    "endColumn": 59,
+                    "endOffset": 32980
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\umeng_common_strings.xml"
@@ -7213,9 +7213,9 @@
                 "to": {
                     "startLine": 602,
                     "startColumn": 4,
-                    "startOffset": 33011,
-                    "endColumn": 56,
-                    "endOffset": 33063
+                    "startOffset": 32985,
+                    "endColumn": 65,
+                    "endOffset": 33046
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\umeng_common_strings.xml"
@@ -7225,9 +7225,9 @@
                 "to": {
                     "startLine": 603,
                     "startColumn": 4,
-                    "startOffset": 33068,
-                    "endColumn": 61,
-                    "endOffset": 33125
+                    "startOffset": 33051,
+                    "endColumn": 56,
+                    "endOffset": 33103
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\umeng_common_strings.xml"
@@ -7237,9 +7237,9 @@
                 "to": {
                     "startLine": 604,
                     "startColumn": 4,
-                    "startOffset": 33130,
-                    "endColumn": 67,
-                    "endOffset": 33193
+                    "startOffset": 33108,
+                    "endColumn": 61,
+                    "endOffset": 33165
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\umeng_common_strings.xml"
@@ -7249,9 +7249,9 @@
                 "to": {
                     "startLine": 605,
                     "startColumn": 4,
-                    "startOffset": 33198,
-                    "endColumn": 76,
-                    "endOffset": 33270
+                    "startOffset": 33170,
+                    "endColumn": 67,
+                    "endOffset": 33233
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\umeng_common_strings.xml"
@@ -7261,9 +7261,9 @@
                 "to": {
                     "startLine": 606,
                     "startColumn": 4,
-                    "startOffset": 33275,
-                    "endColumn": 71,
-                    "endOffset": 33342
+                    "startOffset": 33238,
+                    "endColumn": 76,
+                    "endOffset": 33310
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\umeng_common_strings.xml"
@@ -7273,9 +7273,9 @@
                 "to": {
                     "startLine": 607,
                     "startColumn": 4,
-                    "startOffset": 33347,
+                    "startOffset": 33315,
                     "endColumn": 71,
-                    "endOffset": 33414
+                    "endOffset": 33382
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\umeng_common_strings.xml"
@@ -7285,9 +7285,9 @@
                 "to": {
                     "startLine": 608,
                     "startColumn": 4,
-                    "startOffset": 33419,
-                    "endColumn": 64,
-                    "endOffset": 33479
+                    "startOffset": 33387,
+                    "endColumn": 71,
+                    "endOffset": 33454
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\umeng_common_strings.xml"
@@ -7297,9 +7297,9 @@
                 "to": {
                     "startLine": 609,
                     "startColumn": 4,
-                    "startOffset": 33484,
-                    "endColumn": 71,
-                    "endOffset": 33551
+                    "startOffset": 33459,
+                    "endColumn": 64,
+                    "endOffset": 33519
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\umeng_common_strings.xml"
@@ -7309,9 +7309,9 @@
                 "to": {
                     "startLine": 610,
                     "startColumn": 4,
-                    "startOffset": 33556,
-                    "endColumn": 78,
-                    "endOffset": 33630
+                    "startOffset": 33524,
+                    "endColumn": 71,
+                    "endOffset": 33591
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\umeng_common_strings.xml"
@@ -7321,9 +7321,9 @@
                 "to": {
                     "startLine": 611,
                     "startColumn": 4,
-                    "startOffset": 33635,
-                    "endColumn": 75,
-                    "endOffset": 33706
+                    "startOffset": 33596,
+                    "endColumn": 78,
+                    "endOffset": 33670
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\umeng_common_strings.xml"
@@ -7333,9 +7333,9 @@
                 "to": {
                     "startLine": 612,
                     "startColumn": 4,
-                    "startOffset": 33711,
-                    "endColumn": 73,
-                    "endOffset": 33780
+                    "startOffset": 33675,
+                    "endColumn": 75,
+                    "endOffset": 33746
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\umeng_common_strings.xml"
@@ -7345,21 +7345,21 @@
                 "to": {
                     "startLine": 613,
                     "startColumn": 4,
-                    "startOffset": 33785,
-                    "endColumn": 54,
-                    "endOffset": 33835
+                    "startOffset": 33751,
+                    "endColumn": 73,
+                    "endOffset": 33820
                 },
                 "from": {
-                    "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
+                    "file": "E:\\app_test\\ARCard\\res\\values-zh\\umeng_common_strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 614,
                     "startColumn": 4,
-                    "startOffset": 33840,
-                    "endColumn": 63,
-                    "endOffset": 33899
+                    "startOffset": 33825,
+                    "endColumn": 54,
+                    "endOffset": 33875
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
@@ -7369,9 +7369,9 @@
                 "to": {
                     "startLine": 615,
                     "startColumn": 4,
-                    "startOffset": 33904,
-                    "endColumn": 51,
-                    "endOffset": 33951
+                    "startOffset": 33880,
+                    "endColumn": 63,
+                    "endOffset": 33939
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
@@ -7381,9 +7381,9 @@
                 "to": {
                     "startLine": 616,
                     "startColumn": 4,
-                    "startOffset": 33956,
-                    "endColumn": 60,
-                    "endOffset": 34012
+                    "startOffset": 33944,
+                    "endColumn": 51,
+                    "endOffset": 33991
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
@@ -7393,9 +7393,9 @@
                 "to": {
                     "startLine": 617,
                     "startColumn": 4,
-                    "startOffset": 34017,
-                    "endColumn": 55,
-                    "endOffset": 34068
+                    "startOffset": 33996,
+                    "endColumn": 60,
+                    "endOffset": 34052
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
@@ -7405,9 +7405,9 @@
                 "to": {
                     "startLine": 618,
                     "startColumn": 4,
-                    "startOffset": 34073,
-                    "endColumn": 64,
-                    "endOffset": 34133
+                    "startOffset": 34057,
+                    "endColumn": 55,
+                    "endOffset": 34108
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
@@ -7417,9 +7417,9 @@
                 "to": {
                     "startLine": 619,
                     "startColumn": 4,
-                    "startOffset": 34138,
-                    "endColumn": 46,
-                    "endOffset": 34180
+                    "startOffset": 34113,
+                    "endColumn": 64,
+                    "endOffset": 34173
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
@@ -7429,9 +7429,9 @@
                 "to": {
                     "startLine": 620,
                     "startColumn": 4,
-                    "startOffset": 34185,
-                    "endColumn": 55,
-                    "endOffset": 34236
+                    "startOffset": 34178,
+                    "endColumn": 46,
+                    "endOffset": 34220
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
@@ -7441,21 +7441,9 @@
                 "to": {
                     "startLine": 621,
                     "startColumn": 4,
-                    "startOffset": 34241,
-                    "endColumn": 66,
-                    "endOffset": 34303
-                },
-                "from": {
-                    "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 622,
-                    "startColumn": 4,
-                    "startOffset": 34308,
-                    "endColumn": 83,
-                    "endOffset": 34387
+                    "startOffset": 34225,
+                    "endColumn": 55,
+                    "endOffset": 34276
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
@@ -7463,11 +7451,23 @@
             },
             {
                 "to": {
+                    "startLine": 622,
+                    "startColumn": 4,
+                    "startOffset": 34281,
+                    "endColumn": 66,
+                    "endOffset": 34343
+                },
+                "from": {
+                    "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
+                }
+            },
+            {
+                "to": {
                     "startLine": 623,
                     "startColumn": 4,
-                    "startOffset": 34392,
-                    "endColumn": 40,
-                    "endOffset": 34428
+                    "startOffset": 34348,
+                    "endColumn": 83,
+                    "endOffset": 34427
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
@@ -7477,9 +7477,9 @@
                 "to": {
                     "startLine": 624,
                     "startColumn": 4,
-                    "startOffset": 34433,
-                    "endColumn": 53,
-                    "endOffset": 34482
+                    "startOffset": 34432,
+                    "endColumn": 40,
+                    "endOffset": 34468
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
@@ -7489,9 +7489,9 @@
                 "to": {
                     "startLine": 625,
                     "startColumn": 4,
-                    "startOffset": 34487,
-                    "endColumn": 41,
-                    "endOffset": 34524
+                    "startOffset": 34473,
+                    "endColumn": 53,
+                    "endOffset": 34522
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
@@ -7501,9 +7501,9 @@
                 "to": {
                     "startLine": 626,
                     "startColumn": 4,
-                    "startOffset": 34529,
-                    "endColumn": 59,
-                    "endOffset": 34584
+                    "startOffset": 34527,
+                    "endColumn": 41,
+                    "endOffset": 34564
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
@@ -7513,21 +7513,21 @@
                 "to": {
                     "startLine": 627,
                     "startColumn": 4,
-                    "startOffset": 34589,
-                    "endColumn": 44,
-                    "endOffset": 34629
+                    "startOffset": 34569,
+                    "endColumn": 59,
+                    "endOffset": 34624
                 },
                 "from": {
-                    "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
+                    "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 628,
                     "startColumn": 4,
-                    "startOffset": 34634,
+                    "startOffset": 34629,
                     "endColumn": 44,
-                    "endOffset": 34674
+                    "endOffset": 34669
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -7537,9 +7537,9 @@
                 "to": {
                     "startLine": 629,
                     "startColumn": 4,
-                    "startOffset": 34679,
-                    "endColumn": 48,
-                    "endOffset": 34723
+                    "startOffset": 34674,
+                    "endColumn": 44,
+                    "endOffset": 34714
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -7549,21 +7549,21 @@
                 "to": {
                     "startLine": 630,
                     "startColumn": 4,
-                    "startOffset": 34728,
-                    "endColumn": 38,
-                    "endOffset": 34762
+                    "startOffset": 34719,
+                    "endColumn": 48,
+                    "endOffset": 34763
                 },
                 "from": {
-                    "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
+                    "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 631,
                     "startColumn": 4,
-                    "startOffset": 34767,
-                    "endColumn": 45,
-                    "endOffset": 34808
+                    "startOffset": 34768,
+                    "endColumn": 38,
+                    "endOffset": 34802
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
@@ -7573,9 +7573,9 @@
                 "to": {
                     "startLine": 632,
                     "startColumn": 4,
-                    "startOffset": 34813,
-                    "endColumn": 36,
-                    "endOffset": 34845
+                    "startOffset": 34807,
+                    "endColumn": 45,
+                    "endOffset": 34848
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
@@ -7585,9 +7585,9 @@
                 "to": {
                     "startLine": 633,
                     "startColumn": 4,
-                    "startOffset": 34850,
-                    "endColumn": 45,
-                    "endOffset": 34891
+                    "startOffset": 34853,
+                    "endColumn": 36,
+                    "endOffset": 34885
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
@@ -7597,9 +7597,9 @@
                 "to": {
                     "startLine": 634,
                     "startColumn": 4,
-                    "startOffset": 34896,
+                    "startOffset": 34890,
                     "endColumn": 45,
-                    "endOffset": 34937
+                    "endOffset": 34931
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
@@ -7609,9 +7609,9 @@
                 "to": {
                     "startLine": 635,
                     "startColumn": 4,
-                    "startOffset": 34942,
-                    "endColumn": 49,
-                    "endOffset": 34987
+                    "startOffset": 34936,
+                    "endColumn": 45,
+                    "endOffset": 34977
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
@@ -7621,21 +7621,21 @@
                 "to": {
                     "startLine": 636,
                     "startColumn": 4,
-                    "startOffset": 34992,
-                    "endColumn": 48,
-                    "endOffset": 35036
+                    "startOffset": 34982,
+                    "endColumn": 49,
+                    "endOffset": 35027
                 },
                 "from": {
-                    "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
+                    "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 637,
                     "startColumn": 4,
-                    "startOffset": 35041,
-                    "endColumn": 51,
-                    "endOffset": 35088
+                    "startOffset": 35032,
+                    "endColumn": 48,
+                    "endOffset": 35076
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -7645,9 +7645,9 @@
                 "to": {
                     "startLine": 638,
                     "startColumn": 4,
-                    "startOffset": 35093,
-                    "endColumn": 61,
-                    "endOffset": 35150
+                    "startOffset": 35081,
+                    "endColumn": 51,
+                    "endOffset": 35128
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -7657,9 +7657,9 @@
                 "to": {
                     "startLine": 639,
                     "startColumn": 4,
-                    "startOffset": 35155,
-                    "endColumn": 45,
-                    "endOffset": 35196
+                    "startOffset": 35133,
+                    "endColumn": 61,
+                    "endOffset": 35190
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -7669,9 +7669,9 @@
                 "to": {
                     "startLine": 640,
                     "startColumn": 4,
-                    "startOffset": 35201,
-                    "endColumn": 62,
-                    "endOffset": 35259
+                    "startOffset": 35195,
+                    "endColumn": 45,
+                    "endOffset": 35236
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -7681,9 +7681,9 @@
                 "to": {
                     "startLine": 641,
                     "startColumn": 4,
-                    "startOffset": 35264,
-                    "endColumn": 70,
-                    "endOffset": 35330
+                    "startOffset": 35241,
+                    "endColumn": 62,
+                    "endOffset": 35299
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -7693,9 +7693,9 @@
                 "to": {
                     "startLine": 642,
                     "startColumn": 4,
-                    "startOffset": 35335,
-                    "endColumn": 60,
-                    "endOffset": 35391
+                    "startOffset": 35304,
+                    "endColumn": 70,
+                    "endOffset": 35370
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -7705,9 +7705,9 @@
                 "to": {
                     "startLine": 643,
                     "startColumn": 4,
-                    "startOffset": 35396,
+                    "startOffset": 35375,
                     "endColumn": 60,
-                    "endOffset": 35452
+                    "endOffset": 35431
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -7717,9 +7717,9 @@
                 "to": {
                     "startLine": 644,
                     "startColumn": 4,
-                    "startOffset": 35457,
-                    "endColumn": 81,
-                    "endOffset": 35534
+                    "startOffset": 35436,
+                    "endColumn": 60,
+                    "endOffset": 35492
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -7729,8 +7729,8 @@
                 "to": {
                     "startLine": 645,
                     "startColumn": 4,
-                    "startOffset": 35539,
-                    "endColumn": 39,
+                    "startOffset": 35497,
+                    "endColumn": 81,
                     "endOffset": 35574
                 },
                 "from": {
@@ -7742,20 +7742,8 @@
                     "startLine": 646,
                     "startColumn": 4,
                     "startOffset": 35579,
-                    "endColumn": 49,
-                    "endOffset": 35624
-                },
-                "from": {
-                    "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 647,
-                    "startColumn": 4,
-                    "startOffset": 35629,
-                    "endColumn": 42,
-                    "endOffset": 35667
+                    "endColumn": 39,
+                    "endOffset": 35614
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
@@ -7763,11 +7751,11 @@
             },
             {
                 "to": {
-                    "startLine": 648,
+                    "startLine": 647,
                     "startColumn": 4,
-                    "startOffset": 35672,
-                    "endColumn": 54,
-                    "endOffset": 35722
+                    "startOffset": 35619,
+                    "endColumn": 49,
+                    "endOffset": 35664
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
@@ -7775,11 +7763,35 @@
             },
             {
                 "to": {
+                    "startLine": 648,
+                    "startColumn": 4,
+                    "startOffset": 35669,
+                    "endColumn": 42,
+                    "endOffset": 35707
+                },
+                "from": {
+                    "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
+                }
+            },
+            {
+                "to": {
                     "startLine": 649,
                     "startColumn": 4,
-                    "startOffset": 35727,
+                    "startOffset": 35712,
+                    "endColumn": 54,
+                    "endOffset": 35762
+                },
+                "from": {
+                    "file": "E:\\app_test\\ARCard\\res\\values-zh\\em_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 650,
+                    "startColumn": 4,
+                    "startOffset": 35767,
                     "endColumn": 52,
-                    "endOffset": 35775
+                    "endOffset": 35815
                 },
                 "from": {
                     "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\values-zh\\values-zh.xml"
