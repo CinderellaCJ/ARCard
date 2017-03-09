@@ -37,6 +37,7 @@ import android.widget.Toast;
 import com.cj.arcard.Constant;
 import com.cj.arcard.DemoHelper;
 import com.cj.arcard.db.InviteMessgeDao;
+import com.cj.arcard.db.UserDao;
 import com.cj.arcard.runtimepermissions.PermissionsManager;
 import com.cj.arcard.runtimepermissions.PermissionsResultAction;
 import com.easemob.redpacketsdk.constant.RPConstant;
@@ -50,11 +51,8 @@ import com.hyphenate.chat.EMConversation;
 import com.hyphenate.chat.EMConversation.EMConversationType;
 import com.hyphenate.chat.EMMessage;
 import com.hyphenate.chatuidemo.R;
-import com.cj.arcard.db.UserDao;
 import com.hyphenate.easeui.utils.EaseCommonUtils;
 import com.hyphenate.util.EMLog;
-import com.umeng.analytics.MobclickAgent;
-import com.umeng.update.UmengUpdateAgent;
 
 import java.util.List;
 
@@ -117,9 +115,9 @@ public class MainActivity extends BaseActivity {
 		initView();
 
 		//umeng api
-		MobclickAgent.updateOnlineConfig(this);
+		/*MobclickAgent.updateOnlineConfig(this);
 		UmengUpdateAgent.setUpdateOnlyWifi(false);
-		UmengUpdateAgent.update(this);
+		UmengUpdateAgent.update(this);*/
 
 		showExceptionDialogFromIntent(getIntent());
 
