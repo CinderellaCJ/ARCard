@@ -11,6 +11,8 @@ buildscript {
 allprojects {
     repositories {
         jcenter()
+        //Bmob的maven仓库地址--必填
+        maven { url "https://raw.github.com/bmob/bmob-android-sdk/master" }
     }
 }
 
@@ -24,7 +26,7 @@ android {
 
     defaultConfig {
         applicationId "com.cj.arcard"
-        minSdkVersion 11
+        minSdkVersion 17
         targetSdkVersion 22
         multiDexEnabled true
     }
@@ -66,8 +68,8 @@ dependencies {
     compile project(':redpacketlibrary')
     compile project(':easeui')
     compile fileTree(dir: 'libs', include: '*.jar', exclude: 'android-support-multidex.jar')
-    //考虑到在eclipse中,直接使用源码
-//    compile ('com.anthonycr.grant:permissions:1.0'){
-//        exclude module: 'support-v4'
-//    }
+
+    //bmob
+    compile 'cn.bmob.android:http-legacy:1.0'
+    compile 'cn.bmob.android:bmob-sdk:3.5.0'
 }

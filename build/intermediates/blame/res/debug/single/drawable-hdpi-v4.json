@@ -24,6 +24,10 @@
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\drawable-hdpi-v4\\ee_31.png"
     },
     {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bmob_update_btn_check_on_holo_light.png",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable-hdpi-v4\\bmob_update_btn_check_on_holo_light.png"
+    },
+    {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_1.png",
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\drawable-hdpi-v4\\ee_1.png"
     },
@@ -66,6 +70,10 @@
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_video_download_btn_nor.png",
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\drawable-hdpi-v4\\ease_video_download_btn_nor.png"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bmob_update_close_bg_normal.png",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable-hdpi-v4\\bmob_update_close_bg_normal.png"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_chatto_voice_playing_f2.png",
@@ -216,6 +224,10 @@
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\drawable-hdpi-v4\\ease_type_select_btn_pressed.png"
     },
     {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bmob_update_btn_check_on_pressed_holo_light.png",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable-hdpi-v4\\bmob_update_btn_check_on_pressed_holo_light.png"
+    },
+    {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_contact_list_selected.png",
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\drawable-hdpi-v4\\ease_contact_list_selected.png"
     },
@@ -254,6 +266,14 @@
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_18.png",
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\drawable-hdpi-v4\\ee_18.png"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bmob_update_close_bg_tap.png",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable-hdpi-v4\\bmob_update_close_bg_tap.png"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bmob_update_btn_check_on_focused_holo_light.png",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable-hdpi-v4\\bmob_update_btn_check_on_focused_holo_light.png"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_chatfrom_voice_playing_f3.png",
@@ -492,8 +512,16 @@
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\drawable-hdpi-v4\\ee_13.png"
     },
     {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bmob_update_btn_check_off_holo_light.png",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable-hdpi-v4\\bmob_update_btn_check_off_holo_light.png"
+    },
+    {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_10.png",
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\drawable-hdpi-v4\\ee_10.png"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bmob_update_btn_check_off_focused_holo_light.png",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable-hdpi-v4\\bmob_update_btn_check_off_focused_holo_light.png"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_record_animate_05.png",
@@ -510,6 +538,10 @@
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_record_animate_08.png",
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\drawable-hdpi-v4\\ease_record_animate_08.png"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bmob_update_btn_check_off_pressed_holo_light.png",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable-hdpi-v4\\bmob_update_btn_check_off_pressed_holo_light.png"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_dx_checkbox_on.png",

@@ -4,12 +4,13 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.animation.AlphaAnimation;
 import android.widget.RelativeLayout;
-import android.widget.TextView;
 
-import com.hyphenate.chat.EMClient;
 import com.cj.arcard.DemoHelper;
+import com.hyphenate.chat.EMClient;
 import com.hyphenate.chatuidemo.R;
 import com.hyphenate.util.EasyUtils;
+
+import cn.bmob.v3.Bmob;
 
 /**
  * 开屏页
@@ -30,6 +31,9 @@ public class SplashActivity extends BaseActivity {
 		AlphaAnimation animation = new AlphaAnimation(0.3f, 1.0f);
 		animation.setDuration(1500);
 		rootLayout.startAnimation(animation);
+
+		//bmob初始化
+		Bmob.initialize(this, "7f9d2ef8b638e08d247b3564e8886d06");
 	}
 
 	@Override

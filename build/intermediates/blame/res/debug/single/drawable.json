@@ -12,6 +12,10 @@
         "source": "E:\\app_test\\ARCard\\res\\drawable\\em_btn_gray_pressed_shape.xml"
     },
     {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_close_bg_selector.xml",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_close_bg_selector.xml"
+    },
+    {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_timestampe_bg.xml",
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\drawable\\ease_timestampe_bg.xml"
     },
@@ -60,12 +64,12 @@
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\drawable\\rp_btn_red_selector.xml"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_check_selector.xml",
-        "source": "E:\\app_test\\ARCard\\res\\drawable\\umeng_update_button_check_selector.xml"
-    },
-    {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\em_tab_chat_bg.xml",
         "source": "E:\\app_test\\ARCard\\res\\drawable\\em_tab_chat_bg.xml"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_check_selector.xml",
+        "source": "E:\\app_test\\ARCard\\res\\drawable\\umeng_update_button_check_selector.xml"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatting_setmode_voice_btn.xml",
@@ -104,12 +108,20 @@
         "source": "E:\\app_test\\ARCard\\res\\drawable\\umeng_update_button_ok_bg_tap.xml"
     },
     {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_tap.xml",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_ok_bg_tap.xml"
+    },
+    {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_recording_hint_bg.xml",
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\drawable\\ease_recording_hint_bg.xml"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\em_smiley_minus_btn.xml",
         "source": "E:\\app_test\\ARCard\\res\\drawable\\em_smiley_minus_btn.xml"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_check_selector.xml",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_check_selector.xml"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_loading_bg.xml",
@@ -142,6 +154,10 @@
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\em_chat_transfer_selector.xml",
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\drawable\\em_chat_transfer_selector.xml"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_focused.xml",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_cancel_bg_focused.xml"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_gray_selector.xml",
@@ -208,8 +224,16 @@
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\drawable\\rp_btn_red_no_enable_shape.xml"
     },
     {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_selector.xml",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_ok_bg_selector.xml"
+    },
+    {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_recording_text_hint_bg.xml",
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\drawable\\ease_recording_text_hint_bg.xml"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_normal.xml",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_ok_bg_normal.xml"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_takepic_selector.xml",
@@ -264,6 +288,10 @@
         "source": "E:\\app_test\\ARCard\\res\\drawable\\em_button_register_bg.xml"
     },
     {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_wifi_disable.png",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_wifi_disable.png"
+    },
+    {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_blue_pressed_shape.xml",
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\drawable\\rp_btn_blue_pressed_shape.xml"
     },
@@ -298,6 +326,10 @@
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\em_call_answer_bg.xml",
         "source": "E:\\app_test\\ARCard\\res\\drawable\\em_call_answer_bg.xml"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_focused.xml",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_ok_bg_focused.xml"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\em_call_hangup_bg.xml",
@@ -364,6 +396,14 @@
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\drawable\\rp_btn_red_enable_shape.xml"
     },
     {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_dialog_bg.xml",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_dialog_bg.xml"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_normal.xml",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_cancel_bg_normal.xml"
+    },
+    {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_loading_anim.xml",
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\drawable\\rp_loading_anim.xml"
     },
@@ -390,6 +430,10 @@
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_tap.xml",
         "source": "E:\\app_test\\ARCard\\res\\drawable\\umeng_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_selector.xml",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_cancel_bg_selector.xml"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\em_button_myprofile_selector.xml",
@@ -426,6 +470,10 @@
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_normal.xml",
         "source": "E:\\app_test\\ARCard\\res\\drawable\\umeng_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_tap.xml",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_cancel_bg_tap.xml"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_open_selector_unsolid.xml",
