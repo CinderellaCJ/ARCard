@@ -23,6 +23,7 @@ import android.widget.Toast;
 
 import com.cj.arcard.Constant;
 import com.cj.arcard.DemoHelper;
+import com.cj.arcard.base.MyBaseFragmentActivity;
 import com.cj.arcard.db.InviteMessgeDao;
 import com.cj.arcard.db.UserDao;
 import com.cj.arcard.runtimepermissions.PermissionsManager;
@@ -47,7 +48,7 @@ import com.umeng.update.UmengUpdateAgent;
 import java.util.List;
 
 @SuppressLint("NewApi")
-public class MainActivity extends BaseActivity {
+public class MainActivity extends MyBaseFragmentActivity {
 
 	protected static final String TAG = "MainActivity";
 	// textview for unread message count
@@ -263,10 +264,10 @@ public class MainActivity extends BaseActivity {
 		});
 	}
 
-	@Override
+/*	@Override
 	public void back(View view) {
 		super.back(view);
-	}
+	}*/
 	
 	private void registerBroadcastReceiver() {
         broadcastManager = LocalBroadcastManager.getInstance(this);

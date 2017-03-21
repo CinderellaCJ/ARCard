@@ -1,4 +1,4 @@
-#Fri Mar 10 14:14:37 CST 2017
+#Mon Mar 20 14:32:20 CST 2017
 base.0=E\:\\app_test\\ARCard\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_38843d85ba378b558c18ce9e8d15021f11b5b7eb
 renamed.1=classes.dex
 renamed.0=classes2.dex

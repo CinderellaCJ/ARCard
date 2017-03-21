@@ -8,6 +8,10 @@
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\layout\\ease_row_sent_location.xml"
     },
     {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\capture_appcompat.xml",
+        "source": "E:\\app_test\\ARCard\\res\\layout\\capture_appcompat.xml"
+    },
+    {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\em_context_menu_for_voice.xml",
         "source": "E:\\app_test\\ARCard\\res\\layout\\em_context_menu_for_voice.xml"
     },
@@ -50,6 +54,14 @@
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\rp_fragment_verify_dentity.xml",
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\layout\\rp_fragment_verify_dentity.xml"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_receiver.xml",
+        "source": "E:\\app_test\\ARCard\\res\\layout\\fragment_receiver.xml"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_capture.xml",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\3.3.0\\res\\layout\\zxing_capture.xml"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\rp_activity_group_member.xml",
@@ -312,6 +324,10 @@
         "source": "E:\\app_test\\ARCard\\res\\layout\\em_activity_voice_call.xml"
     },
     {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_headview.xml",
+        "source": "E:\\app_test\\ARCard\\res\\layout\\fragment_headview.xml"
+    },
+    {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_group_details.xml",
         "source": "E:\\app_test\\ARCard\\res\\layout\\em_activity_group_details.xml"
     },
@@ -528,12 +544,12 @@
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\layout\\ease_fragment_chat.xml"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_chat.xml",
-        "source": "E:\\app_test\\ARCard\\res\\layout\\em_activity_chat.xml"
-    },
-    {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
         "source": "E:\\app_test\\ARCard\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_chat.xml",
+        "source": "E:\\app_test\\ARCard\\res\\layout\\em_activity_chat.xml"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\rp_widget_title_bar.xml",
@@ -556,12 +572,12 @@
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\layout\\em_row_received_red_packet.xml"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_emojicon_tab_bar.xml",
-        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\layout\\ease_widget_emojicon_tab_bar.xml"
-    },
-    {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_voice_call.xml",
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\layout\\ease_row_received_voice_call.xml"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_emojicon_tab_bar.xml",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\layout\\ease_widget_emojicon_tab_bar.xml"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\rp_hint_message_dialog.xml",
@@ -622,6 +638,14 @@
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\em_listview_footer_view.xml",
         "source": "E:\\app_test\\ARCard\\res\\layout\\em_listview_footer_view.xml"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_send.xml",
+        "source": "E:\\app_test\\ARCard\\res\\layout\\fragment_send.xml"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_barcode_scanner.xml",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\3.3.0\\res\\layout\\zxing_barcode_scanner.xml"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\layout\\em_row_group.xml",

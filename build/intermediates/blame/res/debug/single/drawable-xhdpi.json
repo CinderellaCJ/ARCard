@@ -72,6 +72,10 @@
         "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\em_splash_logo.png"
     },
     {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\scan_icon.png",
+        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\scan_icon.png"
+    },
+    {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_chat_video_call_normal.png",
         "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\em_chat_video_call_normal.png"
     },
@@ -98,6 +102,10 @@
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_new_friends_icon.png",
         "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\em_new_friends_icon.png"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\scan_bg.png",
+        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\scan_bg.png"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_chat_nomal.png",

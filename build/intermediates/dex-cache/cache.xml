@@ -3,12 +3,12 @@
 
     <item
         is-multidex="true"
-        jar="E:\app_test\ARCard\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="E:\app_test\ARCard\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="eaa774deb910f4ac96a83dff86a9280ce37a3d53">
-        <dex dex="E:\app_test\ARCard\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_38843d85ba378b558c18ce9e8d15021f11b5b7eb\classes.dex" />
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="E:\app_test\ARCard\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.0_234999b97745d80f53245792509eb7a31653f66b\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -18,6 +18,15 @@
         revision="23.0.1"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
         <dex dex="E:\app_test\ARCard\build\intermediates\transforms\dex\debug\folders\1000\2\bolts-tasks-1.4.0_253f8b5e0b0c166920c160415b88457c0bf99175\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\app_test\ARCard\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="721be64b49986e975177906d92d2929345eba693">
+        <dex dex="E:\app_test\ARCard\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_38843d85ba378b558c18ce9e8d15021f11b5b7eb\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -61,7 +70,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="40aadaff71a4bf1dc0b8babea80185636b52be9c">
+        sha1="68877548a029926747e9cb8a68bee25ac714f929">
         <dex dex="E:\app_test\ARCard\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9afefd71258f6290fe260cbe1e6f6feb5cef1a55\classes.dex" />
     </item>
     <item
@@ -75,12 +84,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="E:\app_test\ARCard\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.4.0_a2a255623276bf6fd1b525dcb3e3c692cac62c3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="E:\app_test\ARCard\build\intermediates\exploded-aar\cn.bmob.android\bmob-sdk\3.5.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
         sha1="e47f10299673ab68f24c595f96b18086cc9a8384">
         <dex dex="E:\app_test\ARCard\build\intermediates\transforms\dex\debug\folders\1000\10\cn.bmob.android-bmob-sdk-3.5.0_55be887cd1bddbd2f66257aef40515fe624b951c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\app_test\ARCard\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="E:\app_test\ARCard\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.4.0_880d8ed0ee870e307e203bfbcb985b7815a7b02f\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -117,6 +144,15 @@
         revision="23.0.1"
         sha1="3dc967df12a04b5e1fd7641a5661d159b747297f">
         <dex dex="E:\app_test\ARCard\build\intermediates\transforms\dex\debug\folders\1000\8\alipaySdk-20160516_ad7398f39a221ddc42dffc89a6b19138a717c268\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\app_test\ARCard\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="E:\app_test\ARCard\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_5daebd77c3fddc393edc278480bbf58ed224c7fe\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -165,6 +201,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="E:\app_test\ARCard\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.2.1_3f96f72d8bc40481fc852122e0314b3485c288eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="E:\app_test\ARCard\build\intermediates\exploded-aar\cn.bmob.android\bmob-sdk\3.5.0\jars\libs\okio-1.7.0.jar"
         jumboMode="true"
         optimize="true"
@@ -189,6 +234,24 @@
         revision="23.0.1"
         sha1="5320fd78dd7f154e586970d4f02befc9b58432aa">
         <dex dex="E:\app_test\ARCard\build\intermediates\transforms\dex\debug\folders\1000\10\http-legacy-1.0_9b4ccebf2e3cdab234bf04ed9cef58b374216fdf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\app_test\ARCard\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="29c426f3ff52238291c86e939dff6bd8a877b86c">
+        <dex dex="E:\app_test\ARCard\build\intermediates\transforms\dex\debug\folders\1000\10\com.journeyapps-zxing-android-embedded-3.3.0_f3e6db36358394cfc03d1588aac85f4ebdf9e4a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android-studio-bundle-windows\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.0\support-annotations-24.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="E:\app_test\ARCard\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.0_26c16d91e66966c5998e7ef8a096898e65b902f5\classes.dex" />
     </item>
     <item
         is-multidex="true"

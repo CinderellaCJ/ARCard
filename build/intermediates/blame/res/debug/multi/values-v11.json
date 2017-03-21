@@ -62,6 +62,27 @@
                         "endOffset": 479
                     }
                 }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 484,
+                    "endLine": 10,
+                    "endColumn": 10,
+                    "endOffset": 579
+                },
+                "from": {
+                    "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\3.3.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 3,
+                        "endColumn": 10,
+                        "endOffset": 150
+                    }
+                }
             }
         ]
     }

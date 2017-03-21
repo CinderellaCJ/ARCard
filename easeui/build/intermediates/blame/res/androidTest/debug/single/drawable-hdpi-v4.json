@@ -64,12 +64,12 @@
         "source": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ease_chatto_bg_normal.9.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ease_chatto_voice_playing.png",
-        "source": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ease_chatto_voice_playing.png"
-    },
-    {
         "merged": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ease_record_animate_13.png",
         "source": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ease_record_animate_13.png"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ease_chatto_voice_playing.png",
+        "source": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ease_chatto_voice_playing.png"
     },
     {
         "merged": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ee_15.png",
@@ -256,12 +256,12 @@
         "source": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ease_slidetab_bg_press.9.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ease_ic_launcher.png",
-        "source": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ease_ic_launcher.png"
-    },
-    {
         "merged": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ee_25.png",
         "source": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ee_25.png"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ease_ic_launcher.png",
+        "source": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ease_ic_launcher.png"
     },
     {
         "merged": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ease_mm_listitem_pressed.9.png",
@@ -280,12 +280,12 @@
         "source": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ee_10.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ease_video_recorder_stop_btn.png",
-        "source": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ease_video_recorder_stop_btn.png"
-    },
-    {
         "merged": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ee_12.png",
         "source": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ee_12.png"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ease_video_recorder_stop_btn.png",
+        "source": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ease_video_recorder_stop_btn.png"
     },
     {
         "merged": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ease_record_animate_10.png",
@@ -296,20 +296,20 @@
         "source": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ease_chatting_setmode_keyboard_btn_normal.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ee_26.png",
-        "source": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ee_26.png"
-    },
-    {
         "merged": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ee_23.png",
         "source": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ee_23.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ease_record_animate_08.png",
-        "source": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ease_record_animate_08.png"
+        "merged": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ee_26.png",
+        "source": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ee_26.png"
     },
     {
         "merged": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ease_record_animate_05.png",
         "source": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ease_record_animate_05.png"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ease_record_animate_08.png",
+        "source": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ease_record_animate_08.png"
     },
     {
         "merged": "E:\\app_test\\ARCard\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ee_3.png",

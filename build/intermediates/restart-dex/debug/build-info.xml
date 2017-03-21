@@ -5,33 +5,33 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="18718987337263"
+    timestamp="13727846321198"
     token="1284539168691804047"
-    verifier="MANIFEST_FILE_CHANGE" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="7975" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="3301" />
+        duration="0" />
     <task
         name="verifier"
-        duration="85" />
+        duration="0" />
 
     <artifact
         location="E:\app_test\ARCard\build\outputs\apk\ARCard-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="21749921141944"
-        verifier="COLD_SWAP_REQUESTED" >
+        timestamp="13727846321198"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="E:\app_test\ARCard\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
-            type="DEX" />
+            location="E:\app_test\ARCard\build\outputs\apk\ARCard-debug.apk"
+            type="MAIN" />
     </build>
 
 </instant-run>

@@ -12,6 +12,10 @@
         "source": "E:\\app_test\\ARCard\\res\\drawable\\em_btn_gray_pressed_shape.xml"
     },
     {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\right_radiobutton_select.xml",
+        "source": "E:\\app_test\\ARCard\\res\\drawable\\right_radiobutton_select.xml"
+    },
+    {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_close_bg_selector.xml",
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_close_bg_selector.xml"
     },
@@ -64,12 +68,12 @@
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\drawable\\rp_btn_red_selector.xml"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\em_tab_chat_bg.xml",
-        "source": "E:\\app_test\\ARCard\\res\\drawable\\em_tab_chat_bg.xml"
-    },
-    {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_check_selector.xml",
         "source": "E:\\app_test\\ARCard\\res\\drawable\\umeng_update_button_check_selector.xml"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\em_tab_chat_bg.xml",
+        "source": "E:\\app_test\\ARCard\\res\\drawable\\em_tab_chat_bg.xml"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatting_setmode_voice_btn.xml",
@@ -78,6 +82,10 @@
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\em_checkbox_bg_gray_selector.xml",
         "source": "E:\\app_test\\ARCard\\res\\drawable\\em_checkbox_bg_gray_selector.xml"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\card_receiver_normal.xml",
+        "source": "E:\\app_test\\ARCard\\res\\drawable\\card_receiver_normal.xml"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\em_transfer_chatfrom_bg.xml",
@@ -148,16 +156,16 @@
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\drawable\\ease_chat_location_selector.xml"
     },
     {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_focused.xml",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_cancel_bg_focused.xml"
+    },
+    {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\em_smiley_add_btn.xml",
         "source": "E:\\app_test\\ARCard\\res\\drawable\\em_smiley_add_btn.xml"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\em_chat_transfer_selector.xml",
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\drawable\\em_chat_transfer_selector.xml"
-    },
-    {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_focused.xml",
-        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_cancel_bg_focused.xml"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_gray_selector.xml",
@@ -212,6 +220,10 @@
         "source": "E:\\app_test\\ARCard\\res\\drawable\\umeng_update_title_bg.xml"
     },
     {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\card_receiver_checked.xml",
+        "source": "E:\\app_test\\ARCard\\res\\drawable\\card_receiver_checked.xml"
+    },
+    {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_msg_state_failed_resend.xml",
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\drawable\\ease_msg_state_failed_resend.xml"
     },
@@ -220,12 +232,12 @@
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\drawable\\ease_mm_listitem.xml"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_red_no_enable_shape.xml",
-        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\drawable\\rp_btn_red_no_enable_shape.xml"
-    },
-    {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_selector.xml",
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_red_no_enable_shape.xml",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\drawable\\rp_btn_red_no_enable_shape.xml"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_recording_text_hint_bg.xml",
@@ -274,6 +286,10 @@
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_red.xml",
         "source": "E:\\app_test\\ARCard\\res\\drawable\\umeng_common_gradient_red.xml"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\card_text_select.xml",
+        "source": "E:\\app_test\\ARCard\\res\\drawable\\card_text_select.xml"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_grey_pressed_shape.xml",
@@ -420,6 +436,10 @@
         "source": "E:\\app_test\\ARCard\\res\\drawable\\umeng_common_gradient_green.xml"
     },
     {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_selector.xml",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_cancel_bg_selector.xml"
+    },
+    {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_send_btn_selector.xml",
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\drawable\\ease_chat_send_btn_selector.xml"
     },
@@ -432,8 +452,8 @@
         "source": "E:\\app_test\\ARCard\\res\\drawable\\umeng_update_button_cancel_bg_tap.xml"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_selector.xml",
-        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\drawable\\bmob_update_button_cancel_bg_selector.xml"
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\card_send_normal.xml",
+        "source": "E:\\app_test\\ARCard\\res\\drawable\\card_send_normal.xml"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\em_button_myprofile_selector.xml",
@@ -496,8 +516,16 @@
         "source": "E:\\app_test\\ARCard\\res\\drawable\\em_photogrid_list_selector.xml"
     },
     {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\card_send_checked.xml",
+        "source": "E:\\app_test\\ARCard\\res\\drawable\\card_send_checked.xml"
+    },
+    {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_cancel_pressed_shape.xml",
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\drawable\\ease_btn_cancel_pressed_shape.xml"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\left_radiobutton_select.xml",
+        "source": "E:\\app_test\\ARCard\\res\\drawable\\left_radiobutton_select.xml"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_cancel_shape.xml",
