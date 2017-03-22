@@ -25,7 +25,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="721be64b49986e975177906d92d2929345eba693">
+        sha1="cd0767b71c6f4474f6b47859420c38b2e431e844">
         <dex dex="E:\app_test\ARCard\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_38843d85ba378b558c18ce9e8d15021f11b5b7eb\classes.dex" />
     </item>
     <item
@@ -70,7 +70,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="68877548a029926747e9cb8a68bee25ac714f929">
+        sha1="c2b6985ca248894345f74dc23e629eca536beeef">
         <dex dex="E:\app_test\ARCard\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9afefd71258f6290fe260cbe1e6f6feb5cef1a55\classes.dex" />
     </item>
     <item

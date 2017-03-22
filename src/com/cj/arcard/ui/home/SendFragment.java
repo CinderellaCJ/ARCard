@@ -23,6 +23,10 @@ import java.util.ArrayList;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
+import cn.bmob.v3.BmobQuery;
+import cn.bmob.v3.exception.BmobException;
+import cn.bmob.v3.listener.QueryListener;
+import cn.bmob.v3.listener.SaveListener;
 
 /**
  * Created by Administrator on 2017/3/20.
@@ -46,17 +50,48 @@ public class SendFragment extends Fragment {
         }
         ButterKnife.bind(this, mView);
 
-        mCardArrayList = new ArrayList<>();
-        mCardListAdapter = new CardListAdapter(getActivity(),mCardArrayList);
-
+        //listView设置headView
         View headView = inflater.inflate(R.layout.fragment_headview, null);
         mCardListView.addHeaderView(headView);
-
         scanImage = (ImageView) headView.findViewById(R.id.scan);
         scanImage.setOnClickListener(new scanListener());
 
+        mCardArrayList = new ArrayList<>();
+        mCardListAdapter = new CardListAdapter(getActivity(),mCardArrayList);
         mCardListView.setAdapter(mCardListAdapter);
+        
+        initData();
         return mView;
+    }
+
+    private void initData() {
+        Card card = new Card();
+        card.setCardId("1");
+        card.save(new SaveListener<String>() {
+            @Override
+            public void done(String s, BmobException e) {
+                if (e == null){
+                    ToastUtil.showShort(getActivity(),"添加数据成功");
+                }else {
+                    LogUtil.d("失败："+e.getMessage()+","+e.getErrorCode());
+                }
+
+            }
+        });
+
+        BmobQuery<Card> query = new BmobQuery<Card>();
+        query.getObject("bbe67b6a90", new QueryListener<Card>() {
+            @Override
+            public void done(Card card, BmobException e) {
+                if (e == null){
+                    LogUtil.d("aaaaaaaaaaaaaa");
+                    LogUtil.d(card.getCreatedAt());
+                    LogUtil.d(card.getCardId());
+                }else {
+                    LogUtil.d("失败："+e.getMessage()+","+e.getErrorCode());
+                }
+            }
+        });
     }
 
     /**
@@ -78,6 +113,7 @@ public class SendFragment extends Fragment {
         } else {
             ToastUtil.showShort(getActivity(),result.getContents());
             LogUtil.d("111111111111111111111111" + result.getContents());
+
         }
     }
 }

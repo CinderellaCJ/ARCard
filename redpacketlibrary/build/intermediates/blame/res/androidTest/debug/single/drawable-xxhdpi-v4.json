@@ -1,35 +1,35 @@
 [
     {
-        "merged": "E:\\app_test\\ARCard\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\rp_pass_authentication.png",
-        "source": "E:\\app_test\\ARCard\\redpacketlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\rp_pass_authentication.png"
-    },
-    {
         "merged": "E:\\app_test\\ARCard\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\rp_ad_share.png",
         "source": "E:\\app_test\\ARCard\\redpacketlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\rp_ad_share.png"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\rp_pass_authentication.png",
+        "source": "E:\\app_test\\ARCard\\redpacketlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\rp_pass_authentication.png"
     },
     {
         "merged": "E:\\app_test\\ARCard\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\rp_search_icon.png",
         "source": "E:\\app_test\\ARCard\\redpacketlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\rp_search_icon.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\rp_exclusive_sender_avatar_bg.png",
-        "source": "E:\\app_test\\ARCard\\redpacketlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\rp_exclusive_sender_avatar_bg.png"
-    },
-    {
         "merged": "E:\\app_test\\ARCard\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\rp_error_page_icon.png",
         "source": "E:\\app_test\\ARCard\\redpacketlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\rp_error_page_icon.png"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\rp_exclusive_sender_avatar_bg.png",
+        "source": "E:\\app_test\\ARCard\\redpacketlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\rp_exclusive_sender_avatar_bg.png"
     },
     {
         "merged": "E:\\app_test\\ARCard\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\rp_exclusive_icon.png",
         "source": "E:\\app_test\\ARCard\\redpacketlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\rp_exclusive_icon.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\em_red_packet_chatfrom_bg_focused.9.png",
-        "source": "E:\\app_test\\ARCard\\redpacketlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\em_red_packet_chatfrom_bg_focused.9.png"
-    },
-    {
         "merged": "E:\\app_test\\ARCard\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\rp_picture_frame_lack.png",
         "source": "E:\\app_test\\ARCard\\redpacketlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\rp_picture_frame_lack.png"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\em_red_packet_chatfrom_bg_focused.9.png",
+        "source": "E:\\app_test\\ARCard\\redpacketlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\em_red_packet_chatfrom_bg_focused.9.png"
     },
     {
         "merged": "E:\\app_test\\ARCard\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\rp_upload_add.png",

@@ -104,12 +104,12 @@
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\drawable-xhdpi-v4\\ease_chat_takepic_pressed.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ease_chat_press_speak_btn_normal.9.png",
-        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\drawable-xhdpi-v4\\ease_chat_press_speak_btn_normal.9.png"
-    },
-    {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ease_new_friends_icon.png",
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\drawable-xhdpi-v4\\ease_new_friends_icon.png"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ease_chat_press_speak_btn_normal.9.png",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\drawable-xhdpi-v4\\ease_chat_press_speak_btn_normal.9.png"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ease_chat_item_file.png",

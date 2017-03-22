@@ -132,12 +132,12 @@
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\drawable-xxhdpi-v4\\rp_refresh.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\em_transfer_chatto_bg_focused.9.png",
-        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\drawable-xxhdpi-v4\\em_transfer_chatto_bg_focused.9.png"
-    },
-    {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_back_arrow_grey.png",
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\drawable-xxhdpi-v4\\rp_back_arrow_grey.png"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\em_transfer_chatto_bg_focused.9.png",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\drawable-xxhdpi-v4\\em_transfer_chatto_bg_focused.9.png"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\em_random_chatto_bg.png",
@@ -276,12 +276,12 @@
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\drawable-xxhdpi-v4\\rp_red_packet_records.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_load_dark.png",
-        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\drawable-xxhdpi-v4\\rp_load_dark.png"
-    },
-    {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_exclusive_sender_avatar_bg.png",
         "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\drawable-xxhdpi-v4\\rp_exclusive_sender_avatar_bg.png"
+    },
+    {
+        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_load_dark.png",
+        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\ARcard\\redpacketlibrary\\unspecified\\res\\drawable-xxhdpi-v4\\rp_load_dark.png"
     },
     {
         "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_picture_flash_strong.png",
