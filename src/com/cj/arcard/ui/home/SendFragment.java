@@ -59,7 +59,7 @@ public class SendFragment extends Fragment {
         mCardArrayList = new ArrayList<>();
         mCardListAdapter = new CardListAdapter(getActivity(),mCardArrayList);
         mCardListView.setAdapter(mCardListAdapter);
-        LogUtil.d("aaaaaaaaaaaaaa");
+        LogUtil.d("aaaaaaaaaaaaaab");
         initData();
         return mView;
     }
