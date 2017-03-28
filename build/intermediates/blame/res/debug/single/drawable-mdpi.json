@@ -1,10 +1,10 @@
 [
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\em_logo_uidemo.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-mdpi\\em_logo_uidemo.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-mdpi/em_logo_uidemo.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-mdpi/em_logo_uidemo.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\em_unread_count_bg.9.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-mdpi\\em_unread_count_bg.9.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-mdpi/em_unread_count_bg.9.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-mdpi/em_unread_count_bg.9.png"
     }
 ]

@@ -1,150 +1,150 @@
 [
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_create_group.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\em_create_group.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/em_chat_file_pressed.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/em_chat_file_pressed.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_add_public_group.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\em_add_public_group.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/em_add_public_group.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/em_add_public_group.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_icon_mute_on.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\em_icon_mute_on.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/em_chat_video_normal.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/em_chat_video_normal.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_chat_video_normal.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\em_chat_video_normal.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/em_icon_speaker_normal.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/em_icon_speaker_normal.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_icon_speaker_normal.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\em_icon_speaker_normal.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/em_settings_normal.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/em_settings_normal.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_chat_file_normal.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\em_chat_file_normal.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/em_groups_icon.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/em_groups_icon.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_to_group_details_normal.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\em_to_group_details_normal.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/tab_me_nomal.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/tab_me_nomal.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_contact_nomal.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\tab_contact_nomal.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/em_icon_mute_on.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/em_icon_mute_on.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_icon_speaker_on.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\em_icon_speaker_on.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/em_unread_dot.9.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/em_unread_dot.9.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_icon_mute_normal.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\em_icon_mute_normal.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/em_unread_count_bg.9.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/em_unread_count_bg.9.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_me_select.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\tab_me_select.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/em_settings_selected.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/em_settings_selected.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_chat_voice_call_pressed.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\em_chat_voice_call_pressed.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/em_splash_logo.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/em_splash_logo.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\splash.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\splash.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/em_chat_video_pressed.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/em_chat_video_pressed.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_logo_uidemo.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\em_logo_uidemo.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/tab_home_select.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/tab_home_select.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_groups_icon.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\em_groups_icon.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/em_group_icon.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/em_group_icon.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_contact_select.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\tab_contact_select.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/splash.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/splash.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_chat_video_call_pressed.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\em_chat_video_call_pressed.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/tab_contact_nomal.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/tab_contact_nomal.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_splash_logo.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\em_splash_logo.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/em_chat_file_normal.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/em_chat_file_normal.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\scan_icon.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\scan_icon.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/em_icon_speaker_on.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/em_icon_speaker_on.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_chat_video_call_normal.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\em_chat_video_call_normal.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/tab_me_select.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/tab_me_select.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_chat_file_pressed.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\em_chat_file_pressed.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/em_chat_voice_call_normal.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/em_chat_voice_call_normal.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_home_nomal.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\tab_home_nomal.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/tab_chat_select.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/tab_chat_select.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_me_nomal.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\tab_me_nomal.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/em_logo_uidemo.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/em_logo_uidemo.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_home_select.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\tab_home_select.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/em_new_friends_icon.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/em_new_friends_icon.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_settings_normal.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\em_settings_normal.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/scan_icon.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/scan_icon.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_new_friends_icon.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\em_new_friends_icon.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/tab_home_nomal.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/tab_home_nomal.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\scan_bg.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\scan_bg.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/em_icon_mute_normal.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/em_icon_mute_normal.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_chat_nomal.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\tab_chat_nomal.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/em_chat_video_call_normal.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/em_chat_video_call_normal.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_splash.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\em_splash.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/em_chat_video_call_pressed.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/em_chat_video_call_pressed.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_unread_dot.9.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\em_unread_dot.9.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/em_chat_voice_call_pressed.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/em_chat_voice_call_pressed.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_ar.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\icon_ar.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/scan_bg.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/scan_bg.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_chat_select.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\tab_chat_select.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/em_splash.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/em_splash.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_chat_voice_call_normal.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\em_chat_voice_call_normal.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/em_create_group.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/em_create_group.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_chat_video_pressed.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\em_chat_video_pressed.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/em_to_group_details_normal.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/em_to_group_details_normal.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_unread_count_bg.9.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\em_unread_count_bg.9.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/tab_contact_select.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/tab_contact_select.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_settings_selected.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\em_settings_selected.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/icon_ar.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/icon_ar.png"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_group_icon.png",
-        "source": "E:\\app_test\\ARCard\\res\\drawable-xhdpi\\em_group_icon.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi/tab_chat_nomal.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/tab_chat_nomal.png"
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\app_test\\ARCard\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+        "outputFile": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 103
                 },
                 "from": {
-                    "file": "E:\\app_test\\ARCard\\res\\values-large\\em_dimens.xml",
+                    "file": "/Users/chenjing/Documents/android-workspace/ARCard/res/values-large/em_dimens.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 682,
+                        "startOffset": 663,
                         "endColumn": 52,
-                        "endOffset": 730
+                        "endOffset": 711
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 157
                 },
                 "from": {
-                    "file": "E:\\app_test\\ARCard\\res\\values-large\\em_dimens.xml",
+                    "file": "/Users/chenjing/Documents/android-workspace/ARCard/res/values-large/em_dimens.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 736,
+                        "startOffset": 716,
                         "endColumn": 53,
-                        "endOffset": 785
+                        "endOffset": 765
                     }
                 }
             }

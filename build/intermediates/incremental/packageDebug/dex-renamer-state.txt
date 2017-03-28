@@ -1,7 +1,0 @@
-#Wed Mar 22 11:49:30 CST 2017
-base.0=E\:\\app_test\\ARCard\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_38843d85ba378b558c18ce9e8d15021f11b5b7eb
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=E\:\\app_test\\ARCard\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9afefd71258f6290fe260cbe1e6f6feb5cef1a55\\classes.dex
-base.1=E\:\\app_test\\ARCard\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9afefd71258f6290fe260cbe1e6f6feb5cef1a55
-file.0=E\:\\app_test\\ARCard\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_38843d85ba378b558c18ce9e8d15021f11b5b7eb\\classes.dex

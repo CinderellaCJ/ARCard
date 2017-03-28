@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\app_test\\ARCard\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hi\\values-hi.xml",
+        "outputFile": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 107
                 },
                 "from": {
-                    "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\3.3.0\\res\\values-hi\\values-hi.xml",
+                    "file": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.3.0/res/values-hi/values-hi.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 158
                 },
                 "from": {
-                    "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\3.3.0\\res\\values-hi\\values-hi.xml",
+                    "file": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.3.0/res/values-hi/values-hi.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 324
                 },
                 "from": {
-                    "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\3.3.0\\res\\values-hi\\values-hi.xml",
+                    "file": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.3.0/res/values-hi/values-hi.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 427
                 },
                 "from": {
-                    "file": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\3.3.0\\res\\values-hi\\values-hi.xml",
+                    "file": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.3.0/res/values-hi/values-hi.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,

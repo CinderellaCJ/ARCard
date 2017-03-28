@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\app_test\\ARCard\\redpacketlibrary\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "outputFile": "/Users/chenjing/Documents/android-workspace/ARCard/redpacketlibrary/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "E:\\app_test\\ARCard\\redpacketlibrary\\build\\intermediates\\exploded-aar\\ARcard\\easeui\\unspecified\\res\\values-w820dp-v13\\values-w820dp-v13.xml",
+                    "file": "/Users/chenjing/Documents/android-workspace/ARCard/redpacketlibrary/build/intermediates/exploded-aar/ARcard/easeui/unspecified/res/values-w820dp-v13/values-w820dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

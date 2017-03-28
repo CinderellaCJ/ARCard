@@ -1,10 +1,10 @@
 [
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\raw\\em_outgoing.ogg",
-        "source": "E:\\app_test\\ARCard\\res\\raw\\em_outgoing.ogg"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/raw/zxing_beep.ogg",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.3.0/res/raw/zxing_beep.ogg"
     },
     {
-        "merged": "E:\\app_test\\ARCard\\build\\intermediates\\res\\merged\\debug\\raw\\zxing_beep.ogg",
-        "source": "E:\\app_test\\ARCard\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\3.3.0\\res\\raw\\zxing_beep.ogg"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/raw/em_outgoing.ogg",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/raw/em_outgoing.ogg"
     }
 ]

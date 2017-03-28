@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\app_test\ARCard\easeui\src\main\shaders"/></dataSet><dataSet config="release"><source path="E:\app_test\ARCard\easeui\build-types\release\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/chenjing/Documents/android-workspace/ARCard/easeui/src/main/shaders"/></dataSet><dataSet config="release"><source path="/Users/chenjing/Documents/android-workspace/ARCard/easeui/build-types/release/shaders"/></dataSet></merger>

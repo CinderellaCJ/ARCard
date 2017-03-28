@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\app_test\ARCard\redpacketlibrary\src\main\shaders"/></dataSet><dataSet config="debug"><source path="E:\app_test\ARCard\redpacketlibrary\build-types\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/chenjing/Documents/android-workspace/ARCard/redpacketlibrary/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/chenjing/Documents/android-workspace/ARCard/redpacketlibrary/build-types/debug/shaders"/></dataSet></merger>

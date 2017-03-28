@@ -59,7 +59,7 @@ public class SendFragment extends Fragment {
         mCardArrayList = new ArrayList<>();
         mCardListAdapter = new CardListAdapter(getActivity(),mCardArrayList);
         mCardListView.setAdapter(mCardListAdapter);
-        
+        LogUtil.d("aaaaaaaaaaaaaa");
         initData();
         return mView;
     }
@@ -84,7 +84,7 @@ public class SendFragment extends Fragment {
             @Override
             public void done(Card card, BmobException e) {
                 if (e == null){
-                    LogUtil.d("aaaaaaaaaaaaaa");
+
                     LogUtil.d(card.getCreatedAt());
                     LogUtil.d(card.getCardId());
                 }else {
