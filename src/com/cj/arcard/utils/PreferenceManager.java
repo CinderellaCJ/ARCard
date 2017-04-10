@@ -44,6 +44,7 @@ public class PreferenceManager {
 	private static String SHARED_KEY_CURRENTUSER_USERNAME = "SHARED_KEY_CURRENTUSER_USERNAME";
 	private static String SHARED_KEY_CURRENTUSER_NICK = "SHARED_KEY_CURRENTUSER_NICK";
 	private static String SHARED_KEY_CURRENTUSER_AVATAR = "SHARED_KEY_CURRENTUSER_AVATAR";
+	private static String BMOB_CURRENTUSER_USERNAME = "BMOB_CURRENTUSER_USERNAME";
 
 	private static String SHARED_KEY_REST_SERVER = "SHARED_KEY_REST_SERVER";
 	private static String SHARED_KEY_IM_SERVER = "SHARED_KEY_IM_SERVER";
@@ -214,6 +215,11 @@ public class PreferenceManager {
 
 	public void setCurrentUserName(String username){
 		editor.putString(SHARED_KEY_CURRENTUSER_USERNAME, username);
+		editor.apply();
+	}
+
+	public void setCurrentBmobUserName(String username){
+		editor.putString(BMOB_CURRENTUSER_USERNAME,username);
 		editor.apply();
 	}
 

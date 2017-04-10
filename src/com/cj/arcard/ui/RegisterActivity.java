@@ -13,18 +13,23 @@
  */
 package com.cj.arcard.ui;
 
-import com.cj.arcard.DemoHelper;
-import com.hyphenate.EMError;
-import com.hyphenate.chat.EMClient;
-import com.hyphenate.chatuidemo.R;
-import com.hyphenate.exceptions.HyphenateException;
-
 import android.app.ProgressDialog;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
+
+import com.cj.arcard.DemoHelper;
+import com.cj.arcard.bean.MyUser;
+import com.hyphenate.EMError;
+import com.hyphenate.chat.EMClient;
+import com.hyphenate.chatuidemo.R;
+import com.hyphenate.exceptions.HyphenateException;
+
+import cn.bmob.v3.BmobUser;
+import cn.bmob.v3.exception.BmobException;
+import cn.bmob.v3.listener.SaveListener;
 
 /**
  * register screen
@@ -81,6 +86,11 @@ public class RegisterActivity extends BaseActivity {
 									pd.dismiss();
 								// save current user
 								DemoHelper.getInstance().setCurrentUserName(username);
+
+								/**
+                                 * bomb注册
+								 */
+								registerBmob();
 								Toast.makeText(getApplicationContext(), getResources().getString(R.string.Registered_successfully), Toast.LENGTH_SHORT).show();
 								finish();
 							}
@@ -106,10 +116,25 @@ public class RegisterActivity extends BaseActivity {
 						});
 					}
 				}
+
+				private void registerBmob() {
+					BmobUser bmobUser = new BmobUser();
+					bmobUser.setUsername(username);
+					bmobUser.setPassword(pwd);
+					bmobUser.signUp(new SaveListener<MyUser>() {
+						@Override
+						public void done(MyUser myUser, BmobException e) {
+							DemoHelper.getInstance().setCurentBmobUserName(username);
+						}
+					});
+				}
 			}).start();
 
 		}
+
 	}
+
+
 
 	public void back(View view) {
 		finish();

@@ -47,6 +47,10 @@ public class DemoModel {
         PreferenceManager.getInstance().setCurrentUserName(username);
     }
 
+    public void setCurrentBmobUserName(String username){
+        PreferenceManager.getInstance().setCurrentBmobUserName(username);
+    }
+
     public String getCurrentUsernName(){
         return PreferenceManager.getInstance().getCurrentUsername();
     }

@@ -26,7 +26,6 @@ import butterknife.ButterKnife;
 import cn.bmob.v3.BmobQuery;
 import cn.bmob.v3.exception.BmobException;
 import cn.bmob.v3.listener.QueryListener;
-import cn.bmob.v3.listener.SaveListener;
 
 /**
  * Created by Administrator on 2017/3/20.
@@ -59,7 +58,6 @@ public class SendFragment extends Fragment {
         mCardArrayList = new ArrayList<>();
         mCardListAdapter = new CardListAdapter(getActivity(),mCardArrayList);
         mCardListView.setAdapter(mCardListAdapter);
-        LogUtil.d("aaaaaaaaaaaaaab");
         initData();
         return mView;
     }
@@ -67,25 +65,27 @@ public class SendFragment extends Fragment {
     private void initData() {
         Card card = new Card();
         card.setCardId("1");
-        card.save(new SaveListener<String>() {
-            @Override
-            public void done(String s, BmobException e) {
-                if (e == null){
-                    ToastUtil.showShort(getActivity(),"添加数据成功");
-                }else {
-                    LogUtil.d("失败："+e.getMessage()+","+e.getErrorCode());
-                }
+//        card.save(new SaveListener<String>() {
+//            @Override
+//            public void done(String s, BmobException e) {
+//                if (e == null){
+//                    ToastUtil.showShort(getActivity(),"添加数据成功");
+//                }else {
+//                    LogUtil.d("失败："+e.getMessage()+","+e.getErrorCode());
+//                }
+//
+//            }
+//        });
 
-            }
-        });
 
-        BmobQuery<Card> query = new BmobQuery<Card>();
-        query.getObject("bbe67b6a90", new QueryListener<Card>() {
+
+        BmobQuery<Card> query = new BmobQuery<>();
+        query.include("template");
+        query.getObject("17871a3b4d", new QueryListener<Card>() {
             @Override
             public void done(Card card, BmobException e) {
                 if (e == null){
-
-                    LogUtil.d(card.getCreatedAt());
+                    LogUtil.d(card.getTemplate().getCardName());
                     LogUtil.d(card.getCardId());
                 }else {
                     LogUtil.d("失败："+e.getMessage()+","+e.getErrorCode());

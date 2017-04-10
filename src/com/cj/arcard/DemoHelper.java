@@ -941,6 +941,12 @@ public class DemoHelper {
     	this.username = username;
     	demoModel.setCurrentUserName(username);
     }
+
+    public void setCurentBmobUserName(String username){
+        this.username = username;
+        demoModel.setCurrentBmobUserName(username);
+
+    }
     
     /**
      * get current user's id

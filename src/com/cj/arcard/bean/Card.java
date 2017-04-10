@@ -8,11 +8,17 @@ import cn.bmob.v3.BmobObject;
 
 public class Card extends BmobObject {
     private String sender;
-    private String template;
+    private CardTemplate template;
     private String cardId;
 
-
-
+    @Override
+    public String toString() {
+        return "Card{" +
+                "sender='" + sender + '\'' +
+                ", template=" + template +
+                ", cardId='" + cardId + '\'' +
+                '}';
+    }
 
     public String getSender() {
         return sender;
@@ -22,11 +28,11 @@ public class Card extends BmobObject {
         this.sender = sender;
     }
 
-    public String getTemplate() {
+    public CardTemplate getTemplate() {
         return template;
     }
 
-    public void setTemplate(String template) {
+    public void setTemplate(CardTemplate template) {
         this.template = template;
     }
 

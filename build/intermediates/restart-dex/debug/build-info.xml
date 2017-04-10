@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="560dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="15899466970599"
+    token="4803433095094152284"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="4862" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="273" />
+    <task
+        name="verifier"
+        duration="6" />
+
+    <artifact
+        location="/Users/chenjing/Documents/android-workspace/ARCard/build/outputs/apk/ARCard-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="24980623673501"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

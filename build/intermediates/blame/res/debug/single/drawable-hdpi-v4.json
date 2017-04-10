@@ -372,16 +372,16 @@
         "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-hdpi/icon_029.gif"
     },
     {
-        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-hdpi-v4/ee_24.png",
-        "source": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/exploded-aar/ARcard/easeui/unspecified/res/drawable-hdpi-v4/ee_24.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-hdpi-v4/ee_32.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/exploded-aar/ARcard/easeui/unspecified/res/drawable-hdpi-v4/ee_32.png"
     },
     {
         "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-hdpi-v4/ee_27.png",
         "source": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/exploded-aar/ARcard/easeui/unspecified/res/drawable-hdpi-v4/ee_27.png"
     },
     {
-        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-hdpi-v4/ee_32.png",
-        "source": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/exploded-aar/ARcard/easeui/unspecified/res/drawable-hdpi-v4/ee_32.png"
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-hdpi-v4/ee_24.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/exploded-aar/ARcard/easeui/unspecified/res/drawable-hdpi-v4/ee_24.png"
     },
     {
         "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-hdpi-v4/bmob_update_btn_check_off_pressed_holo_light.png",
@@ -468,12 +468,12 @@
         "source": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/exploded-aar/ARcard/easeui/unspecified/res/drawable-hdpi-v4/ee_17.png"
     },
     {
-        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-hdpi-v4/ee_14.png",
-        "source": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/exploded-aar/ARcard/easeui/unspecified/res/drawable-hdpi-v4/ee_14.png"
-    },
-    {
         "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-hdpi-v4/bmob_update_btn_check_on_pressed_holo_light.png",
         "source": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/res/drawable-hdpi-v4/bmob_update_btn_check_on_pressed_holo_light.png"
+    },
+    {
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-hdpi-v4/ee_14.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/exploded-aar/ARcard/easeui/unspecified/res/drawable-hdpi-v4/ee_14.png"
     },
     {
         "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-hdpi-v4/bmob_update_btn_check_on_focused_holo_light.png",

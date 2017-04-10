@@ -1,0 +1,7 @@
+#Mon Apr 10 21:46:47 CST 2017
+base.0=/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_01613ac9a9df0cfc9ec0b978fcb8c545ef6fbd9b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_02f213df6e526c5b7419242f9d0a60781bb2f543/classes.dex
+base.1=/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_02f213df6e526c5b7419242f9d0a60781bb2f543
+file.0=/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_01613ac9a9df0cfc9ec0b978fcb8c545ef6fbd9b/classes.dex
