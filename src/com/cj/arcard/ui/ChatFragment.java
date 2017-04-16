@@ -33,7 +33,7 @@ import com.hyphenate.chat.EMCmdMessageBody;
 import com.hyphenate.chat.EMGroup;
 import com.hyphenate.chat.EMMessage;
 import com.hyphenate.chat.EMTextMessageBody;
-import com.hyphenate.chatuidemo.R;
+import com.cj.arcard.R;
 import com.cj.arcard.domain.EmojiconExampleGroupData;
 import com.cj.arcard.widget.ChatRowVoiceCall;
 import com.hyphenate.easeui.EaseConstant;

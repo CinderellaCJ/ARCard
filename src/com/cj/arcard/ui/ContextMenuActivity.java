@@ -20,7 +20,7 @@ import android.view.View;
 import com.easemob.redpacketsdk.constant.RPConstant;
 import com.hyphenate.chat.EMMessage;
 import com.cj.arcard.Constant;
-import com.hyphenate.chatuidemo.R;
+import com.cj.arcard.R;
 
 public class ContextMenuActivity extends BaseActivity {
     public static final int RESULT_CODE_COPY = 1;

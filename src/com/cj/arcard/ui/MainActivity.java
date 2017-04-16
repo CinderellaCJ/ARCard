@@ -39,7 +39,7 @@ import com.hyphenate.chat.EMCmdMessageBody;
 import com.hyphenate.chat.EMConversation;
 import com.hyphenate.chat.EMConversation.EMConversationType;
 import com.hyphenate.chat.EMMessage;
-import com.hyphenate.chatuidemo.R;
+import com.cj.arcard.R;
 import com.hyphenate.easeui.utils.EaseCommonUtils;
 import com.hyphenate.util.EMLog;
 import com.umeng.analytics.MobclickAgent;

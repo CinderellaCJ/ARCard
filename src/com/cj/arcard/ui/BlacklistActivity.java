@@ -16,7 +16,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.hyphenate.chat.EMClient;
-import com.hyphenate.chatuidemo.R;
+import com.cj.arcard.R;
 import com.hyphenate.easeui.utils.EaseUserUtils;
 import com.hyphenate.exceptions.HyphenateException;
 

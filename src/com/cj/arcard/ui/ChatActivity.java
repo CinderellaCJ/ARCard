@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.support.annotation.NonNull;
 
 import com.cj.arcard.runtimepermissions.PermissionsManager;
-import com.hyphenate.chatuidemo.R;
+import com.cj.arcard.R;
 import com.hyphenate.easeui.ui.EaseChatFragment;
 import com.hyphenate.util.EasyUtils;
 

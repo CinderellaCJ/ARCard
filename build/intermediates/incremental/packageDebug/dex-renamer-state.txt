@@ -1,4 +1,4 @@
-#Mon Apr 10 21:46:47 CST 2017
+#Sun Apr 16 20:29:47 CST 2017
 base.0=/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_01613ac9a9df0cfc9ec0b978fcb8c545ef6fbd9b
 renamed.1=classes.dex
 renamed.0=classes2.dex

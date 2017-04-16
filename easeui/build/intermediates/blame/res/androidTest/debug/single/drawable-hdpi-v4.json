@@ -140,12 +140,12 @@
         "source": "/Users/chenjing/Documents/android-workspace/ARCard/easeui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ease_voice_unread.png"
     },
     {
-        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_record_animate_09.png",
-        "source": "/Users/chenjing/Documents/android-workspace/ARCard/easeui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ease_record_animate_09.png"
-    },
-    {
         "merged": "/Users/chenjing/Documents/android-workspace/ARCard/easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_chatto_bg_focused.9.png",
         "source": "/Users/chenjing/Documents/android-workspace/ARCard/easeui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ease_chatto_bg_focused.9.png"
+    },
+    {
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_record_animate_09.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/easeui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ease_record_animate_09.png"
     },
     {
         "merged": "/Users/chenjing/Documents/android-workspace/ARCard/easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ee_20.png",
@@ -160,12 +160,12 @@
         "source": "/Users/chenjing/Documents/android-workspace/ARCard/easeui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ease_ic_launcher.png"
     },
     {
-        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ee_10.png",
-        "source": "/Users/chenjing/Documents/android-workspace/ARCard/easeui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ee_10.png"
-    },
-    {
         "merged": "/Users/chenjing/Documents/android-workspace/ARCard/easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_mm_listitem_simple.9.png",
         "source": "/Users/chenjing/Documents/android-workspace/ARCard/easeui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ease_mm_listitem_simple.9.png"
+    },
+    {
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ee_10.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/easeui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ee_10.png"
     },
     {
         "merged": "/Users/chenjing/Documents/android-workspace/ARCard/easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ee_32.png",
@@ -176,12 +176,12 @@
         "source": "/Users/chenjing/Documents/android-workspace/ARCard/easeui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ee_16.png"
     },
     {
-        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_record_animate_07.png",
-        "source": "/Users/chenjing/Documents/android-workspace/ARCard/easeui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ease_record_animate_07.png"
-    },
-    {
         "merged": "/Users/chenjing/Documents/android-workspace/ARCard/easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_input_bar_bg_normal.9.png",
         "source": "/Users/chenjing/Documents/android-workspace/ARCard/easeui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ease_input_bar_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_record_animate_07.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/easeui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ease_record_animate_07.png"
     },
     {
         "merged": "/Users/chenjing/Documents/android-workspace/ARCard/easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_appitem_del_btn_pressed.png",
@@ -352,12 +352,12 @@
         "source": "/Users/chenjing/Documents/android-workspace/ARCard/easeui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ee_15.png"
     },
     {
-        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_search_clear_normal.png",
-        "source": "/Users/chenjing/Documents/android-workspace/ARCard/easeui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ease_search_clear_normal.png"
-    },
-    {
         "merged": "/Users/chenjing/Documents/android-workspace/ARCard/easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_unread_count_bg.9.png",
         "source": "/Users/chenjing/Documents/android-workspace/ARCard/easeui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ease_unread_count_bg.9.png"
+    },
+    {
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_search_clear_normal.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/easeui/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ease_search_clear_normal.png"
     },
     {
         "merged": "/Users/chenjing/Documents/android-workspace/ARCard/easeui/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ease_record_animate_03.png",

@@ -23,7 +23,7 @@ import android.widget.ListView;
 
 import com.cj.arcard.Constant;
 import com.cj.arcard.DemoHelper;
-import com.hyphenate.chatuidemo.R;
+import com.cj.arcard.R;
 import com.hyphenate.easeui.adapter.EaseContactAdapter;
 import com.hyphenate.easeui.domain.EaseUser;
 import com.hyphenate.easeui.widget.EaseSidebar;

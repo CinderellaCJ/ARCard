@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.hyphenate.chatuidemo"
+    package="com.cj.arcard"
     android:versionCode="36"
     android:versionName="3.2.3">
 
@@ -36,16 +36,16 @@
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
 
     <permission
-        android:name="com.hyphenate.chatuidemo.permission.C2D_MESSAGE"
+        android:name="com.cj.arcard.permission.C2D_MESSAGE"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.hyphenate.chatuidemo.permission.C2D_MESSAGE" />
+    <uses-permission android:name="com.cj.arcard.permission.C2D_MESSAGE" />
 
     <permission
-        android:name="com.hyphenate.chatuidemo.permission.MIPUSH_RECEIVE"
+        android:name="com.cj.arcard.permission.MIPUSH_RECEIVE"
         android:protectionLevel="signatureOrSystem" />
 
-    <uses-permission android:name="com.hyphenate.chatuidemo.permission.MIPUSH_RECEIVE" />
+    <uses-permission android:name="com.cj.arcard.permission.MIPUSH_RECEIVE" />
 
     <application
         android:name="com.cj.arcard.DemoApplication"

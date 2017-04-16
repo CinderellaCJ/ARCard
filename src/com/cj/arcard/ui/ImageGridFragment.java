@@ -1,8 +1,5 @@
 package com.cj.arcard.ui;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import android.annotation.TargetApi;
 import android.app.Activity;
 import android.content.ContentResolver;
@@ -30,16 +27,19 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.cj.arcard.BuildConfig;
+import com.cj.arcard.R;
+import com.cj.arcard.domain.VideoEntity;
 import com.cj.arcard.video.util.ImageCache;
+import com.cj.arcard.video.util.ImageResizer;
 import com.cj.arcard.video.util.Utils;
 import com.cj.arcard.widget.RecyclingImageView;
-import com.hyphenate.chatuidemo.BuildConfig;
-import com.hyphenate.chatuidemo.R;
-import com.cj.arcard.domain.VideoEntity;
-import com.cj.arcard.video.util.ImageResizer;
 import com.hyphenate.util.DateUtils;
 import com.hyphenate.util.EMLog;
 import com.hyphenate.util.TextFormater;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class ImageGridFragment extends Fragment implements OnItemClickListener {
 

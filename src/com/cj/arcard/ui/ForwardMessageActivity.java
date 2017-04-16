@@ -16,7 +16,7 @@ package com.cj.arcard.ui;
 import android.content.Intent;
 import android.os.Bundle;
 
-import com.hyphenate.chatuidemo.R;
+import com.cj.arcard.R;
 import com.hyphenate.easeui.domain.EaseUser;
 import com.hyphenate.easeui.widget.EaseAlertDialog;
 import com.hyphenate.easeui.widget.EaseAlertDialog.AlertDialogUser;

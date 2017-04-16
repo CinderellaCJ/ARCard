@@ -128,12 +128,12 @@
         "source": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/exploded-aar/ARcard/redpacketlibrary/unspecified/res/drawable-xxhdpi-v4/rp_picture_frame_lack.png"
     },
     {
-        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/rp_avatar.png",
-        "source": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/exploded-aar/ARcard/redpacketlibrary/unspecified/res/drawable-xxhdpi-v4/rp_avatar.png"
-    },
-    {
         "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/em_transfer_chatfrom_bg_focused.9.png",
         "source": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/exploded-aar/ARcard/redpacketlibrary/unspecified/res/drawable-xxhdpi-v4/em_transfer_chatfrom_bg_focused.9.png"
+    },
+    {
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/rp_avatar.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/exploded-aar/ARcard/redpacketlibrary/unspecified/res/drawable-xxhdpi-v4/rp_avatar.png"
     },
     {
         "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/em_transfer_icon.png",
@@ -160,12 +160,12 @@
         "source": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/exploded-aar/ARcard/redpacketlibrary/unspecified/res/drawable-xxhdpi-v4/rp_add_card_icon.png"
     },
     {
-        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/rp_ad_share.png",
-        "source": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/exploded-aar/ARcard/redpacketlibrary/unspecified/res/drawable-xxhdpi-v4/rp_ad_share.png"
-    },
-    {
         "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/rp_alipay_icon_gray.png",
         "source": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/exploded-aar/ARcard/redpacketlibrary/unspecified/res/drawable-xxhdpi-v4/rp_alipay_icon_gray.png"
+    },
+    {
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/rp_ad_share.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/exploded-aar/ARcard/redpacketlibrary/unspecified/res/drawable-xxhdpi-v4/rp_ad_share.png"
     },
     {
         "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/rp_red_packet_records.png",

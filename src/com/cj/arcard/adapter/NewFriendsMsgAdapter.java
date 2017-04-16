@@ -18,7 +18,7 @@ import java.util.List;
 import com.cj.arcard.db.InviteMessgeDao;
 import com.cj.arcard.domain.InviteMessage;
 import com.hyphenate.chat.EMClient;
-import com.hyphenate.chatuidemo.R;
+import com.cj.arcard.R;
 
 import android.app.Activity;
 import android.app.ProgressDialog;

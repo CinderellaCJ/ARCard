@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.view.KeyEvent;
 
-import com.hyphenate.chatuidemo.R;
+import com.cj.arcard.R;
 import com.journeyapps.barcodescanner.CaptureManager;
 import com.journeyapps.barcodescanner.DecoratedBarcodeView;
 

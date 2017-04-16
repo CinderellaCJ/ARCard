@@ -31,7 +31,7 @@ import com.cj.arcard.Constant;
 import com.cj.arcard.DemoHelper;
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMGroup;
-import com.hyphenate.chatuidemo.R;
+import com.cj.arcard.R;
 import com.hyphenate.easeui.adapter.EaseContactAdapter;
 import com.hyphenate.easeui.domain.EaseUser;
 import com.hyphenate.easeui.widget.EaseSidebar;

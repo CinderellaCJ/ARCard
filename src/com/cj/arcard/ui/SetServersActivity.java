@@ -6,7 +6,7 @@ import android.view.View;
 import android.widget.EditText;
 
 import com.cj.arcard.DemoModel;
-import com.hyphenate.chatuidemo.R;
+import com.cj.arcard.R;
 import com.hyphenate.easeui.widget.EaseTitleBar;
 
 public class SetServersActivity extends BaseActivity {

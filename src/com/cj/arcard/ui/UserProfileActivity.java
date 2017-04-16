@@ -1,15 +1,5 @@
 package com.cj.arcard.ui;
 
-import java.io.ByteArrayOutputStream;
-
-import com.bumptech.glide.Glide;
-import com.hyphenate.EMValueCallBack;
-import com.hyphenate.chat.EMClient;
-import com.cj.arcard.DemoHelper;
-import com.hyphenate.chatuidemo.R;
-import com.hyphenate.easeui.domain.EaseUser;
-import com.hyphenate.easeui.utils.EaseUserUtils;
-
 import android.app.AlertDialog;
 import android.app.AlertDialog.Builder;
 import android.app.ProgressDialog;
@@ -29,6 +19,16 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.bumptech.glide.Glide;
+import com.cj.arcard.DemoHelper;
+import com.cj.arcard.R;
+import com.hyphenate.EMValueCallBack;
+import com.hyphenate.chat.EMClient;
+import com.hyphenate.easeui.domain.EaseUser;
+import com.hyphenate.easeui.utils.EaseUserUtils;
+
+import java.io.ByteArrayOutputStream;
 
 public class UserProfileActivity extends BaseActivity implements OnClickListener{
 	

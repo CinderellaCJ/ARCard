@@ -22,19 +22,20 @@
             android:textColor="#fff"
             android:textSize="18sp" />
     </RelativeLayout>
-    <LinearLayout 
+
+    <LinearLayout
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:background="#FFFFFF"
         android:orientation="vertical"
         >
-        <RelativeLayout 
+        <RelativeLayout
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:paddingTop="10dp"
             android:paddingBottom="10dp"
             >
-            <ImageView 
+            <ImageView
                 android:id="@+id/user_head_avatar"
                 android:layout_width="60dip"
                 android:layout_height="60dip"
@@ -44,7 +45,7 @@
                 android:scaleType="centerCrop"
                 android:src="@drawable/em_default_avatar"
                 />
-            <ImageView 
+            <ImageView
                 android:id="@+id/user_head_headphoto_update"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -54,8 +55,8 @@
                 android:layout_margin="3dip"
                 android:src="@drawable/em_profile_headphoto_update_icon"
                 />
-            
-            <LinearLayout 
+
+            <LinearLayout
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:layout_toRightOf="@+id/user_head_avatar"
@@ -63,7 +64,7 @@
                 android:layout_marginTop="8dip"
                 android:gravity="center_vertical">
 
-                <TextView 
+                <TextView
                     android:id="@+id/user_username"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -73,13 +74,13 @@
 
             </LinearLayout>
         </RelativeLayout>
-        <View 
+        <View
             android:layout_width="match_parent"
             android:layout_height="1px"
             android:background="@color/gray_pressed"
-            
+
             />
-        <RelativeLayout 
+        <RelativeLayout
             android:id="@+id/rl_nickname"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -87,8 +88,8 @@
             android:paddingTop="10dp"
             android:paddingBottom="10dip"
             >
-            <TextView 
-				android:layout_width="wrap_content"                
+            <TextView
+				android:layout_width="wrap_content"
 				android:layout_height="wrap_content"
 				android:layout_margin="5dp"
 				android:layout_alignParentLeft="true"
@@ -98,9 +99,9 @@
 				android:textColor="#808080"
                 android:background="#FFFFFF"
                 />
-            <TextView 
+            <TextView
                 android:id="@+id/user_nickname"
-				android:layout_width="wrap_content"                
+				android:layout_width="wrap_content"
 				android:layout_height="wrap_content"
 				android:layout_margin="5dp"
 				android:layout_alignParentRight="true"
@@ -110,7 +111,7 @@
 				android:textColor="#3366cc"
                 android:background="#FFFFFF"
                 />
-            <ImageView 
+            <ImageView
                 android:id="@+id/ic_right_arrow"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

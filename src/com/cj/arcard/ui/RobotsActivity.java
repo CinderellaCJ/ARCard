@@ -37,7 +37,7 @@ import com.cj.arcard.domain.RobotUser;
 import com.hyphenate.EMValueCallBack;
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMContact;
-import com.hyphenate.chatuidemo.R;
+import com.cj.arcard.R;
 import com.cj.arcard.db.UserDao;
 import com.hyphenate.exceptions.HyphenateException;
 

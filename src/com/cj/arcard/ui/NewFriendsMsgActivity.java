@@ -19,7 +19,7 @@ import android.widget.ListView;
 
 import com.cj.arcard.db.InviteMessgeDao;
 import com.cj.arcard.domain.InviteMessage;
-import com.hyphenate.chatuidemo.R;
+import com.cj.arcard.R;
 import com.cj.arcard.adapter.NewFriendsMsgAdapter;
 
 import java.util.List;

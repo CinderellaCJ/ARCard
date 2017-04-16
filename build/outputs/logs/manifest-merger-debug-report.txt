@@ -2,7 +2,7 @@
 manifest
 ADDED from /Users/chenjing/Documents/android-workspace/ARCard/AndroidManifest.xml:2:1-507:12
 	package
-		ADDED from /Users/chenjing/Documents/android-workspace/ARCard/AndroidManifest.xml:4:5-39
+		ADDED from /Users/chenjing/Documents/android-workspace/ARCard/AndroidManifest.xml:4:5-28
 		INJECTED from /Users/chenjing/Documents/android-workspace/ARCard/AndroidManifest.xml
 		INJECTED from /Users/chenjing/Documents/android-workspace/ARCard/AndroidManifest.xml
 	android:versionName
@@ -121,26 +121,26 @@ uses-permission#com.google.android.c2dm.permission.RECEIVE
 ADDED from /Users/chenjing/Documents/android-workspace/ARCard/AndroidManifest.xml:36:5-82
 	android:name
 		ADDED from /Users/chenjing/Documents/android-workspace/ARCard/AndroidManifest.xml:36:22-79
-permission#com.hyphenate.chatuidemo.permission.C2D_MESSAGE
+permission#com.cj.arcard.permission.C2D_MESSAGE
 ADDED from /Users/chenjing/Documents/android-workspace/ARCard/AndroidManifest.xml:38:5-40:47
 	android:protectionLevel
 		ADDED from /Users/chenjing/Documents/android-workspace/ARCard/AndroidManifest.xml:40:9-44
 	android:name
-		ADDED from /Users/chenjing/Documents/android-workspace/ARCard/AndroidManifest.xml:39:9-71
-uses-permission#com.hyphenate.chatuidemo.permission.C2D_MESSAGE
-ADDED from /Users/chenjing/Documents/android-workspace/ARCard/AndroidManifest.xml:42:5-87
+		ADDED from /Users/chenjing/Documents/android-workspace/ARCard/AndroidManifest.xml:39:9-60
+uses-permission#com.cj.arcard.permission.C2D_MESSAGE
+ADDED from /Users/chenjing/Documents/android-workspace/ARCard/AndroidManifest.xml:42:5-76
 	android:name
-		ADDED from /Users/chenjing/Documents/android-workspace/ARCard/AndroidManifest.xml:42:22-84
-permission#com.hyphenate.chatuidemo.permission.MIPUSH_RECEIVE
+		ADDED from /Users/chenjing/Documents/android-workspace/ARCard/AndroidManifest.xml:42:22-73
+permission#com.cj.arcard.permission.MIPUSH_RECEIVE
 ADDED from /Users/chenjing/Documents/android-workspace/ARCard/AndroidManifest.xml:44:5-46:55
 	android:protectionLevel
 		ADDED from /Users/chenjing/Documents/android-workspace/ARCard/AndroidManifest.xml:46:9-52
 	android:name
-		ADDED from /Users/chenjing/Documents/android-workspace/ARCard/AndroidManifest.xml:45:9-74
-uses-permission#com.hyphenate.chatuidemo.permission.MIPUSH_RECEIVE
-ADDED from /Users/chenjing/Documents/android-workspace/ARCard/AndroidManifest.xml:48:5-90
+		ADDED from /Users/chenjing/Documents/android-workspace/ARCard/AndroidManifest.xml:45:9-63
+uses-permission#com.cj.arcard.permission.MIPUSH_RECEIVE
+ADDED from /Users/chenjing/Documents/android-workspace/ARCard/AndroidManifest.xml:48:5-79
 	android:name
-		ADDED from /Users/chenjing/Documents/android-workspace/ARCard/AndroidManifest.xml:48:22-87
+		ADDED from /Users/chenjing/Documents/android-workspace/ARCard/AndroidManifest.xml:48:22-76
 application
 ADDED from /Users/chenjing/Documents/android-workspace/ARCard/AndroidManifest.xml:50:5-505:19
 MERGED from [cn.bmob.android:bmob-sdk:3.5.0] /Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/AndroidManifest.xml:11:5-14:19

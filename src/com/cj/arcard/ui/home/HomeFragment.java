@@ -12,7 +12,7 @@ import android.widget.RadioButton;
 import android.widget.RadioGroup;
 
 import com.cj.arcard.utils.ToastUtil;
-import com.hyphenate.chatuidemo.R;
+import com.cj.arcard.R;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;

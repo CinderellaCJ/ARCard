@@ -7,24 +7,25 @@ import cn.bmob.v3.BmobObject;
  */
 
 public class Card extends BmobObject {
-    private String sender;
+    private MyUser sender;
     private CardTemplate template;
-    private String cardId;
+    private MyUser myUser;
 
     @Override
     public String toString() {
         return "Card{" +
-                "sender='" + sender + '\'' +
+                ", sender='" + sender + '\'' +
                 ", template=" + template +
-                ", cardId='" + cardId + '\'' +
+                ", myUser=" + myUser +
                 '}';
     }
 
-    public String getSender() {
+
+    public MyUser getSender() {
         return sender;
     }
 
-    public void setSender(String sender) {
+    public void setSender(MyUser sender) {
         this.sender = sender;
     }
 
@@ -36,11 +37,11 @@ public class Card extends BmobObject {
         this.template = template;
     }
 
-    public String getCardId() {
-        return cardId;
+    public MyUser getMyUser() {
+        return myUser;
     }
 
-    public void setCardId(String cardId) {
-        this.cardId = cardId;
+    public void setMyUser(MyUser myUser) {
+        this.myUser = myUser;
     }
 }

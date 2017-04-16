@@ -27,7 +27,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.hyphenate.chat.EMChatRoom;
-import com.hyphenate.chatuidemo.R;
+import com.cj.arcard.R;
 
 import java.util.List;
 

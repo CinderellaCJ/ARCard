@@ -45,7 +45,7 @@ import android.widget.Toast;
 import android.widget.VideoView;
 
 import com.cj.arcard.video.util.Utils;
-import com.hyphenate.chatuidemo.R;
+import com.cj.arcard.R;
 import com.hyphenate.easeui.utils.EaseCommonUtils;
 import com.hyphenate.util.EMLog;
 import com.hyphenate.util.PathUtil;

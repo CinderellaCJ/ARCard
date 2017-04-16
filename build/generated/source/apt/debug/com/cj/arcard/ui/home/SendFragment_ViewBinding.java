@@ -7,7 +7,7 @@ import android.view.View;
 import android.widget.ListView;
 import butterknife.Unbinder;
 import butterknife.internal.Utils;
-import com.hyphenate.chatuidemo.R;
+import com.cj.arcard.R;
 import java.lang.IllegalStateException;
 import java.lang.Override;
 

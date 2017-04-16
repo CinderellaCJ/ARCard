@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/card_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="雷峰夕照"/>
+
+    <ImageView
+        android:id="@+id/card_img"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/card_name"/>
+
+    <TextView
+        android:id="@+id/card_describe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/card_img"
+        android:layout_toRightOf="@id/card_img"
+        android:text="描述"/>
+
+    <TextView
+        android:id="@+id/card_receiver"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/card_describe"
+        android:layout_toRightOf="@+id/card_img"
+        android:text="收件人"/>
+
+    <TextView
+        android:id="@+id/card_receiver_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/card_receiver"
+        android:layout_alignTop="@id/card_receiver"/>
+
+    <Button
+        android:id="@+id/ar_message_editor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/card_receiver"
+        android:layout_toRightOf="@id/card_img"
+        android:text="AR寄语编辑"/>
+
+
+
+
+
+
+</RelativeLayout>

@@ -40,7 +40,7 @@ import com.hyphenate.chat.EMConversation;
 import com.hyphenate.chat.EMConversation.EMConversationType;
 import com.hyphenate.chat.EMGroup;
 import com.hyphenate.chat.EMPushConfigs;
-import com.hyphenate.chatuidemo.R;
+import com.cj.arcard.R;
 import com.hyphenate.easeui.utils.EaseUserUtils;
 import com.hyphenate.easeui.widget.EaseAlertDialog;
 import com.hyphenate.easeui.widget.EaseAlertDialog.AlertDialogUser;

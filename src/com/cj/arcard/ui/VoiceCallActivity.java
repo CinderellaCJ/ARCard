@@ -36,7 +36,7 @@ import android.widget.Toast;
 import com.hyphenate.chat.EMCallStateChangeListener;
 import com.hyphenate.chat.EMClient;
 import com.cj.arcard.DemoHelper;
-import com.hyphenate.chatuidemo.R;
+import com.cj.arcard.R;
 import com.hyphenate.exceptions.HyphenateException;
 import com.hyphenate.util.EMLog;
 

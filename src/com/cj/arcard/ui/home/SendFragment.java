@@ -10,22 +10,29 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.ListView;
 
+import com.cj.arcard.R;
 import com.cj.arcard.adapter.CardListAdapter;
 import com.cj.arcard.bean.Card;
+import com.cj.arcard.bean.CardInfo;
+import com.cj.arcard.bean.CardTemplate;
+import com.cj.arcard.bean.MyUser;
 import com.cj.arcard.utils.LogUtil;
 import com.cj.arcard.utils.ToastUtil;
 import com.cj.arcard.utils.ToolbarCaptureActivity;
 import com.google.zxing.integration.android.IntentIntegrator;
 import com.google.zxing.integration.android.IntentResult;
-import com.hyphenate.chatuidemo.R;
 
 import java.util.ArrayList;
+import java.util.List;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import cn.bmob.v3.BmobQuery;
+import cn.bmob.v3.BmobUser;
 import cn.bmob.v3.exception.BmobException;
+import cn.bmob.v3.listener.FindListener;
 import cn.bmob.v3.listener.QueryListener;
+import cn.bmob.v3.listener.UpdateListener;
 
 /**
  * Created by Administrator on 2017/3/20.
@@ -36,10 +43,11 @@ public class SendFragment extends Fragment {
     @BindView(R.id.card_listView)
     ListView mCardListView;
     private View mView;
-    private ArrayList<Card> mCardArrayList;
+    private ArrayList<CardInfo> mCardArrayList;
     private CardListAdapter mCardListAdapter;
 
     private ImageView scanImage;
+    private MyUser currentUser;
 
     @Nullable
     @Override
@@ -48,51 +56,50 @@ public class SendFragment extends Fragment {
             mView = inflater.inflate(R.layout.fragment_send, container, false);
         }
         ButterKnife.bind(this, mView);
+        currentUser = BmobUser.getCurrentUser(MyUser.class);
 
         //listView设置headView
         View headView = inflater.inflate(R.layout.fragment_headview, null);
-        mCardListView.addHeaderView(headView);
+
         scanImage = (ImageView) headView.findViewById(R.id.scan);
         scanImage.setOnClickListener(new scanListener());
 
         mCardArrayList = new ArrayList<>();
-        mCardListAdapter = new CardListAdapter(getActivity(),mCardArrayList);
-        mCardListView.setAdapter(mCardListAdapter);
+
         initData();
+        mCardListAdapter = new CardListAdapter(getActivity(),mCardArrayList);
+        mCardListView.addHeaderView(headView);
+        mCardListView.setAdapter(mCardListAdapter);
         return mView;
     }
 
     private void initData() {
-        Card card = new Card();
-        card.setCardId("1");
-//        card.save(new SaveListener<String>() {
-//            @Override
-//            public void done(String s, BmobException e) {
-//                if (e == null){
-//                    ToastUtil.showShort(getActivity(),"添加数据成功");
-//                }else {
-//                    LogUtil.d("失败："+e.getMessage()+","+e.getErrorCode());
-//                }
-//
-//            }
-//        });
-
-
-
-        BmobQuery<Card> query = new BmobQuery<>();
-        query.include("template");
-        query.getObject("17871a3b4d", new QueryListener<Card>() {
+        BmobQuery<Card> cardQuery = new BmobQuery<>();
+        cardQuery.addWhereEqualTo("sender",currentUser);
+        cardQuery.include("template");
+        cardQuery.findObjects(new FindListener<Card>() {
             @Override
-            public void done(Card card, BmobException e) {
+            public void done(List<Card> list, BmobException e) {
                 if (e == null){
-                    LogUtil.d(card.getTemplate().getCardName());
-                    LogUtil.d(card.getCardId());
+                   // LogUtil.d(list.toString());
+                    for (Card cardList : list){
+                        CardTemplate template = cardList.getTemplate();
+                        CardInfo cardInfo = new CardInfo();
+                        cardInfo.setCardName(template.getCardName());
+                        cardInfo.setCardDescribe(template.getCardDescribe());
+                        cardInfo.setCardPictureUrl(template.getCardPicture().getUrl());
+                        mCardArrayList.add(cardInfo);
+                        mCardListAdapter.notifyDataSetChanged();
+                    }
                 }else {
-                    LogUtil.d("失败："+e.getMessage()+","+e.getErrorCode());
+                    LogUtil.d("查询失败："+e.getMessage() + e.getErrorCode());
                 }
+
             }
         });
+
     }
+
 
     /**
      * 扫描二维码
@@ -112,7 +119,37 @@ public class SendFragment extends Fragment {
             ToastUtil.showShort(getActivity(), "您取消了扫描");
         } else {
             ToastUtil.showShort(getActivity(),result.getContents());
-            LogUtil.d("111111111111111111111111" + result.getContents());
+            String scanId = result.getContents();
+
+            BmobQuery<Card> query = new BmobQuery<>();
+            query.include("template");
+            query.getObject(scanId, new QueryListener<Card>() {
+                @Override
+                public void done(Card card, BmobException e) {
+                    if (e == null){
+                        LogUtil.d(card.getTemplate().getCardName());
+                        //添加一条数据
+                        CardTemplate template = card.getTemplate();
+                        CardInfo cardInfo = new CardInfo();
+                        cardInfo.setCardName(template.getCardName());
+                        cardInfo.setCardDescribe(template.getCardDescribe());
+                        cardInfo.setCardPictureUrl(template.getCardPicture().getUrl());
+                        mCardArrayList.add(0,cardInfo);
+                        mCardListAdapter.notifyDataSetChanged();
+
+                        //将当前用户插入到sender
+                        card.setSender(currentUser);
+                        card.update(new UpdateListener() {
+                            @Override
+                            public void done(BmobException e) {
+
+                            }
+                        });
+                    }else {
+                        LogUtil.d("失败："+e.getMessage() + e.getErrorCode());
+                    }
+                }
+            });
 
         }
     }

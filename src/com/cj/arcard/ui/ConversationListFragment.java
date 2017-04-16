@@ -19,7 +19,7 @@ import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMConversation;
 import com.hyphenate.chat.EMConversation.EMConversationType;
 import com.hyphenate.chat.EMMessage;
-import com.hyphenate.chatuidemo.R;
+import com.cj.arcard.R;
 import com.hyphenate.easeui.model.EaseAtMessageHelper;
 import com.hyphenate.easeui.ui.EaseConversationListFragment;
 import com.hyphenate.easeui.widget.EaseConversationList.EaseConversationListHelper;

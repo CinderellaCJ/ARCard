@@ -14,7 +14,7 @@ import android.widget.TextView;
 
 import com.cj.arcard.utils.PreferenceManager;
 import com.hyphenate.chat.EMClient;
-import com.hyphenate.chatuidemo.R;
+import com.cj.arcard.R;
 import com.hyphenate.easeui.widget.EaseSwitchButton;
 
 import java.util.ArrayList;

@@ -21,7 +21,7 @@ import com.cj.arcard.db.InviteMessgeDao;
 import com.cj.arcard.db.UserDao;
 import com.cj.arcard.widget.ContactItemView;
 import com.hyphenate.chat.EMClient;
-import com.hyphenate.chatuidemo.R;
+import com.cj.arcard.R;
 import com.hyphenate.easeui.domain.EaseUser;
 import com.hyphenate.easeui.ui.EaseContactListFragment;
 import com.hyphenate.util.EMLog;

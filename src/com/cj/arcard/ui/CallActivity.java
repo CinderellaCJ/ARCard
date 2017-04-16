@@ -21,7 +21,7 @@ import com.hyphenate.chat.EMConversation;
 import com.hyphenate.chat.EMMessage;
 import com.hyphenate.chat.EMMessage.Status;
 import com.hyphenate.chat.EMTextMessageBody;
-import com.hyphenate.chatuidemo.R;
+import com.cj.arcard.R;
 import com.hyphenate.exceptions.EMServiceNotReadyException;
 import com.hyphenate.media.EMLocalSurfaceView;
 import com.hyphenate.media.EMOppositeSurfaceView;

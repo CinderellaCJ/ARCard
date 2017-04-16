@@ -16,6 +16,10 @@
         "source": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/exploded-aar/ARcard/easeui/unspecified/res/layout/ease_widget_emojicon.xml"
     },
     {
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/layout/item_card_list.xml",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/layout/item_card_list.xml"
+    },
+    {
         "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/layout/zxing_capture.xml",
         "source": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.3.0/res/layout/zxing_capture.xml"
     },

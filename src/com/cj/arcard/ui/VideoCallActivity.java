@@ -42,7 +42,7 @@ import com.hyphenate.chat.EMCallManager.EMCameraDataProcessor;
 import com.hyphenate.chat.EMCallManager.EMVideoCallHelper;
 import com.hyphenate.chat.EMCallStateChangeListener;
 import com.hyphenate.chat.EMClient;
-import com.hyphenate.chatuidemo.R;
+import com.cj.arcard.R;
 import com.hyphenate.exceptions.HyphenateException;
 import com.hyphenate.media.EMLocalSurfaceView;
 import com.hyphenate.media.EMOppositeSurfaceView;

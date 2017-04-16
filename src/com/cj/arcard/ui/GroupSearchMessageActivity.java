@@ -24,7 +24,7 @@ import com.hyphenate.chat.EMConversation;
 import com.hyphenate.chat.EMConversation.EMSearchDirection;
 import com.hyphenate.chat.EMMessage;
 import com.hyphenate.chat.EMTextMessageBody;
-import com.hyphenate.chatuidemo.R;
+import com.cj.arcard.R;
 import com.hyphenate.easeui.utils.EaseUserUtils;
 import com.hyphenate.util.DateUtils;
 

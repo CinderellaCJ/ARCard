@@ -1,7 +1,7 @@
 package com.cj.arcard.domain;
 
 import com.cj.arcard.DemoApplication;
-import com.hyphenate.chatuidemo.R;
+import com.cj.arcard.R;
 import com.hyphenate.easeui.domain.EaseEmojicon;
 import com.hyphenate.easeui.domain.EaseEmojicon.Type;
 import com.hyphenate.easeui.domain.EaseEmojiconGroupEntity;

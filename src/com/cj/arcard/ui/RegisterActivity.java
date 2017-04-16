@@ -22,9 +22,10 @@ import android.widget.Toast;
 
 import com.cj.arcard.DemoHelper;
 import com.cj.arcard.bean.MyUser;
+import com.cj.arcard.utils.ToastUtil;
 import com.hyphenate.EMError;
 import com.hyphenate.chat.EMClient;
-import com.hyphenate.chatuidemo.R;
+import com.cj.arcard.R;
 import com.hyphenate.exceptions.HyphenateException;
 
 import cn.bmob.v3.BmobUser;
@@ -85,7 +86,7 @@ public class RegisterActivity extends BaseActivity {
 								if (!RegisterActivity.this.isFinishing())
 									pd.dismiss();
 								// save current user
-								DemoHelper.getInstance().setCurrentUserName(username);
+									DemoHelper.getInstance().setCurrentUserName(username);
 
 								/**
                                  * bomb注册
@@ -124,7 +125,12 @@ public class RegisterActivity extends BaseActivity {
 					bmobUser.signUp(new SaveListener<MyUser>() {
 						@Override
 						public void done(MyUser myUser, BmobException e) {
-							DemoHelper.getInstance().setCurentBmobUserName(username);
+							if (e == null){
+								DemoHelper.getInstance().setCurentBmobUserName(username);
+							}else {
+								ToastUtil.showShort(RegisterActivity.this,e.getMessage());
+							}
+
 						}
 					});
 				}

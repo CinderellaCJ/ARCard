@@ -7,7 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.hyphenate.chatuidemo.R;
+import com.cj.arcard.R;
 
 /**
  * Created by Administrator on 2017/3/20.

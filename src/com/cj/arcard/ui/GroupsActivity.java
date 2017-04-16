@@ -33,7 +33,7 @@ import com.cj.arcard.Constant;
 import com.cj.arcard.adapter.GroupAdapter;
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMGroup;
-import com.hyphenate.chatuidemo.R;
+import com.cj.arcard.R;
 import com.hyphenate.exceptions.HyphenateException;
 
 import java.util.List;

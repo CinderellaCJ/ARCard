@@ -29,10 +29,15 @@ import android.widget.Toast;
 import com.cj.arcard.DemoApplication;
 import com.cj.arcard.DemoHelper;
 import com.cj.arcard.db.DemoDBManager;
+import com.cj.arcard.utils.ToastUtil;
 import com.hyphenate.EMCallBack;
 import com.hyphenate.chat.EMClient;
-import com.hyphenate.chatuidemo.R;
+import com.cj.arcard.R;
 import com.hyphenate.easeui.utils.EaseCommonUtils;
+
+import cn.bmob.v3.BmobUser;
+import cn.bmob.v3.exception.BmobException;
+import cn.bmob.v3.listener.SaveListener;
 
 /**
  * Login screen
@@ -46,6 +51,9 @@ public class LoginActivity extends BaseActivity {
 
 	private boolean progressShow;
 	private boolean autoLogin = false;
+
+	String currentUsername;
+	String currentPassword;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -95,8 +103,8 @@ public class LoginActivity extends BaseActivity {
 			Toast.makeText(this, R.string.network_isnot_available, Toast.LENGTH_SHORT).show();
 			return;
 		}
-		String currentUsername = usernameEditText.getText().toString().trim();
-		String currentPassword = passwordEditText.getText().toString().trim();
+		currentUsername = usernameEditText.getText().toString().trim();
+		currentPassword = passwordEditText.getText().toString().trim();
 
 		if (TextUtils.isEmpty(currentUsername)) {
 			Toast.makeText(this, R.string.User_name_cannot_be_empty, Toast.LENGTH_SHORT).show();
@@ -127,6 +135,12 @@ public class LoginActivity extends BaseActivity {
 
         // reset current user name before login
         DemoHelper.getInstance().setCurrentUserName(currentUsername);
+
+		/**
+		 * bmob登陆
+		 */
+
+		loginBmob();
         
 		final long start = System.currentTimeMillis();
 		// call login method
@@ -184,7 +198,23 @@ public class LoginActivity extends BaseActivity {
 		});
 	}
 
-	
+	private void loginBmob() {
+		BmobUser bmobUser = new BmobUser();
+		bmobUser.setUsername(currentUsername);
+		bmobUser.setPassword(currentPassword);
+		bmobUser.login(new SaveListener<BmobUser>() {
+			@Override
+			public void done(BmobUser bmobUser, BmobException e) {
+				if (e == null){
+					DemoHelper.getInstance().setCurentBmobUserName(currentUsername);
+				}else {
+					ToastUtil.showShort(LoginActivity.this,e.getMessage());
+				}
+			}
+		});
+	}
+
+
 	/**
 	 * register
 	 * 
