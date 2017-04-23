@@ -8,26 +8,26 @@ package cn.bmob.aar;
 
 public final class R {
 	public static final class drawable {
-		public static final int bmob_update_btn_check_off_focused_holo_light = 0x7f020000;
-		public static final int bmob_update_btn_check_off_holo_light = 0x7f020001;
-		public static final int bmob_update_btn_check_off_pressed_holo_light = 0x7f020002;
-		public static final int bmob_update_btn_check_on_focused_holo_light = 0x7f020003;
-		public static final int bmob_update_btn_check_on_holo_light = 0x7f020004;
-		public static final int bmob_update_btn_check_on_pressed_holo_light = 0x7f020005;
-		public static final int bmob_update_button_cancel_bg_focused = 0x7f020006;
-		public static final int bmob_update_button_cancel_bg_normal = 0x7f020007;
-		public static final int bmob_update_button_cancel_bg_selector = 0x7f020008;
-		public static final int bmob_update_button_cancel_bg_tap = 0x7f020009;
-		public static final int bmob_update_button_check_selector = 0x7f02000a;
-		public static final int bmob_update_button_close_bg_selector = 0x7f02000b;
-		public static final int bmob_update_button_ok_bg_focused = 0x7f02000c;
-		public static final int bmob_update_button_ok_bg_normal = 0x7f02000d;
-		public static final int bmob_update_button_ok_bg_selector = 0x7f02000e;
-		public static final int bmob_update_button_ok_bg_tap = 0x7f02000f;
-		public static final int bmob_update_close_bg_normal = 0x7f020010;
-		public static final int bmob_update_close_bg_tap = 0x7f020011;
-		public static final int bmob_update_dialog_bg = 0x7f020012;
-		public static final int bmob_update_wifi_disable = 0x7f020013;
+		public static final int bmob_update_btn_check_off_focused_holo_light = 0x7f020001;
+		public static final int bmob_update_btn_check_off_holo_light = 0x7f020002;
+		public static final int bmob_update_btn_check_off_pressed_holo_light = 0x7f020003;
+		public static final int bmob_update_btn_check_on_focused_holo_light = 0x7f020004;
+		public static final int bmob_update_btn_check_on_holo_light = 0x7f020005;
+		public static final int bmob_update_btn_check_on_pressed_holo_light = 0x7f020006;
+		public static final int bmob_update_button_cancel_bg_focused = 0x7f020007;
+		public static final int bmob_update_button_cancel_bg_normal = 0x7f020008;
+		public static final int bmob_update_button_cancel_bg_selector = 0x7f020009;
+		public static final int bmob_update_button_cancel_bg_tap = 0x7f02000a;
+		public static final int bmob_update_button_check_selector = 0x7f02000b;
+		public static final int bmob_update_button_close_bg_selector = 0x7f02000c;
+		public static final int bmob_update_button_ok_bg_focused = 0x7f02000d;
+		public static final int bmob_update_button_ok_bg_normal = 0x7f02000e;
+		public static final int bmob_update_button_ok_bg_selector = 0x7f02000f;
+		public static final int bmob_update_button_ok_bg_tap = 0x7f020010;
+		public static final int bmob_update_close_bg_normal = 0x7f020011;
+		public static final int bmob_update_close_bg_tap = 0x7f020012;
+		public static final int bmob_update_dialog_bg = 0x7f020013;
+		public static final int bmob_update_wifi_disable = 0x7f020014;
 	}
 	public static final class id {
 		public static final int bmob_update_content = 0x7f0b0024;

@@ -64,6 +64,10 @@
         "source": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/exploded-aar/ARcard/easeui/unspecified/res/drawable-xhdpi-v4/ease_open_icon.png"
     },
     {
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi-v4/avator_bg.jpg",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-xhdpi/avator_bg.jpg"
+    },
+    {
         "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ease_chat_edit_normal.9.png",
         "source": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/exploded-aar/ARcard/easeui/unspecified/res/drawable-xhdpi-v4/ease_chat_edit_normal.9.png"
     },

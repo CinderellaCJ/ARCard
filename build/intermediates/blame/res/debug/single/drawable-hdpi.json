@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-hdpi/em_smiley_add_btn_pressed.png",
-        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-hdpi/em_smiley_add_btn_pressed.png"
-    },
-    {
         "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-hdpi/em_unread_count_bg.9.png",
         "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-hdpi/em_unread_count_bg.9.png"
+    },
+    {
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-hdpi/em_smiley_add_btn_pressed.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-hdpi/em_smiley_add_btn_pressed.png"
     },
     {
         "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-hdpi/icon_027_cover.png",

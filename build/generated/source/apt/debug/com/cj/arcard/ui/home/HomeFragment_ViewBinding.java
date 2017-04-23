@@ -16,9 +16,9 @@ import java.lang.Override;
 public class HomeFragment_ViewBinding<T extends HomeFragment> implements Unbinder {
   protected T target;
 
-  private View view2131427658;
+  private View view2131427660;
 
-  private View view2131427659;
+  private View view2131427661;
 
   @UiThread
   public HomeFragment_ViewBinding(final T target, View source) {
@@ -27,7 +27,7 @@ public class HomeFragment_ViewBinding<T extends HomeFragment> implements Unbinde
     View view;
     view = Utils.findRequiredView(source, R.id.radio_send, "field 'mRadioSend' and method 'onClick'");
     target.mRadioSend = Utils.castView(view, R.id.radio_send, "field 'mRadioSend'", RadioButton.class);
-    view2131427658 = view;
+    view2131427660 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -36,7 +36,7 @@ public class HomeFragment_ViewBinding<T extends HomeFragment> implements Unbinde
     });
     view = Utils.findRequiredView(source, R.id.radio_receiver, "field 'mRadioReceiver' and method 'onClick'");
     target.mRadioReceiver = Utils.castView(view, R.id.radio_receiver, "field 'mRadioReceiver'", RadioButton.class);
-    view2131427659 = view;
+    view2131427661 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -56,10 +56,10 @@ public class HomeFragment_ViewBinding<T extends HomeFragment> implements Unbinde
     target.mRadioReceiver = null;
     target.mRadioGroup = null;
 
-    view2131427658.setOnClickListener(null);
-    view2131427658 = null;
-    view2131427659.setOnClickListener(null);
-    view2131427659 = null;
+    view2131427660.setOnClickListener(null);
+    view2131427660 = null;
+    view2131427661.setOnClickListener(null);
+    view2131427661 = null;
 
     this.target = null;
   }

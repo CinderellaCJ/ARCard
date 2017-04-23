@@ -41,6 +41,7 @@ import com.easemob.redpacketui.utils.RedPacketUtil;
 import com.hyphenate.EMCallBack;
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMOptions;
+import com.hyphenate.easeui.utils.EaseUserUtils;
 import com.hyphenate.easeui.widget.EaseSwitchButton;
 import com.hyphenate.util.EMLog;
 
@@ -129,7 +130,16 @@ public class SettingsFragment extends Fragment implements OnClickListener {
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.em_fragment_conversation_settings, container, false);
         unbinder = ButterKnife.bind(this, view);
+
         return view;
+    }
+
+    @Override
+    public void onResume() {
+        super.onResume();
+
+        String username = EMClient.getInstance().getCurrentUser();
+        EaseUserUtils.setUserAvatar(getActivity(),username, myHeadAvatar);
     }
 
     @Override
@@ -198,6 +208,9 @@ public class SettingsFragment extends Fragment implements OnClickListener {
         rl_push_settings.setOnClickListener(this);
         ll_call_option.setOnClickListener(this);
         llChange.setOnClickListener(this);
+
+        String username = EMClient.getInstance().getCurrentUser();
+        EaseUserUtils.setUserAvatar(getActivity(),username, myHeadAvatar);
 
         // the vibrate and sound notification are allowed or not?
         if (settingsModel.getSettingMsgNotification()) {
@@ -494,5 +507,7 @@ public class SettingsFragment extends Fragment implements OnClickListener {
 
     @OnClick(R.id.my_head_avatar)
     public void onViewClicked() {
+        startActivity(new Intent(getActivity(), UserProfileActivity.class).putExtra("setting", true)
+                .putExtra("username", EMClient.getInstance().getCurrentUser()));
     }
 }

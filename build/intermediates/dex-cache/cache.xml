@@ -25,7 +25,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="dda27d8698cac4f5330e19b359d03e599e202773">
+        sha1="b17daff758e44ed83897610cfab4e06f362bce64">
         <dex dex="/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_02f213df6e526c5b7419242f9d0a60781bb2f543/classes.dex" />
     </item>
     <item
@@ -142,7 +142,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="c46cf8a9cf4b953af4f6b0ac42f9ab7a3a08b96d">
+        sha1="e457765e0f1d465f82c828f69b51c30da61e297f">
         <dex dex="/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_01613ac9a9df0cfc9ec0b978fcb8c545ef6fbd9b/classes.dex" />
     </item>
     <item

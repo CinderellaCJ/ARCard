@@ -268,12 +268,12 @@
         "source": "/Users/chenjing/Documents/android-workspace/ARCard/redpacketlibrary/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/rp_red_packet_records.png"
     },
     {
-        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/redpacketlibrary/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/rp_question_blue.png",
-        "source": "/Users/chenjing/Documents/android-workspace/ARCard/redpacketlibrary/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/rp_question_blue.png"
-    },
-    {
         "merged": "/Users/chenjing/Documents/android-workspace/ARCard/redpacketlibrary/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/rp_ad_share.png",
         "source": "/Users/chenjing/Documents/android-workspace/ARCard/redpacketlibrary/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/rp_ad_share.png"
+    },
+    {
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/redpacketlibrary/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/rp_question_blue.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/redpacketlibrary/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/rp_question_blue.png"
     },
     {
         "merged": "/Users/chenjing/Documents/android-workspace/ARCard/redpacketlibrary/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/rp_ad_success.png",

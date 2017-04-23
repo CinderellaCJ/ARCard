@@ -372,12 +372,12 @@
         "source": "/Users/chenjing/Documents/android-workspace/ARCard/res/drawable-hdpi/icon_029.gif"
     },
     {
-        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-hdpi-v4/ee_27.png",
-        "source": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/exploded-aar/ARcard/easeui/unspecified/res/drawable-hdpi-v4/ee_27.png"
-    },
-    {
         "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-hdpi-v4/ee_24.png",
         "source": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/exploded-aar/ARcard/easeui/unspecified/res/drawable-hdpi-v4/ee_24.png"
+    },
+    {
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-hdpi-v4/ee_27.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/exploded-aar/ARcard/easeui/unspecified/res/drawable-hdpi-v4/ee_27.png"
     },
     {
         "merged": "/Users/chenjing/Documents/android-workspace/ARCard/build/intermediates/res/merged/debug/drawable-hdpi-v4/ee_32.png",

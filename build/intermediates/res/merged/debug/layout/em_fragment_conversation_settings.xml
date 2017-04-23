@@ -20,6 +20,31 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="200dp"
+                android:background="@drawable/avator_bg">
+
+                <ImageView
+                    android:id="@+id/my_head_avatar"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="center_horizontal"
+                    android:src="@drawable/em_default_avatar"
+                    android:layout_marginTop="50dp"
+                    android:layout_centerHorizontal="true"/>
+
+                <TextView
+                    android:id="@+id/my_username"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/my_head_avatar"
+                    android:layout_centerHorizontal="true"
+                    />
+
+            </RelativeLayout>
+
             <LinearLayout
                 android:id="@+id/ll_change"
                 android:layout_width="match_parent"

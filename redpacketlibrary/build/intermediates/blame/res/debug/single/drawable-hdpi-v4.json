@@ -412,12 +412,12 @@
         "source": "/Users/chenjing/Documents/android-workspace/ARCard/redpacketlibrary/build/intermediates/exploded-aar/ARcard/easeui/unspecified/res/drawable-hdpi-v4/ease_chatfrom_voice_playing_f1.png"
     },
     {
-        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/redpacketlibrary/build/intermediates/res/merged/debug/drawable-hdpi-v4/ee_12.png",
-        "source": "/Users/chenjing/Documents/android-workspace/ARCard/redpacketlibrary/build/intermediates/exploded-aar/ARcard/easeui/unspecified/res/drawable-hdpi-v4/ee_12.png"
-    },
-    {
         "merged": "/Users/chenjing/Documents/android-workspace/ARCard/redpacketlibrary/build/intermediates/res/merged/debug/drawable-hdpi-v4/ee_15.png",
         "source": "/Users/chenjing/Documents/android-workspace/ARCard/redpacketlibrary/build/intermediates/exploded-aar/ARcard/easeui/unspecified/res/drawable-hdpi-v4/ee_15.png"
+    },
+    {
+        "merged": "/Users/chenjing/Documents/android-workspace/ARCard/redpacketlibrary/build/intermediates/res/merged/debug/drawable-hdpi-v4/ee_12.png",
+        "source": "/Users/chenjing/Documents/android-workspace/ARCard/redpacketlibrary/build/intermediates/exploded-aar/ARcard/easeui/unspecified/res/drawable-hdpi-v4/ee_12.png"
     },
     {
         "merged": "/Users/chenjing/Documents/android-workspace/ARCard/redpacketlibrary/build/intermediates/res/merged/debug/drawable-hdpi-v4/ease_msg_state_fail_resend.png",
